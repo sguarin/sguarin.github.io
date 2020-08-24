@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "C++ strategy using FreeRTOS Tasks over ESP32"
 date:   2020-08-24 00:57:03 -0300
-categories: jekyll update
+categories: ESP32 FreeRTOS
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
