@@ -22,6 +22,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://sguarin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sebasguarino
 github_username:  sguarin
+linkedin_username: sguarino
 
 # Build settings
 markdown: kramdown
@@ -41,3 +42,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
