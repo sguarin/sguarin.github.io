@@ -1,0 +1,2 @@
+export GEM_HOME=`dirname $0`/docs/.gems
+#PATH=$HOME/gems/bin:$PATH
