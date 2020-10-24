@@ -1,0 +1,29 @@
+
+
+# Set architecture
+ARCH=arm
+
+# Set Toolchain PATH
+TOOLCHAIN="/home/sguarin/usr/linux-embedded-labs/x-tools/arm-sguarin-linux-gnueabihf"
+
+# Kernel branch
+KERNEL_VERSION="linux-5.4.y"
+
+# Kernel defconfig to use
+KERNEL_DEFCONFIG="defconfig"
+
+# Local defconfig to add
+KERNEL_MYCONFIG="my_defconfig"
+
+# Busybox branch to use
+BUSYBOX_VERSION="1_32_stable"
+
+MAKEFLAGS="-j8"
+
+## End editable section ##
+
+export ARCH
+export MAKEFLAGS
+
+export CROSS_COMPILE="$(basename ${TOOLCHAIN})-"
+export PATH="${TOOLCHAIN}/bin:${PATH}"
