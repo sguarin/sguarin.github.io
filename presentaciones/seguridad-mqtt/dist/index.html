@@ -1,0 +1,19 @@
+<!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>reveal.js</title><link rel=stylesheet href=reveal/reset.css><link rel=stylesheet href=reveal/reveal.css><link rel=stylesheet href=reveal/theme/league.css id=theme><link rel=stylesheet href=plugin/highlight/monokai.css id=highlight-theme><link rel=stylesheet href=plugin/copycode/copycode.css><link rel=stylesheet href=myassets/mycss.css id=mycss></head><body><div class=reveal><div class=slides><section data-background=myassets/background.jpg><h3>Seguridad en MQTT</h3><p align=left style=margin:0><small>Sebastián Guarino</small></p><p align=left style=margin:0><small>Sistemas Embebidos Distribuidos - MSE - 2020</small></p></section><section data-markdown=myassets/intro.md data-separator-notes=^Notes: data-separator=^\n\n\n data-separator-vertical=^\n\n></section><section data-markdown=myassets/mqtt-tls.md data-separator-notes=^Notes: data-separator=^\n\n\n data-separator-vertical=^\n\n></section><section data-markdown=myassets/mqtt-tls-arduino.md data-separator-notes=^Notes: data-separator=^\n\n\n data-separator-vertical=^\n\n></section></div></div><script src=reveal/reveal.js></script><script src=plugin/notes/notes.js></script><script src=plugin/markdown/markdown.js></script><script src=plugin/highlight/highlight.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js></script><script src=plugin/copycode/copycode.js></script><script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				showSlideNumber: 'all',
+
+				margin: 0,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, CopyCode ]
+			});
+		</script></body></html>
