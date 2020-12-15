@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-15T01:11:15-03:00</updated><id>/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related with Electronics Engineering and Information Security.</subtitle><entry><title type="html">Presentation about MQTT Security (Spanish)</title><link href="/embedded/iot/2020/12/15/presentacion-seguridad-mqtt.html" rel="alternate" type="text/html" title="Presentation about MQTT Security (Spanish)" /><published>2020-12-15T00:00:00-03:00</published><updated>2020-12-15T00:00:00-03:00</updated><id>/embedded/iot/2020/12/15/presentacion-seguridad-mqtt</id><content type="html" xml:base="/embedded/iot/2020/12/15/presentacion-seguridad-mqtt.html">&lt;p&gt;&lt;a href=&quot;https://sguarin.github.io/presentaciones/seguridad-mqtt/&quot;&gt;Presentación&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Embedded" /><category term="IOT" /><summary type="html">Presentación</summary></entry><entry><title type="html">Write up presentation to build an embedded arm lab using Qemu (Spanish)</title><link href="/embedded/2020/10/05/presentation-qemu-arm.html" rel="alternate" type="text/html" title="Write up presentation to build an embedded arm lab using Qemu (Spanish)" /><published>2020-10-05T00:00:00-03:00</published><updated>2020-10-05T00:00:00-03:00</updated><id>/embedded/2020/10/05/presentation-qemu-arm</id><content type="html" xml:base="/embedded/2020/10/05/presentation-qemu-arm.html">&lt;p&gt;&lt;a href=&quot;https://sguarin.github.io/presentaciones/qemu-arm/&quot;&gt;Presentación&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Embedded" /><summary type="html">Presentación</summary></entry><entry><title type="html">Rooting Samsung A51 for mobile pentesting</title><link href="/mobile/pentest/2020/08/24/root_samsung_a51.html" rel="alternate" type="text/html" title="Rooting Samsung A51 for mobile pentesting" /><published>2020-08-24T00:57:03-03:00</published><updated>2020-08-24T00:57:03-03:00</updated><id>/mobile/pentest/2020/08/24/root_samsung_a51</id><content type="html" xml:base="/mobile/pentest/2020/08/24/root_samsung_a51.html">&lt;h2 id=&quot;samsung-a51&quot;&gt;Samsung A51&lt;/h2&gt;
+
+&lt;h3 id=&quot;unlocking-the-bootloader&quot;&gt;Unlocking the bootloader.&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Just in case activate Google Account and Samsung Accounts in the phone in case unlocking failure&lt;/li&gt;
+  &lt;li&gt;In Settings -&amp;gt; Phone info -&amp;gt; Software information -&amp;gt; Build number: press 7 times the option to activate Developer mode&lt;/li&gt;
+  &lt;li&gt;In Settings -&amp;gt; Developer mode:enable OEM Unlock/Desbloqueo OEM and USB Debug/Depuracion USB&lt;/li&gt;
+  &lt;li&gt;Shutdown phone by pressing Power and volume Down, and after that select Power off option.&lt;/li&gt;
+  &lt;li&gt;Press simultaneously volume down and up and then plug usb cable.&lt;/li&gt;
+  &lt;li&gt;Release buttons when Samsung screen apears.&lt;/li&gt;
+  &lt;li&gt;Press short volume up to go into download mode.&lt;/li&gt;
+  &lt;li&gt;Reconfigure and enable again developer mode (1 and 2).&lt;/li&gt;
+  &lt;li&gt;Verify OEM Unlock OEM its grayed out.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;rooting&quot;&gt;Rooting&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Install Magisk Manager:
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb install MagiskManager-v8.0.2.apk
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Install Samloader
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pip install git+https://github.com/nlscc/samloader.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Get samsung last update. At the time of this writing it works to me with this one. Unpack Firmware -&amp;gt; AP_* -&amp;gt; boot.img
+    &lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;samloader -m SM-A515F -r PSN checkupdate
+A515FXXU3BTI2/A515FOWB3BTH3/A515FXXU3BTH5/A515FXXU3BTI2
+samloader -m SM-A515F -r PSN download -v A515FXXU3BTI2/A515FOWB3BTH3/A515FXXU3BTH5/A515FXXU3BTI2 -O .
+samloader -m SM-A515F -r PSN decrypt  -v A515FXXU3BTI2/A515FOWB3BTH3/A515FXXU3BTH5/A515FXXU3BTI2 -i SM-A515F_1_20200910175004_86a4taxqdz_fac.zip.enc4 -o SM-A515F_1_20200910175004_86a4taxqdz_fac.zip
+unzip SM-A515F_1_20200910175004_86a4taxqdz_fac.zip -d SM-A515F_1_20200910175004_86a4taxqdz_fac
+cd SM-A515F_1_20200910175004_86a4taxqdz_fac
+mkdir -p AP_A515FXXU3BTI2_CL19494987_QB34065784_REV00_user_low_ship_meta_OS10
+cd AP_A515FXXU3BTI2_CL19494987_QB34065784_REV00_user_low_ship_meta_OS10
+tar -xf ../AP_A515FXXU3BTI2_CL19494987_QB34065784_REV00_user_low_ship_meta_OS10.tar.md5
+unlz4 boot.img.lz4
+cp boot.img boot-orig.img
+adb push boot.img /sdcard/Download
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From Magisk Manager, select Magisk -&amp;gt; Install -&amp;gt; “Select and Patch a File” and select the boot.img file and then tap on Start&lt;/li&gt;
+  &lt;li&gt;Copy patched file to PC
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb pull /sdcard/Download/magisk_patched.tar
+mv magisk_pathched.img boot.img
+tar -H ustar -c boot.img &amp;gt; boot.tar
+adb reboot bootloader
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Flash boot.tar with Odin in option AP. Auto Reboot must be off. I had some problems with Heimdal and my device.&lt;/li&gt;
+  &lt;li&gt;Enter recovery and Wipe Data (Factory Reset)&lt;/li&gt;
+  &lt;li&gt;Phone does one boot loop, and one slow boot&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;mitm-proxy-certificate-burp&quot;&gt;MITM Proxy certificate (Burp)&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Download last version of MagiskTrustUserCerts and copy to sdcard/Download (https://github.com/NVISO-BE/MagiskTrustUserCerts). At the tie of writing 0.4.1 is the last one.
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;wget https://github.com/NVISO-BE/MagiskTrustUserCerts/releases/download/v0.4.1/AlwaysTrustUserCerts.zip
+adb push AlwaysTrustUserCerts.zip /sdcard/Download/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Enter Magisk Manager, on the module tap install AlwaysTrustUserCerts.zip and reboot&lt;/li&gt;
+  &lt;li&gt;Configure Burp to listen to your ip address with conectivity to wifi network. Ensure your firewall is enabled for incoming connectiosn in the port configured.&lt;/li&gt;
+  &lt;li&gt;Save cacert of Burp and copy to phone
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb push cacert.der /sdcard/Download/cacert.crt
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Open Download folder with My Files app or the file manager you are using and open certificate and install it as VPN/Applications certificate.&lt;/li&gt;
+  &lt;li&gt;Reboot phone to leave AlwaysTrustUserCerts copy the certificate to system store&lt;/li&gt;
+  &lt;li&gt;Configure Wifi using PC Host IP address/Port as proxy&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;flashear-twrp-not-working-yet-waiting-new-version-of-twrp&quot;&gt;Flashear TWRP (NOT WORKING YET, waiting new version of TWRP)&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Download TWRP not oficial https://droidfilehost.com/download/download-unofficial-twrp-recovery-3-4-0-for-galaxy-a51/&lt;/li&gt;
+  &lt;li&gt;Press simultaneously volume down and up and then plug usb cable.&lt;/li&gt;
+  &lt;li&gt;Use heimdall-frontend:
+    &lt;ol&gt;
+      &lt;li&gt;Tab Utilities, Download archivo PIT&lt;/li&gt;
+      &lt;li&gt;Tab Flash, seleccionar archivo PIT.&lt;/li&gt;
+      &lt;li&gt;Add particion&lt;/li&gt;
+      &lt;li&gt;Select Recovery&lt;/li&gt;
+      &lt;li&gt;Choose recovery.img&lt;/li&gt;
+      &lt;li&gt;Click Start&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="Mobile" /><category term="Pentest" /><summary type="html">Samsung A51</summary></entry></feed>
