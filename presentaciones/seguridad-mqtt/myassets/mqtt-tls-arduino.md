@@ -50,7 +50,6 @@ const char *server_fingerprint = "B8:9C:7D:12:B3:A0:19:D3:DF:9A:34:89:0B:62:2A:C
 
 WiFiClientSecure client;
 MQTTClient mqttclient;
-netssl.setCACert(caCert);
 
 mqttclient.begin("broker.sguarin.com.ar", 8883, client);
 mqttclient.connect("esp32", "miusuario", "miclave");
@@ -117,7 +116,7 @@ mqttclient.connect("esp32", "miusuario", "miclave");
 | TLS sin validación | No requiere config en firmware | Inseguro |
 | TLS con finger | Verificación liviana | Mantenibilidad |
 | TLS con CA | Baja mantenibilidad | Requiere mas recursos |
-| TLS PSK | Verificación liviana | Configuración inicial |
+| TLS PSK | Verificación liviana | Configuración inicial particular |
 
 
 ## Demo
