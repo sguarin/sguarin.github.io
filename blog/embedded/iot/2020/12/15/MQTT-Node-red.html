@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Avoiding SQL Injections: MQTT + Node-red + SQL database | Sebastián Guarino Blog</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Avoiding SQL Injections: MQTT + Node-red + SQL database" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Introduction" />
+<meta property="og:description" content="Introduction" />
+<link rel="canonical" href="/blog/embedded/iot/2020/12/15/MQTT-Node-red.html" />
+<meta property="og:url" content="/blog/embedded/iot/2020/12/15/MQTT-Node-red.html" />
+<meta property="og:site_name" content="Sebastián Guarino Blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-12-15T00:00:00-03:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Avoiding SQL Injections: MQTT + Node-red + SQL database" />
+<script type="application/ld+json">
+{"url":"/blog/embedded/iot/2020/12/15/MQTT-Node-red.html","mainEntityOfPage":{"@type":"WebPage","@id":"/blog/embedded/iot/2020/12/15/MQTT-Node-red.html"},"description":"Introduction","@type":"BlogPosting","headline":"Avoiding SQL Injections: MQTT + Node-red + SQL database","dateModified":"2020-12-15T00:00:00-03:00","datePublished":"2020-12-15T00:00:00-03:00","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/blog/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/blog/feed.xml" title="Sebastián Guarino Blog" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/blog/">Sebastián Guarino Blog</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/blog/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Avoiding SQL Injections: MQTT + Node-red + SQL database</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2020-12-15T00:00:00-03:00" itemprop="datePublished">Dec 15, 2020
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h2 id="introduction">Introduction</h2>
+
+<p>Last year I have been working on an embedded solution of remote sensing electric and physical parameters. In <a href="https://sguarin.github.io/presentaciones/seguridad-mqtt/">this</a> presentation I talked about differents aproachs to implement MQTT/TLS connection with authentication validation between an embedded solution and a broker. The examples were presented using ESP32 and the arduino framework.</p>
+
+<p>The entire solution was originaly conceived as an embedded system, a python service and an ELK stack (Elasticsearch, Logstash and Kibana). I needed to implement an escalable flow from MQTT messages to a PostgreSQL database using Node-red, in order to adapt the embedded solution to an infrastructure currently used by the customer.</p>
+
+<p>The following research consists in testing sql injections via MQTT using Mosquitto, Node-red and PostgreSQL in a docker composed lab, but it can be extended to other implementations.  The messesges are received via MQTT broker, processed in Node-red and stored on a SQL database.</p>
+
+<p>I explored differents Node-red flows found implemented on the customer and in different tutorials and resources found on internet.</p>
+
+<p>I noticed that security on MQTT is not taken seriously as in http/web. There are a lots of free and open brokers sometimes used for production. Knowledge of valid messages are available to anyone getting subscribed to the topic. An attacker could view and use that kwnowledge to replay the messages trying some injections.</p>
+
+<p>After testing against sql injections, I will present some vulnerable scenarios, mitigations and good implementations.</p>
+
+<p>The laboratory provided in this repository requires docker-compose, and instantiates three containers:</p>
+<ul>
+  <li>Mosquitto broker without authentication exposed on port 1884</li>
+  <li>Node-red without authentication exposed in port 1881</li>
+  <li>Postgresql with with a testing database smr exposed in port 5433., accesed with user:smmruser, and password:smmruser00</li>
+</ul>
+
+<p>All services are exposed for academic testing purposes. You can use or adapt this lab, to test your implementations.</p>
+
+<h2 id="starting-environment">Starting environment</h2>
+
+<p>You can run the clients inside the container or you can install mosquitto and postgresql client on your computer. The commands presented uses the second aproach.</p>
+
+<p>The lab can be cloned from: <a href="https://github.com/sguarin/machine-mqtt-node-red/">https://github.com/sguarin/machine-mqtt-node-red/</a></p>
+
+<p>For each test, you can reset and start a fresh scenario by stopping (CTRL-C on docker-compose terminal) and running again:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker-compose up -V
+</code></pre></div></div>
+
+<p>After the containers started, you can connect to the database running the following command and using ‘smmruser00’ as password:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>psql -h localhost -p 5433 -U smmruser -d smr
+</code></pre></div></div>
+
+<p>Once connected to the database, you can check the initial 10 records in the table smr.air by running:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>select * from smr.air;
+
+</code></pre></div></div>
+
+<p>You will get:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>smr=# select * from smr.air;
+ device |         ts          | lat | long | alt | sensor | co2 | tvoc | temp  |  hum  |   pres    |        imported_on         
+--------+---------------------+-----+------+-----+--------+-----+------+-------+-------+-----------+----------------------------
+ bme680 | 2021-04-18 00:00:01 |     |      |     | co2    | 765 |    1 |  35.1 | 40.58 |    101451 | 2021-04-17 21:00:01.008461
+ bme680 | 2021-04-18 00:00:02 |     |      |     | co2    | 764 |    1 | 35.09 | 40.61 |    101455 | 2021-04-17 21:00:02.009756
+ bme680 | 2021-04-18 00:00:03 |     |      |     | co2    | 768 |    1 |  35.1 | 40.58 |    101453 | 2021-04-17 21:00:03.009452
+ bme680 | 2021-04-18 00:00:04 |     |      |     | co2    | 772 |    1 | 35.09 | 40.62 |    101451 | 2021-04-17 21:00:04.013557
+ bme680 | 2021-04-18 00:00:05 |     |      |     | co2    | 772 |    1 | 35.09 | 40.62 |    101451 | 2021-04-17 21:00:05.009002
+ ccs811 | 2021-04-18 00:00:01 |     |      |     | co2    | 413 |    1 | 30.81 |  61.8 | 101483.88 | 2021-04-17 21:00:00.846486
+ ccs811 | 2021-04-18 00:00:02 |     |      |     | co2    | 418 |    2 | 30.81 |  61.8 | 101480.47 | 2021-04-17 21:00:01.8454
+ ccs811 | 2021-04-18 00:00:03 |     |      |     | co2    | 418 |    2 |  30.8 |  61.8 |  101479.3 | 2021-04-17 21:00:02.851117
+ ccs811 | 2021-04-18 00:00:04 |     |      |     | co2    | 415 |    2 |  30.8 |  61.8 | 101480.59 | 2021-04-17 21:00:03.845351
+ ccs811 | 2021-04-18 00:00:05 |     |      |     | co2    | 406 |    0 |  30.8 |  61.8 | 101481.78 | 2021-04-17 21:00:04.848899
+</code></pre></div></div>
+
+<p>Optionaly, you can connnect to http://localhost:1881 to interact in Node-red web gui and play around with each implementation.</p>
+
+<p>After you got the lab running, you can run each test by running the apropiate mosquitto client commands.</p>
+
+<h2 id="test-1-csv--js-concatenation">Test 1: CSV + JS concatenation</h2>
+
+<p><img src="/blog/assets/2021-05-03-test1.png" alt="Test 1" /></p>
+
+<p>This is the more basic aproach, we receive a comma separated value message, then we construct the query concatenating the values and feed the PosgreSQL node.</p>
+
+<p><img src="/blog/assets/2021-05-03-test1_code.png" alt="Test 1 code" /></p>
+
+<p>I was very surprised reading this aproach on lot of blogs and forums without noticing the security issues involved.</p>
+
+<p>In a normal use, you can simulate a message running the following command on your host machine:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test1 -m "ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27"
+</code></pre></div></div>
+
+<p>You can now verify, that there are 11 records on the table with the query command described previosly.</p>
+
+<p>After running the following simple attack you can verify that all records were deleted on the database.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test1 -m "ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27); delete from smr.air--"
+</code></pre></div></div>
+
+<p>Of course there is no reflection neither a blind response on this injection, so you can’t guess the table name. I choosed this payload for academic purpose, but there are lots of payloads from testing for admin privileges, using postgresql functions, etc.</p>
+
+<p>For example you can use pg_sleep to prevent the transaction from being commited inmediately, and get the thread and connection resource blocked in an iddle state for x seconds.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test1 -m "ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27); select pg_sleep(60)--"
+</code></pre></div></div>
+
+<p>Abusing with multiple use of this payload may get a denial of service.</p>
+
+<h2 id="test-2-csv--template-block">Test 2: CSV + Template block</h2>
+
+<p>The second aproach I found googling is using the Template node:</p>
+
+<p><img src="/blog/assets/2021-05-03-test2.png" alt="Test 2" /></p>
+
+<p><img src="/blog/assets/2021-05-03-test2_code.png" alt="Test 2 code" /></p>
+
+<p>You can try the same MQTT messages on previous test but on topic test2 instead. You will get the same results.</p>
+
+<h2 id="test-3-sqlstring-node">Test 3: SQLString Node</h2>
+
+<p><img src="/blog/assets/2021-05-03-test3.png" alt="Test 2" /></p>
+
+<p>SQLString node is an optional node-red module already installed on the lab:
+It works well on strings, but if you need to store numeric values you need to cast them back.</p>
+
+<p><img src="/blog/assets/2021-05-03-test3_code.png" alt="Test 3 code" /></p>
+
+<p>This aproach handles all parameters as strings, then does quote escaping (‘co2’’ as ‘co2'’) and finally construct the query.
+You can’t use the dollar sign quote or other bypass techniques as it handles all the columns as strings adding two final quotes.</p>
+
+<p>Is not very efficient because all the numeric values are treated as strings, so you need to cast them again back to numeric for proper storage.</p>
+
+<p>An attempt to an injection may cause some logging overloads. Nothing serious.</p>
+
+<p>I could not got a succesfull sql injection with this implementation.</p>
+
+<h2 id="test-4-json--js-concatenation">Test 4: JSON + JS concatenation</h2>
+
+<p><img src="/blog/assets/2021-05-03-test4.png" alt="Test 4" /></p>
+
+<p>Similar as the first test case, but when I tried it, I was wondering if the json node block will do some sanity checks. Unfortunately not.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test4 -m '{"device":"ccs811","ts":"2021-04-18 01:33:57","sensor":"co2","co2":1559,"tvoc":212,"temp":31.61,"hum":59.83,"pres":101543.27}'
+</code></pre></div></div>
+
+<p>Attack:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test4 -m '{"device":"ccs811","ts":"2021-04-18 01:33:57","sensor":"co2","co2":1559,"tvoc":212,"temp":31.61,"hum":59.83,"pres":"101543.27);delete from smr.air --"}'
+</code></pre></div></div>
+
+<h2 id="test-5-js-separate-query-from-params">Test 5: JS Separate query from params</h2>
+
+<p><img src="/blog/assets/2021-05-03-test5.png" alt="Test 4" /></p>
+
+<p>Well, by definition this should be the first aproach. Separating the query from the parameters that can be injected from external entities is by definition the “defensive programming” against SQL injections.</p>
+
+<p>At the time of this writing, the documentation of <a href="https://flows.nodered.org/node/node-red-contrib-re-postgres">node-red-contrib-re-postgres</a> mention this, but lacks of some examples.
+This is an example of building a dictionary with the parameters and on the other hand construct the query. The dictionary keys can be referenced from the query as $key.</p>
+
+<p><img src="/blog/assets/2021-05-03-test5_code.png" alt="Test 4" /></p>
+
+<p>Valid packet for testing:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test4 -m '{"device":"ccs811","ts":"2021-04-18 01:33:57","sensor":"co2","co2":1559,"tvoc":212,"temp":31.61,"hum":59.83,"pres":101543.27}'
+</code></pre></div></div>
+
+<p>Rejected attack:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test5 -m '{"device":"ccs811","ts":"2021-04-18 01:33:57","sensor":"co2","co2":1559,"tvoc":212,"temp":31.61,"hum":59.83,"pres":"101543.27);delete from smr.air --"}'
+</code></pre></div></div>
+
+<p>You can also test some payloads near a string parameter verifying that commands also can’t be injected.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> ccs811 | 2021-04-18 01:33:57 |     |      |     | co2'); --     | 1559 |  212 | 31.61 | 59.83 | 101543.27 | 
+ ccs811 | 2021-04-18 01:33:57 |     |      |     | co2$$a$$); -- | 1559 |  212 | 31.61 | 59.83 | 101543.27 | 
+</code></pre></div></div>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Programming with gui frameworks open the posibility to program to more public. But unoficial tutorials or documentation tend to appear substancially, in this case with lot of security conccerns.</p>
+
+<p>In my opinion the last aproach is the more suitable for dealing with MQTT and storing in SQL databases besides is not very well documented.</p>
+
+<p>I hope this lab and tutorial helps to explain how injections could be performed via MQTT protocol.</p>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li>https://owasp.org/www-community/attacks/SQL_Injection</li>
+  <li>https://www.infigo.hr/files/INFIGO-TD-2009-04_PostgreSQL_injection_ENG.pdf</li>
+</ul>
+
+
+  </div><a class="u-url" href="/blog/embedded/iot/2020/12/15/MQTT-Node-red.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/blog/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Sebastián Guarino Blog</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Sebastián Guarino Blog</li><li><a class="u-email" href="mailto:junkmail@sguarin.com.ar">junkmail@sguarin.com.ar</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/sguarin"><svg class="svg-icon"><use xlink:href="/blog/assets/minima-social-icons.svg#github"></use></svg> <span class="username">sguarin</span></a></li><li><a href="https://www.linkedin.com/in/sebasguarino"><svg class="svg-icon"><use xlink:href="/blog/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">sebasguarino</span></a></li><li><a href="https://www.twitter.com/sebasguarino"><svg class="svg-icon"><use xlink:href="/blog/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">sebasguarino</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Here you will find some articles related to Electronics Engineering and Information Security.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
