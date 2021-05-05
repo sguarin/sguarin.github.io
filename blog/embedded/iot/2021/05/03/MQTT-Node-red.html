@@ -53,9 +53,9 @@
 
 <p>The entire solution was originaly conceived as an embedded system, a python service and an ELK stack (Elasticsearch, Logstash and Kibana). I needed to implement an escalable flow from MQTT messages to a PostgreSQL database using Node-red, in order to adapt the embedded solution to an infrastructure currently used by the customer.</p>
 
-<p>The following research consists in testing sql injections via MQTT using Mosquitto, Node-red and PostgreSQL in a docker composed lab, but it can be extended to other implementations.  The messesges are received via MQTT broker, processed in Node-red and stored on a SQL database.</p>
+<p>The following research consists in testing sql injections via MQTT using Mosquitto, Node-red and PostgreSQL in a docker composed lab, but it can be extended to other implementations.  The messages are received via MQTT broker, processed in Node-red and stored on a SQL database.</p>
 
-<p>I explored differents Node-red flows found implemented on the customer and in different tutorials and resources found on internet.</p>
+<p>I explored differents Node-red flows found implemented on the customer and in different tutorials/resources found on internet.</p>
 
 <p>I noticed that security on MQTT is not taken seriously as in http/web. There are a lots of free and open brokers sometimes used for production. Knowledge of valid messages are available to anyone getting subscribed to the topic. An attacker could view and use that kwnowledge to replay the messages trying some injections.</p>
 
