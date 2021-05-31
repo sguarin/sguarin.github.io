@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-05-31T20:19:39-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;h1 id=&quot;electronica-de-consumo&quot;&gt;Electronica de consumo&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-05-31T20:24:02-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;h2 id=&quot;electronica-de-consumo&quot;&gt;Electronica de consumo&lt;/h2&gt;
 
-&lt;h2 id=&quot;televisor-philco-24-full-hd-pld2416htx&quot;&gt;Televisor Philco 24” Full HD PLD2416HTX&lt;/h2&gt;
+&lt;h3 id=&quot;televisor-philco-24-full-hd-pld2416htx&quot;&gt;Televisor Philco 24” Full HD PLD2416HTX&lt;/h3&gt;
 
 &lt;p&gt;Buen estado. 2 entradas HDMI, entrada de cable, control remoto&lt;/p&gt;
 
@@ -8,9 +8,9 @@
 
 &lt;p&gt;Precio: $12.000&lt;/p&gt;
 
-&lt;h1 id=&quot;electronica&quot;&gt;Electronica&lt;/h1&gt;
+&lt;h2 id=&quot;electronica&quot;&gt;Electronica&lt;/h2&gt;
 
-&lt;h2 id=&quot;spartan-3e-starter-kit&quot;&gt;Spartan 3E Starter Kit&lt;/h2&gt;
+&lt;h3 id=&quot;spartan-3e-starter-kit&quot;&gt;Spartan 3E Starter Kit&lt;/h3&gt;
 &lt;p&gt;Kit super completo, conector de alta frecuencia, placa adaptadora&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf&quot;&gt;https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf&lt;/a&gt;&lt;/p&gt;
@@ -21,7 +21,7 @@
 
 &lt;p&gt;Precio: USD 100&lt;/p&gt;
 
-&lt;h2 id=&quot;digilent-arty-z7&quot;&gt;Digilent Arty Z7&lt;/h2&gt;
+&lt;h3 id=&quot;digilent-arty-z7&quot;&gt;Digilent Arty Z7&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/&quot;&gt;https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/arty_z7.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
@@ -30,7 +30,7 @@
 
 &lt;p&gt;Precio venta: USD 226&lt;/p&gt;
 
-&lt;h2 id=&quot;estación-de-soldado-aoyue-968-smd-digital-hot-air-rework-station&quot;&gt;Estación de soldado Aoyue 968+ SMD Digital Hot Air Rework Station&lt;/h2&gt;
+&lt;h3 id=&quot;estación-de-soldado-aoyue-968-smd-digital-hot-air-rework-station&quot;&gt;Estación de soldado Aoyue 968+ SMD Digital Hot Air Rework Station&lt;/h3&gt;
 &lt;p&gt;Kit completo con juego de puntas, bocas de aire, resistencia, mangueras de repuesto sin usar y accesorios.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/-/es/gp/product/B00KEY17VI/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;https://www.amazon.com/-/es/gp/product/B00KEY17VI/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&amp;amp;psc=1&lt;/a&gt;&lt;/p&gt;
@@ -39,7 +39,7 @@
 
 &lt;p&gt;Precio USD 216&lt;/p&gt;
 
-&lt;h2 id=&quot;osciloscopio-rigol-ds1102e-100mhz-2ch&quot;&gt;Osciloscopio Rigol DS1102E (100Mhz 2Ch)&lt;/h2&gt;
+&lt;h3 id=&quot;osciloscopio-rigol-ds1102e-100mhz-2ch&quot;&gt;Osciloscopio Rigol DS1102E (100Mhz 2Ch)&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.rigolna.com/products/digital-oscilloscopes/1000/&quot;&gt;https://www.rigolna.com/products/digital-oscilloscopes/1000/&lt;/a&gt;&lt;/p&gt;
 
@@ -47,14 +47,14 @@
 
 &lt;p&gt;Precio: ?&lt;/p&gt;
 
-&lt;h2 id=&quot;generador-de-señales-juntek-jds-2900-60-mhz&quot;&gt;Generador de señales Juntek JDS-2900 60 Mhz&lt;/h2&gt;
+&lt;h3 id=&quot;generador-de-señales-juntek-jds-2900-60-mhz&quot;&gt;Generador de señales Juntek JDS-2900 60 Mhz&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.amazon.es/gp/product/B07GFJNCHG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;https://www.amazon.es/gp/product/B07GFJNCHG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Precio referencia: 125 euros (Europa sin envio)&lt;/p&gt;
 
 &lt;p&gt;Precio: USD 160&lt;/p&gt;
 
-&lt;h2 id=&quot;raspberry-pi-3-kit&quot;&gt;Raspberry Pi 3 Kit&lt;/h2&gt;
+&lt;h3 id=&quot;raspberry-pi-3-kit&quot;&gt;Raspberry Pi 3 Kit&lt;/h3&gt;
 &lt;p&gt;Con fuente, disipadores y case.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/-/es/gp/product/B01C6EQNNK/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&amp;amp;psc=1&quot;&gt;https://www.amazon.com/-/es/gp/product/B01C6EQNNK/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&amp;amp;psc=1&lt;/a&gt;&lt;/p&gt;
@@ -63,76 +63,78 @@
 
 &lt;p&gt;Precio: USD 65&lt;/p&gt;
 
-&lt;h2 id=&quot;scanner-de-radio-icom-pcr-100&quot;&gt;Scanner de radio ICOM PCR-100&lt;/h2&gt;
+&lt;h3 id=&quot;scanner-de-radio-icom-pcr-100&quot;&gt;Scanner de radio ICOM PCR-100&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.icomamerica.com/es/downloads/default.aspx?Category=241&quot;&gt;https://www.icomamerica.com/es/downloads/default.aspx?Category=241&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Precio: ?&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Electronica de consumo</summary></entry><entry><title type="html">Renault Koleos</title><link href="/blog/personal/2021/05/30/Koleos.html" rel="alternate" type="text/html" title="Renault Koleos" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Koleos</id><content type="html" xml:base="/blog/personal/2021/05/30/Koleos.html"># Renault Koleos PH3 Dynamique Plus 4x4 CVT - 73.000Km
-* Excelente estado. Andarla para creer.
-* Todos los services oficiales con comprobantes.
-* Cubiertas nuevas y originales Kuhmo
+&lt;p&gt;Precio: ?&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Electronica de consumo</summary></entry><entry><title type="html">Renault Koleos</title><link href="/blog/personal/2021/05/30/Koleos.html" rel="alternate" type="text/html" title="Renault Koleos" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Koleos</id><content type="html" xml:base="/blog/personal/2021/05/30/Koleos.html">&lt;h1 id=&quot;renault-koleos-ph3-dynamique-plus-4x4-cvt---73000km&quot;&gt;Renault Koleos PH3 Dynamique Plus 4x4 CVT - 73.000Km&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Excelente estado. Andarla para creer.&lt;/li&gt;
+  &lt;li&gt;Todos los services oficiales con comprobantes.&lt;/li&gt;
+  &lt;li&gt;Cubiertas nuevas y originales Kuhmo&lt;/li&gt;
+&lt;/ul&gt;
 
-## Caracteristicas
-* Transmisión automatica CVT (no se sienten los cambios)
-* Techo de vidrio delantero corredizo
-* Techo de vidrio trasero fijo
-* Velocidad crucero y limitador de velocidad
-* Estabilizador
-* Asistencia en pendiente
-* Modo de tracción seleccionable: automatico, simple, o 4x4 forzado
+&lt;h2 id=&quot;caracteristicas&quot;&gt;Caracteristicas&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Transmisión automatica CVT (no se sienten los cambios)&lt;/li&gt;
+  &lt;li&gt;Techo de vidrio delantero corredizo&lt;/li&gt;
+  &lt;li&gt;Techo de vidrio trasero fijo&lt;/li&gt;
+  &lt;li&gt;Velocidad crucero y limitador de velocidad&lt;/li&gt;
+  &lt;li&gt;Estabilizador&lt;/li&gt;
+  &lt;li&gt;Asistencia en pendiente&lt;/li&gt;
+  &lt;li&gt;Modo de tracción seleccionable: automatico, simple, o 4x4 forzado&lt;/li&gt;
+&lt;/ul&gt;
 
-![Foto]({{ site.baseurl }}/assets/Koleos/1.jpg)
-![Foto]({{ site.baseurl }}/assets/Koleos/2.jpg)
-![Foto]({{ site.baseurl }}/assets/Koleos/3.jpg)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/Koleos/1.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Koleos/2.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Koleos/3.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
-Precio: USD 14.500</content><author><name></name></author><category term="personal" /><summary type="html">Renault Koleos PH3 Dynamique Plus 4x4 CVT - 73.000Km Excelente estado. Andarla para creer. Todos los services oficiales con comprobantes. Cubiertas nuevas y originales Kuhmo</summary></entry><entry><title type="html">Avoiding SQL Injections: MQTT + Node-red + SQL database</title><link href="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html" rel="alternate" type="text/html" title="Avoiding SQL Injections: MQTT + Node-red + SQL database" /><published>2021-05-03T00:00:00-03:00</published><updated>2021-05-03T00:00:00-03:00</updated><id>/blog/embedded/iot/2021/05/03/MQTT-Node-red</id><content type="html" xml:base="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html">## Introduction
+&lt;p&gt;Precio: USD 14.500&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Renault Koleos PH3 Dynamique Plus 4x4 CVT - 73.000Km Excelente estado. Andarla para creer. Todos los services oficiales con comprobantes. Cubiertas nuevas y originales Kuhmo</summary></entry><entry><title type="html">Avoiding SQL Injections: MQTT + Node-red + SQL database</title><link href="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html" rel="alternate" type="text/html" title="Avoiding SQL Injections: MQTT + Node-red + SQL database" /><published>2021-05-03T00:00:00-03:00</published><updated>2021-05-03T00:00:00-03:00</updated><id>/blog/embedded/iot/2021/05/03/MQTT-Node-red</id><content type="html" xml:base="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
-Last year I have been working on an embedded solution of remote sensing electric and physical parameters. In [this](https://sguarin.github.io/presentaciones/seguridad-mqtt/) presentation I talked about differents aproachs to implement MQTT/TLS connection with authentication validation between an embedded solution and a broker. The examples were presented using ESP32 and the arduino framework.
+&lt;p&gt;Last year I have been working on an embedded solution of remote sensing electric and physical parameters. In &lt;a href=&quot;https://sguarin.github.io/presentaciones/seguridad-mqtt/&quot;&gt;this&lt;/a&gt; presentation I talked about differents aproachs to implement MQTT/TLS connection with authentication validation between an embedded solution and a broker. The examples were presented using ESP32 and the arduino framework.&lt;/p&gt;
 
-The entire solution was originaly conceived as an embedded system, a python service and an ELK stack (Elasticsearch, Logstash and Kibana). I needed to implement an escalable flow from MQTT messages to a PostgreSQL database using Node-red, in order to adapt the embedded solution to an infrastructure currently used by the customer.
+&lt;p&gt;The entire solution was originaly conceived as an embedded system, a python service and an ELK stack (Elasticsearch, Logstash and Kibana). I needed to implement an escalable flow from MQTT messages to a PostgreSQL database using Node-red, in order to adapt the embedded solution to an infrastructure currently used by the customer.&lt;/p&gt;
 
-The following research consists in testing sql injections via MQTT using Mosquitto, Node-red and PostgreSQL in a docker composed lab, but it can be extended to other implementations.  The messages are received via MQTT broker, processed in Node-red and stored on a SQL database.
+&lt;p&gt;The following research consists in testing sql injections via MQTT using Mosquitto, Node-red and PostgreSQL in a docker composed lab, but it can be extended to other implementations.  The messages are received via MQTT broker, processed in Node-red and stored on a SQL database.&lt;/p&gt;
 
-I explored differents Node-red flows found implemented on the customer and in different tutorials/resources found on internet.
+&lt;p&gt;I explored differents Node-red flows found implemented on the customer and in different tutorials/resources found on internet.&lt;/p&gt;
 
-I noticed that security on MQTT is not taken seriously as in http/web. There are a lots of free and open brokers sometimes used for production. Knowledge of valid messages are available to anyone getting subscribed to the topic. An attacker could view and use that kwnowledge to replay the messages trying some injections.
+&lt;p&gt;I noticed that security on MQTT is not taken seriously as in http/web. There are a lots of free and open brokers sometimes used for production. Knowledge of valid messages are available to anyone getting subscribed to the topic. An attacker could view and use that kwnowledge to replay the messages trying some injections.&lt;/p&gt;
 
-After testing against sql injections, I will present some vulnerable scenarios, mitigations and good implementations.
+&lt;p&gt;After testing against sql injections, I will present some vulnerable scenarios, mitigations and good implementations.&lt;/p&gt;
 
-The laboratory provided in this repository requires docker-compose, and instantiates three containers:
-* Mosquitto broker without authentication exposed on port 1884
-* Node-red without authentication exposed in port 1881
-* Postgresql with with a testing database smr exposed in port 5433., accesed with user:smmruser, and password:smmruser00
+&lt;p&gt;The laboratory provided in this repository requires docker-compose, and instantiates three containers:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mosquitto broker without authentication exposed on port 1884&lt;/li&gt;
+  &lt;li&gt;Node-red without authentication exposed in port 1881&lt;/li&gt;
+  &lt;li&gt;Postgresql with with a testing database smr exposed in port 5433., accesed with user:smmruser, and password:smmruser00&lt;/li&gt;
+&lt;/ul&gt;
 
-All services are exposed for academic testing purposes. You can use or adapt this lab, to test your implementations.
+&lt;p&gt;All services are exposed for academic testing purposes. You can use or adapt this lab, to test your implementations.&lt;/p&gt;
 
-## Starting environment
+&lt;h2 id=&quot;starting-environment&quot;&gt;Starting environment&lt;/h2&gt;
 
-You can run the clients inside the container or you can install mosquitto and postgresql client on your computer. The commands presented uses the second aproach.
+&lt;p&gt;You can run the clients inside the container or you can install mosquitto and postgresql client on your computer. The commands presented uses the second aproach.&lt;/p&gt;
 
-The lab can be cloned from: [https://github.com/sguarin/machine-mqtt-node-red/](https://github.com/sguarin/machine-mqtt-node-red/)
+&lt;p&gt;The lab can be cloned from: &lt;a href=&quot;https://github.com/sguarin/machine-mqtt-node-red/&quot;&gt;https://github.com/sguarin/machine-mqtt-node-red/&lt;/a&gt;&lt;/p&gt;
 
-For each test, you can reset and start a fresh scenario by stopping (CTRL-C on docker-compose terminal) and running again:
+&lt;p&gt;For each test, you can reset and start a fresh scenario by stopping (CTRL-C on docker-compose terminal) and running again:&lt;/p&gt;
 
-```
-docker-compose up -V
-```
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;docker-compose up -V
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-After the containers started, you can connect to the database running the following command and using 'smmruser00' as password:
+&lt;p&gt;After the containers started, you can connect to the database running the following command and using ‘smmruser00’ as password:&lt;/p&gt;
 
-```
-psql -h localhost -p 5433 -U smmruser -d smr
-```
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;psql -h localhost -p 5433 -U smmruser -d smr
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-Once connected to the database, you can check the initial 10 records in the table smr.air by running:
+&lt;p&gt;Once connected to the database, you can check the initial 10 records in the table smr.air by running:&lt;/p&gt;
 
-```
-select * from smr.air;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;select * from smr.air;
 
-```
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-You will get:
-```
-smr=# select * from smr.air;
+&lt;p&gt;You will get:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;smr=# select * from smr.air;
  device |         ts          | lat | long | alt | sensor | co2 | tvoc | temp  |  hum  |   pres    |        imported_on         
 --------+---------------------+-----+------+-----+--------+-----+------+-------+-------+-----------+----------------------------
  bme680 | 2021-04-18 00:00:01 |     |      |     | co2    | 765 |    1 |  35.1 | 40.58 |    101451 | 2021-04-17 21:00:01.008461
@@ -145,183 +147,178 @@ smr=# select * from smr.air;
  ccs811 | 2021-04-18 00:00:03 |     |      |     | co2    | 418 |    2 |  30.8 |  61.8 |  101479.3 | 2021-04-17 21:00:02.851117
  ccs811 | 2021-04-18 00:00:04 |     |      |     | co2    | 415 |    2 |  30.8 |  61.8 | 101480.59 | 2021-04-17 21:00:03.845351
  ccs811 | 2021-04-18 00:00:05 |     |      |     | co2    | 406 |    0 |  30.8 |  61.8 | 101481.78 | 2021-04-17 21:00:04.848899
-```
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-Optionaly, you can connnect to http://localhost:1881 to interact in Node-red web gui and play around with each implementation.
+&lt;p&gt;Optionaly, you can connnect to http://localhost:1881 to interact in Node-red web gui and play around with each implementation.&lt;/p&gt;
 
-After you got the lab running, you can run each test by running the apropiate mosquitto client commands.
+&lt;p&gt;After you got the lab running, you can run each test by running the apropiate mosquitto client commands.&lt;/p&gt;
 
-## Test 1: CSV + JS concatenation
+&lt;h2 id=&quot;test-1-csv--js-concatenation&quot;&gt;Test 1: CSV + JS concatenation&lt;/h2&gt;
 
-![Test 1](/blog/assets/2021-05-03-test1.png)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test1.png&quot; alt=&quot;Test 1&quot; /&gt;&lt;/p&gt;
 
-This is the more basic aproach, we receive a comma separated value message, then we construct the query concatenating the values and feed the PosgreSQL node.
+&lt;p&gt;This is the more basic aproach, we receive a comma separated value message, then we construct the query concatenating the values and feed the PosgreSQL node.&lt;/p&gt;
 
-![Test 1 code](/blog/assets/2021-05-03-test1_code.png)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test1_code.png&quot; alt=&quot;Test 1 code&quot; /&gt;&lt;/p&gt;
 
-I was very surprised reading this aproach on lot of blogs and forums without noticing the security issues involved.
+&lt;p&gt;I was very surprised reading this aproach on lot of blogs and forums without noticing the security issues involved.&lt;/p&gt;
 
-In a normal use, you can simulate a message running the following command on your host machine:
+&lt;p&gt;In a normal use, you can simulate a message running the following command on your host machine:&lt;/p&gt;
 
-```
-mosquitto_pub -h localhost -p 1884 -t test1 -m &quot;ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27&quot;
-```
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test1 -m &quot;ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-You can now verify, that there are 11 records on the table with the query command described previosly.
+&lt;p&gt;You can now verify, that there are 11 records on the table with the query command described previosly.&lt;/p&gt;
 
-After running the following simple attack you can verify that all records were deleted on the database.
+&lt;p&gt;After running the following simple attack you can verify that all records were deleted on the database.&lt;/p&gt;
 
-```
-mosquitto_pub -h localhost -p 1884 -t test1 -m &quot;ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27); delete from smr.air--&quot;
-```
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test1 -m &quot;ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27); delete from smr.air--&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-Of course there is no reflection neither a blind response on this injection, so you can't guess the table name. I choosed this payload for academic purpose, but there are lots of payloads from testing for admin privileges, using postgresql functions, etc.
+&lt;p&gt;Of course there is no reflection neither a blind response on this injection, so you can’t guess the table name. I choosed this payload for academic purpose, but there are lots of payloads from testing for admin privileges, using postgresql functions, etc.&lt;/p&gt;
 
-For example you can use pg_sleep to prevent the transaction from being commited inmediately, and get the thread and connection resource blocked in an iddle state for x seconds.
+&lt;p&gt;For example you can use pg_sleep to prevent the transaction from being commited inmediately, and get the thread and connection resource blocked in an iddle state for x seconds.&lt;/p&gt;
 
-```
-mosquitto_pub -h localhost -p 1884 -t test1 -m &quot;ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27); select pg_sleep(60)--&quot;
-```
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test1 -m &quot;ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27); select pg_sleep(60)--&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-Abusing with multiple use of this payload may get a denial of service.
+&lt;p&gt;Abusing with multiple use of this payload may get a denial of service.&lt;/p&gt;
 
-## Test 2: CSV + Template block
+&lt;h2 id=&quot;test-2-csv--template-block&quot;&gt;Test 2: CSV + Template block&lt;/h2&gt;
 
-The second aproach I found googling is using the Template node:
+&lt;p&gt;The second aproach I found googling is using the Template node:&lt;/p&gt;
 
-![Test 2](/blog/assets/2021-05-03-test2.png)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test2.png&quot; alt=&quot;Test 2&quot; /&gt;&lt;/p&gt;
 
-![Test 2 code](/blog/assets/2021-05-03-test2_code.png)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test2_code.png&quot; alt=&quot;Test 2 code&quot; /&gt;&lt;/p&gt;
 
-You can try the same MQTT messages on previous test but on topic test2 instead. You will get the same results.
+&lt;p&gt;You can try the same MQTT messages on previous test but on topic test2 instead. You will get the same results.&lt;/p&gt;
 
-## Test 3: SQLString Node
+&lt;h2 id=&quot;test-3-sqlstring-node&quot;&gt;Test 3: SQLString Node&lt;/h2&gt;
 
-![Test 2](/blog/assets/2021-05-03-test3.png)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test3.png&quot; alt=&quot;Test 2&quot; /&gt;&lt;/p&gt;
 
-SQLString node is an optional node-red module already installed on the lab:
-It works well on strings, but if you need to store numeric values you need to cast them back.
+&lt;p&gt;SQLString node is an optional node-red module already installed on the lab:
+It works well on strings, but if you need to store numeric values you need to cast them back.&lt;/p&gt;
 
-![Test 3 code](/blog/assets/2021-05-03-test3_code.png)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test3_code.png&quot; alt=&quot;Test 3 code&quot; /&gt;&lt;/p&gt;
 
-This aproach handles all parameters as strings, then does quote escaping ('co2'' as 'co2\'') and finally construct the query.
-You can't use the dollar sign quote or other bypass techniques as it handles all the columns as strings adding two final quotes.
+&lt;p&gt;This aproach handles all parameters as strings, then does quote escaping (‘co2’’ as ‘co2'’) and finally construct the query.
+You can’t use the dollar sign quote or other bypass techniques as it handles all the columns as strings adding two final quotes.&lt;/p&gt;
 
-Is not very efficient because all the numeric values are treated as strings, so you need to cast them again back to numeric for proper storage.
+&lt;p&gt;Is not very efficient because all the numeric values are treated as strings, so you need to cast them again back to numeric for proper storage.&lt;/p&gt;
 
-An attempt to an injection may cause some logging overloads. Nothing serious.
+&lt;p&gt;An attempt to an injection may cause some logging overloads. Nothing serious.&lt;/p&gt;
 
-I could not got a succesfull sql injection with this implementation.
+&lt;p&gt;I could not got a succesfull sql injection with this implementation.&lt;/p&gt;
 
-## Test 4: JSON + JS concatenation
+&lt;h2 id=&quot;test-4-json--js-concatenation&quot;&gt;Test 4: JSON + JS concatenation&lt;/h2&gt;
 
-![Test 4](/blog/assets/2021-05-03-test4.png)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test4.png&quot; alt=&quot;Test 4&quot; /&gt;&lt;/p&gt;
 
-Similar as the first test case, but when I tried it, I was wondering if the json node block will do some sanity checks. Unfortunately not.
+&lt;p&gt;Similar as the first test case, but when I tried it, I was wondering if the json node block will do some sanity checks. Unfortunately not.&lt;/p&gt;
 
-```
-mosquitto_pub -h localhost -p 1884 -t test4 -m '{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:101543.27}'
-```
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test4 -m '{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:101543.27}'
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-Attack:
+&lt;p&gt;Attack:&lt;/p&gt;
 
-```
-mosquitto_pub -h localhost -p 1884 -t test4 -m '{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:&quot;101543.27);delete from smr.air --&quot;}'
-```
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test4 -m '{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:&quot;101543.27);delete from smr.air --&quot;}'
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-## Test 5: JS Separate query from params
+&lt;h2 id=&quot;test-5-js-separate-query-from-params&quot;&gt;Test 5: JS Separate query from params&lt;/h2&gt;
 
-![Test 4](/blog/assets/2021-05-03-test5.png)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test5.png&quot; alt=&quot;Test 4&quot; /&gt;&lt;/p&gt;
 
-Well, by definition this should be the first aproach. Separating the query from the parameters that can be injected from external entities is by definition the &quot;defensive programming&quot; against SQL injections.
+&lt;p&gt;Well, by definition this should be the first aproach. Separating the query from the parameters that can be injected from external entities is by definition the “defensive programming” against SQL injections.&lt;/p&gt;
 
-At the time of this writing, the documentation of [node-red-contrib-re-postgres](https://flows.nodered.org/node/node-red-contrib-re-postgres) mention this, but lacks of some examples.
-This is an example of building a dictionary with the parameters and on the other hand construct the query. The dictionary keys can be referenced from the query as $key.
+&lt;p&gt;At the time of this writing, the documentation of &lt;a href=&quot;https://flows.nodered.org/node/node-red-contrib-re-postgres&quot;&gt;node-red-contrib-re-postgres&lt;/a&gt; mention this, but lacks of some examples.
+This is an example of building a dictionary with the parameters and on the other hand construct the query. The dictionary keys can be referenced from the query as $key.&lt;/p&gt;
 
-![Test 4](/blog/assets/2021-05-03-test5_code.png)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test5_code.png&quot; alt=&quot;Test 4&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;Valid packet for testing:&lt;/p&gt;
 
-Valid packet for testing:
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test4 -m '{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:101543.27}'
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-```
-mosquitto_pub -h localhost -p 1884 -t test4 -m '{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:101543.27}'
-```
+&lt;p&gt;Rejected attack:&lt;/p&gt;
 
-Rejected attack:
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test5 -m '{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:&quot;101543.27);delete from smr.air --&quot;}'
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-```
-mosquitto_pub -h localhost -p 1884 -t test5 -m '{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:&quot;101543.27);delete from smr.air --&quot;}'
-```
+&lt;p&gt;You can also test some payloads near a string parameter verifying that commands also can’t be injected.&lt;/p&gt;
 
-You can also test some payloads near a string parameter verifying that commands also can't be injected.
-
-```
- ccs811 | 2021-04-18 01:33:57 |     |      |     | co2'); --     | 1559 |  212 | 31.61 | 59.83 | 101543.27 | 
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ccs811 | 2021-04-18 01:33:57 |     |      |     | co2'); --     | 1559 |  212 | 31.61 | 59.83 | 101543.27 | 
  ccs811 | 2021-04-18 01:33:57 |     |      |     | co2$$a$$); -- | 1559 |  212 | 31.61 | 59.83 | 101543.27 | 
-```
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-## Conclusion
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
-Programming with gui frameworks open the posibility to program to more public. But unoficial tutorials or documentation tend to appear substancially, in this case with lot of security conccerns.
+&lt;p&gt;Programming with gui frameworks open the posibility to program to more public. But unoficial tutorials or documentation tend to appear substancially, in this case with lot of security conccerns.&lt;/p&gt;
 
-In my opinion the last aproach is the more suitable for dealing with MQTT and storing in SQL databases besides is not very well documented.
+&lt;p&gt;In my opinion the last aproach is the more suitable for dealing with MQTT and storing in SQL databases besides is not very well documented.&lt;/p&gt;
 
-I hope this lab and tutorial helps to explain how injections could be performed via MQTT protocol.
+&lt;p&gt;I hope this lab and tutorial helps to explain how injections could be performed via MQTT protocol.&lt;/p&gt;
 
-## References
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
-* https://owasp.org/www-community/attacks/SQL_Injection
-* https://www.infigo.hr/files/INFIGO-TD-2009-04_PostgreSQL_injection_ENG.pdf</content><author><name></name></author><category term="Embedded" /><category term="IOT" /><summary type="html">Introduction</summary></entry><entry><title type="html">Presentation about MQTT Security (Spanish)</title><link href="/blog/embedded/iot/2020/12/15/presentacion-seguridad-mqtt.html" rel="alternate" type="text/html" title="Presentation about MQTT Security (Spanish)" /><published>2020-12-15T00:00:00-03:00</published><updated>2020-12-15T00:00:00-03:00</updated><id>/blog/embedded/iot/2020/12/15/presentacion-seguridad-mqtt</id><content type="html" xml:base="/blog/embedded/iot/2020/12/15/presentacion-seguridad-mqtt.html">[Presentación](https://sguarin.github.io/presentaciones/seguridad-mqtt/)</content><author><name></name></author><category term="Embedded" /><category term="IOT" /><summary type="html">Presentación</summary></entry><entry><title type="html">Write up presentation to build an embedded arm lab using Qemu (Spanish)</title><link href="/blog/embedded/2020/10/05/presentation-qemu-arm.html" rel="alternate" type="text/html" title="Write up presentation to build an embedded arm lab using Qemu (Spanish)" /><published>2020-10-05T00:00:00-03:00</published><updated>2020-10-05T00:00:00-03:00</updated><id>/blog/embedded/2020/10/05/presentation-qemu-arm</id><content type="html" xml:base="/blog/embedded/2020/10/05/presentation-qemu-arm.html">[Presentación](https://sguarin.github.io/presentaciones/qemu-arm/)</content><author><name></name></author><category term="Embedded" /><summary type="html">Presentación</summary></entry><entry><title type="html">Monitoring system for transport - Sistema de monitoreo de material rodante</title><link href="/blog/embedded/2020/08/28/smmr.html" rel="alternate" type="text/html" title="Monitoring system for transport - Sistema de monitoreo de material rodante" /><published>2020-08-28T00:00:00-03:00</published><updated>2020-08-28T00:00:00-03:00</updated><id>/blog/embedded/2020/08/28/smmr</id><content type="html" xml:base="/blog/embedded/2020/08/28/smmr.html">## SMMR
+&lt;ul&gt;
+  &lt;li&gt;https://owasp.org/www-community/attacks/SQL_Injection&lt;/li&gt;
+  &lt;li&gt;https://www.infigo.hr/files/INFIGO-TD-2009-04_PostgreSQL_injection_ENG.pdf&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Embedded" /><category term="IOT" /><summary type="html">Introduction</summary></entry><entry><title type="html">Presentation about MQTT Security (Spanish)</title><link href="/blog/embedded/iot/2020/12/15/presentacion-seguridad-mqtt.html" rel="alternate" type="text/html" title="Presentation about MQTT Security (Spanish)" /><published>2020-12-15T00:00:00-03:00</published><updated>2020-12-15T00:00:00-03:00</updated><id>/blog/embedded/iot/2020/12/15/presentacion-seguridad-mqtt</id><content type="html" xml:base="/blog/embedded/iot/2020/12/15/presentacion-seguridad-mqtt.html">&lt;p&gt;&lt;a href=&quot;https://sguarin.github.io/presentaciones/seguridad-mqtt/&quot;&gt;Presentación&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Embedded" /><category term="IOT" /><summary type="html">Presentación</summary></entry><entry><title type="html">Write up presentation to build an embedded arm lab using Qemu (Spanish)</title><link href="/blog/embedded/2020/10/05/presentation-qemu-arm.html" rel="alternate" type="text/html" title="Write up presentation to build an embedded arm lab using Qemu (Spanish)" /><published>2020-10-05T00:00:00-03:00</published><updated>2020-10-05T00:00:00-03:00</updated><id>/blog/embedded/2020/10/05/presentation-qemu-arm</id><content type="html" xml:base="/blog/embedded/2020/10/05/presentation-qemu-arm.html">&lt;p&gt;&lt;a href=&quot;https://sguarin.github.io/presentaciones/qemu-arm/&quot;&gt;Presentación&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Embedded" /><summary type="html">Presentación</summary></entry><entry><title type="html">Monitoring system for transport - Sistema de monitoreo de material rodante</title><link href="/blog/embedded/2020/08/28/smmr.html" rel="alternate" type="text/html" title="Monitoring system for transport - Sistema de monitoreo de material rodante" /><published>2020-08-28T00:00:00-03:00</published><updated>2020-08-28T00:00:00-03:00</updated><id>/blog/embedded/2020/08/28/smmr</id><content type="html" xml:base="/blog/embedded/2020/08/28/smmr.html">&lt;h2 id=&quot;smmr&quot;&gt;SMMR&lt;/h2&gt;
 
-CASE is a congress on embedded systems that takes place within the scope of the Argentine Symposium on Embedded Systems (SASE), since 2011.
+&lt;p&gt;CASE is a congress on embedded systems that takes place within the scope of the Argentine Symposium on Embedded Systems (SASE), since 2011.&lt;/p&gt;
 
-Every year it receives dozens of research and development works, in different categories.
+&lt;p&gt;Every year it receives dozens of research and development works, in different categories.&lt;/p&gt;
 
-On 2019 I worked on an embedded system to monitor air quality on public transports. It is a full stack development: hardware, embedded software, comunications and an IOT panel based on ELK stack.
+&lt;p&gt;On 2019 I worked on an embedded system to monitor air quality on public transports. It is a full stack development: hardware, embedded software, comunications and an IOT panel based on ELK stack.&lt;/p&gt;
 
-The following is a rendered image of the PCB 3D model designed using Kicad.
+&lt;p&gt;The following is a rendered image of the PCB 3D model designed using Kicad.&lt;/p&gt;
 
-![SMMR]({{site.baseurl}}/assets/2020-08-28-smmr.png)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2020-08-28-smmr.png&quot; alt=&quot;SMMR&quot; /&gt;&lt;/p&gt;
 
-This year the work was presented and accepted as a report in the congress.
+&lt;p&gt;This year the work was presented and accepted as a report in the congress.&lt;/p&gt;
 
-In the following links you can get the details, report and poster.
+&lt;p&gt;In the following links you can get the details, report and poster.&lt;/p&gt;
 
-[CASE 2020](http://www.sase.com.ar/case/ediciones/case2020/trabajos2020/)
+&lt;p&gt;&lt;a href=&quot;http://www.sase.com.ar/case/ediciones/case2020/trabajos2020/&quot;&gt;CASE 2020&lt;/a&gt;&lt;/p&gt;
 
-[SMMR Report](https://drive.google.com/file/d/15l4kSLfoUMNCDmlHPm18k_cDuUhnqqIZ/view?usp=drivesdk)
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/15l4kSLfoUMNCDmlHPm18k_cDuUhnqqIZ/view?usp=drivesdk&quot;&gt;SMMR Report&lt;/a&gt;&lt;/p&gt;
 
-[SMMR Poster](https://drive.google.com/file/d/1Fu2-tABYHicCca7ucwhItcxlHTUfKY_D/view?usp=drivesdk)
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Fu2-tABYHicCca7ucwhItcxlHTUfKY_D/view?usp=drivesdk&quot;&gt;SMMR Poster&lt;/a&gt;&lt;/p&gt;
 
-Also in relation with the work, I have developed a CCS811 Linux device driver. It was used for comparison and testing performance of the sensor. It can be found here:
+&lt;p&gt;Also in relation with the work, I have developed a CCS811 Linux device driver. It was used for comparison and testing performance of the sensor. It can be found here:&lt;/p&gt;
 
-[https://github.com/sguarin/ccs811-linux-driver](https://github.com/sguarin/ccs811-linux-driver)</content><author><name></name></author><category term="Embedded" /><summary type="html">SMMR</summary></entry><entry><title type="html">Rooting Samsung A51 for mobile pentesting</title><link href="/blog/mobile/pentest/2020/08/24/root_samsung_a51.html" rel="alternate" type="text/html" title="Rooting Samsung A51 for mobile pentesting" /><published>2020-08-24T00:57:03-03:00</published><updated>2020-08-24T00:57:03-03:00</updated><id>/blog/mobile/pentest/2020/08/24/root_samsung_a51</id><content type="html" xml:base="/blog/mobile/pentest/2020/08/24/root_samsung_a51.html">## Samsung A51
+&lt;p&gt;&lt;a href=&quot;https://github.com/sguarin/ccs811-linux-driver&quot;&gt;https://github.com/sguarin/ccs811-linux-driver&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Embedded" /><summary type="html">SMMR</summary></entry><entry><title type="html">Rooting Samsung A51 for mobile pentesting</title><link href="/blog/mobile/pentest/2020/08/24/root_samsung_a51.html" rel="alternate" type="text/html" title="Rooting Samsung A51 for mobile pentesting" /><published>2020-08-24T00:57:03-03:00</published><updated>2020-08-24T00:57:03-03:00</updated><id>/blog/mobile/pentest/2020/08/24/root_samsung_a51</id><content type="html" xml:base="/blog/mobile/pentest/2020/08/24/root_samsung_a51.html">&lt;h2 id=&quot;samsung-a51&quot;&gt;Samsung A51&lt;/h2&gt;
 
-### Unlocking the bootloader.
+&lt;h3 id=&quot;unlocking-the-bootloader&quot;&gt;Unlocking the bootloader.&lt;/h3&gt;
 
-1. Just in case activate Google Account and Samsung Accounts in the phone in case unlocking failure
-2. In Settings -&gt; Phone info -&gt; Software information -&gt; Build number: press 7 times the option to activate Developer mode
-3. In Settings -&gt; Developer mode:enable OEM Unlock/Desbloqueo OEM and USB Debug/Depuracion USB
-4. Shutdown phone by pressing Power and volume Down, and after that select Power off option.
-5. Press simultaneously volume down and up and then plug usb cable.
-6. Release buttons when Samsung screen apears.
-7. Press short volume up to go into download mode.
-8. Reconfigure and enable again developer mode (1 and 2).
-9. Verify OEM Unlock OEM its grayed out.
+&lt;ol&gt;
+  &lt;li&gt;Just in case activate Google Account and Samsung Accounts in the phone in case unlocking failure&lt;/li&gt;
+  &lt;li&gt;In Settings -&amp;gt; Phone info -&amp;gt; Software information -&amp;gt; Build number: press 7 times the option to activate Developer mode&lt;/li&gt;
+  &lt;li&gt;In Settings -&amp;gt; Developer mode:enable OEM Unlock/Desbloqueo OEM and USB Debug/Depuracion USB&lt;/li&gt;
+  &lt;li&gt;Shutdown phone by pressing Power and volume Down, and after that select Power off option.&lt;/li&gt;
+  &lt;li&gt;Press simultaneously volume down and up and then plug usb cable.&lt;/li&gt;
+  &lt;li&gt;Release buttons when Samsung screen apears.&lt;/li&gt;
+  &lt;li&gt;Press short volume up to go into download mode.&lt;/li&gt;
+  &lt;li&gt;Reconfigure and enable again developer mode (1 and 2).&lt;/li&gt;
+  &lt;li&gt;Verify OEM Unlock OEM its grayed out.&lt;/li&gt;
+&lt;/ol&gt;
 
-### Rooting
+&lt;h3 id=&quot;rooting&quot;&gt;Rooting&lt;/h3&gt;
 
-1. Install Magisk Manager:
-```
-adb install MagiskManager-v8.0.2.apk
-```
-2. Install Samloader
-```
-pip install git+https://github.com/nlscc/samloader.git
-```
-3. Get samsung last update. At the time of this writing it works to me with this one. Unpack Firmware -&gt; AP_* -&gt; boot.img
-```text
-samloader -m SM-A515F -r PSN checkupdate
+&lt;ol&gt;
+  &lt;li&gt;Install Magisk Manager:
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb install MagiskManager-v8.0.2.apk
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Install Samloader
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pip install git+https://github.com/nlscc/samloader.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Get samsung last update. At the time of this writing it works to me with this one. Unpack Firmware -&amp;gt; AP_* -&amp;gt; boot.img
+    &lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;samloader -m SM-A515F -r PSN checkupdate
 A515FXXU3BTI2/A515FOWB3BTH3/A515FXXU3BTH5/A515FXXU3BTI2
 samloader -m SM-A515F -r PSN download -v A515FXXU3BTI2/A515FOWB3BTH3/A515FXXU3BTH5/A515FXXU3BTI2 -O .
 samloader -m SM-A515F -r PSN decrypt  -v A515FXXU3BTI2/A515FOWB3BTH3/A515FXXU3BTH5/A515FXXU3BTI2 -i SM-A515F_1_20200910175004_86a4taxqdz_fac.zip.enc4 -o SM-A515F_1_20200910175004_86a4taxqdz_fac.zip
@@ -333,44 +330,53 @@ tar -xf ../AP_A515FXXU3BTI2_CL19494987_QB34065784_REV00_user_low_ship_meta_OS10.
 unlz4 boot.img.lz4
 cp boot.img boot-orig.img
 adb push boot.img /sdcard/Download
-```
-4. From Magisk Manager, select Magisk -&gt; Install -&gt; “Select and Patch a File” and select the boot.img file and then tap on Start
-5. Copy patched file to PC
-```
-adb pull /sdcard/Download/magisk_patched.tar
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From Magisk Manager, select Magisk -&amp;gt; Install -&amp;gt; “Select and Patch a File” and select the boot.img file and then tap on Start&lt;/li&gt;
+  &lt;li&gt;Copy patched file to PC
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb pull /sdcard/Download/magisk_patched.tar
 mv magisk_pathched.img boot.img
-tar -H ustar -c boot.img &gt; boot.tar
+tar -H ustar -c boot.img &amp;gt; boot.tar
 adb reboot bootloader
-```
-6. Flash boot.tar with Odin in option AP. Auto Reboot must be off. I had some problems with Heimdal and my device.
-7. Enter recovery and Wipe Data (Factory Reset)
-8. Phone does one boot loop, and one slow boot
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Flash boot.tar with Odin in option AP. Auto Reboot must be off. I had some problems with Heimdal and my device.&lt;/li&gt;
+  &lt;li&gt;Enter recovery and Wipe Data (Factory Reset)&lt;/li&gt;
+  &lt;li&gt;Phone does one boot loop, and one slow boot&lt;/li&gt;
+&lt;/ol&gt;
 
-### MITM Proxy certificate (Burp)
+&lt;h3 id=&quot;mitm-proxy-certificate-burp&quot;&gt;MITM Proxy certificate (Burp)&lt;/h3&gt;
 
-1. Download last version of MagiskTrustUserCerts and copy to sdcard/Download (https://github.com/NVISO-BE/MagiskTrustUserCerts). At the tie of writing 0.4.1 is the last one.
-```
-wget https://github.com/NVISO-BE/MagiskTrustUserCerts/releases/download/v0.4.1/AlwaysTrustUserCerts.zip
+&lt;ol&gt;
+  &lt;li&gt;Download last version of MagiskTrustUserCerts and copy to sdcard/Download (https://github.com/NVISO-BE/MagiskTrustUserCerts). At the tie of writing 0.4.1 is the last one.
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;wget https://github.com/NVISO-BE/MagiskTrustUserCerts/releases/download/v0.4.1/AlwaysTrustUserCerts.zip
 adb push AlwaysTrustUserCerts.zip /sdcard/Download/
-```
-2. Enter Magisk Manager, on the module tap install AlwaysTrustUserCerts.zip and reboot
-3. Configure Burp to listen to your ip address with conectivity to wifi network. Ensure your firewall is enabled for incoming connectiosn in the port configured.
-4. Save cacert of Burp and copy to phone
-```
-adb push cacert.der /sdcard/Download/cacert.crt
-```
-5. Open Download folder with My Files app or the file manager you are using and open certificate and install it as VPN/Applications certificate.
-6. Reboot phone to leave AlwaysTrustUserCerts copy the certificate to system store
-7. Configure Wifi using PC Host IP address/Port as proxy
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Enter Magisk Manager, on the module tap install AlwaysTrustUserCerts.zip and reboot&lt;/li&gt;
+  &lt;li&gt;Configure Burp to listen to your ip address with conectivity to wifi network. Ensure your firewall is enabled for incoming connectiosn in the port configured.&lt;/li&gt;
+  &lt;li&gt;Save cacert of Burp and copy to phone
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb push cacert.der /sdcard/Download/cacert.crt
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Open Download folder with My Files app or the file manager you are using and open certificate and install it as VPN/Applications certificate.&lt;/li&gt;
+  &lt;li&gt;Reboot phone to leave AlwaysTrustUserCerts copy the certificate to system store&lt;/li&gt;
+  &lt;li&gt;Configure Wifi using PC Host IP address/Port as proxy&lt;/li&gt;
+&lt;/ol&gt;
 
-### Flashear TWRP (NOT WORKING YET, waiting new version of TWRP)
+&lt;h3 id=&quot;flashear-twrp-not-working-yet-waiting-new-version-of-twrp&quot;&gt;Flashear TWRP (NOT WORKING YET, waiting new version of TWRP)&lt;/h3&gt;
 
-1. Download TWRP not oficial https://droidfilehost.com/download/download-unofficial-twrp-recovery-3-4-0-for-galaxy-a51/
-2. Press simultaneously volume down and up and then plug usb cable.
-3. Use heimdall-frontend:
-    1. Tab Utilities, Download archivo PIT
-    2. Tab Flash, seleccionar archivo PIT.
-    3. Add particion
-    4. Select Recovery
-    5. Choose recovery.img
-    6. Click Start</content><author><name></name></author><category term="Mobile" /><category term="Pentest" /><summary type="html">Samsung A51</summary></entry></feed>
+&lt;ol&gt;
+  &lt;li&gt;Download TWRP not oficial https://droidfilehost.com/download/download-unofficial-twrp-recovery-3-4-0-for-galaxy-a51/&lt;/li&gt;
+  &lt;li&gt;Press simultaneously volume down and up and then plug usb cable.&lt;/li&gt;
+  &lt;li&gt;Use heimdall-frontend:
+    &lt;ol&gt;
+      &lt;li&gt;Tab Utilities, Download archivo PIT&lt;/li&gt;
+      &lt;li&gt;Tab Flash, seleccionar archivo PIT.&lt;/li&gt;
+      &lt;li&gt;Add particion&lt;/li&gt;
+      &lt;li&gt;Select Recovery&lt;/li&gt;
+      &lt;li&gt;Choose recovery.img&lt;/li&gt;
+      &lt;li&gt;Click Start&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="Mobile" /><category term="Pentest" /><summary type="html">Samsung A51</summary></entry></feed>
