@@ -1,72 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-05-31T20:17:48-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/2021/05/30/Garage_Sale.html"># Electronica de consumo
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-05-31T20:19:39-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;h1 id=&quot;electronica-de-consumo&quot;&gt;Electronica de consumo&lt;/h1&gt;
 
-## Televisor Philco 24&quot; Full HD PLD2416HTX
+&lt;h2 id=&quot;televisor-philco-24-full-hd-pld2416htx&quot;&gt;Televisor Philco 24” Full HD PLD2416HTX&lt;/h2&gt;
 
-Buen estado. 2 entradas HDMI, entrada de cable, control remoto
+&lt;p&gt;Buen estado. 2 entradas HDMI, entrada de cable, control remoto&lt;/p&gt;
 
-![Foto]({{ site.baseurl }}/assets/Garage_Sale/tvphilco.jpg)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/tvphilco.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
-Precio: $12.000
+&lt;p&gt;Precio: $12.000&lt;/p&gt;
 
-# Electronica
+&lt;h1 id=&quot;electronica&quot;&gt;Electronica&lt;/h1&gt;
 
-## Spartan 3E Starter Kit
-Kit super completo, conector de alta frecuencia, placa adaptadora
+&lt;h2 id=&quot;spartan-3e-starter-kit&quot;&gt;Spartan 3E Starter Kit&lt;/h2&gt;
+&lt;p&gt;Kit super completo, conector de alta frecuencia, placa adaptadora&lt;/p&gt;
 
-&lt;https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf&quot;&gt;https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf&lt;/a&gt;&lt;/p&gt;
 
-![Foto]({{ site.baseurl }}/assets/Garage_Sale/spartan3_starter1.jpg)
-![Foto]({{ site.baseurl }}/assets/Garage_Sale/spartan3_starter2.jpg)
-![Foto]({{ site.baseurl }}/assets/Garage_Sale/spartan3_starter3.jpg)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/spartan3_starter1.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale/spartan3_starter2.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale/spartan3_starter3.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
-Precio: USD 100
+&lt;p&gt;Precio: USD 100&lt;/p&gt;
 
-## Digilent Arty Z7
-&lt;https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/&gt;
+&lt;h2 id=&quot;digilent-arty-z7&quot;&gt;Digilent Arty Z7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/&quot;&gt;https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/&lt;/a&gt;&lt;/p&gt;
 
-![Foto]({{ site.baseurl }}/assets/Garage_Sale/arty_z7.jpg)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/arty_z7.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
-Precio referencia: USD 169 (USA + USD 57 envio),
+&lt;p&gt;Precio referencia: USD 169 (USA + USD 57 envio),&lt;/p&gt;
 
-Precio venta: USD 226
+&lt;p&gt;Precio venta: USD 226&lt;/p&gt;
 
-## Estación de soldado Aoyue 968+ SMD Digital Hot Air Rework Station
-Kit completo con juego de puntas, bocas de aire, resistencia, mangueras de repuesto sin usar y accesorios.
+&lt;h2 id=&quot;estación-de-soldado-aoyue-968-smd-digital-hot-air-rework-station&quot;&gt;Estación de soldado Aoyue 968+ SMD Digital Hot Air Rework Station&lt;/h2&gt;
+&lt;p&gt;Kit completo con juego de puntas, bocas de aire, resistencia, mangueras de repuesto sin usar y accesorios.&lt;/p&gt;
 
-&lt;https://www.amazon.com/-/es/gp/product/B00KEY17VI/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&amp;psc=1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/-/es/gp/product/B00KEY17VI/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;https://www.amazon.com/-/es/gp/product/B00KEY17VI/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&amp;amp;psc=1&lt;/a&gt;&lt;/p&gt;
 
-Precio referencia: USD 186 (USA sin envio)
+&lt;p&gt;Precio referencia: USD 186 (USA sin envio)&lt;/p&gt;
 
-Precio USD 216
+&lt;p&gt;Precio USD 216&lt;/p&gt;
 
-## Osciloscopio Rigol DS1102E (100Mhz 2Ch)
+&lt;h2 id=&quot;osciloscopio-rigol-ds1102e-100mhz-2ch&quot;&gt;Osciloscopio Rigol DS1102E (100Mhz 2Ch)&lt;/h2&gt;
 
-&lt;https://www.rigolna.com/products/digital-oscilloscopes/1000/&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.rigolna.com/products/digital-oscilloscopes/1000/&quot;&gt;https://www.rigolna.com/products/digital-oscilloscopes/1000/&lt;/a&gt;&lt;/p&gt;
 
-Precio referencia: USD 299 (USA sin envio)
+&lt;p&gt;Precio referencia: USD 299 (USA sin envio)&lt;/p&gt;
 
-Precio: ?
+&lt;p&gt;Precio: ?&lt;/p&gt;
 
-## Generador de señales Juntek JDS-2900 60 Mhz
-&lt;https://www.amazon.es/gp/product/B07GFJNCHG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;psc=1&gt;
+&lt;h2 id=&quot;generador-de-señales-juntek-jds-2900-60-mhz&quot;&gt;Generador de señales Juntek JDS-2900 60 Mhz&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.es/gp/product/B07GFJNCHG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;https://www.amazon.es/gp/product/B07GFJNCHG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&lt;/a&gt;&lt;/p&gt;
 
-Precio referencia: 125 euros (Europa sin envio)
+&lt;p&gt;Precio referencia: 125 euros (Europa sin envio)&lt;/p&gt;
 
-Precio: USD 160
+&lt;p&gt;Precio: USD 160&lt;/p&gt;
 
-## Raspberry Pi 3 Kit
-Con fuente, disipadores y case.
+&lt;h2 id=&quot;raspberry-pi-3-kit&quot;&gt;Raspberry Pi 3 Kit&lt;/h2&gt;
+&lt;p&gt;Con fuente, disipadores y case.&lt;/p&gt;
 
-&lt;https://www.amazon.com/-/es/gp/product/B01C6EQNNK/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&amp;psc=1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/-/es/gp/product/B01C6EQNNK/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&amp;amp;psc=1&quot;&gt;https://www.amazon.com/-/es/gp/product/B01C6EQNNK/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&amp;amp;psc=1&lt;/a&gt;&lt;/p&gt;
 
-Precio referencia: USD 60 (USA sin envio)
+&lt;p&gt;Precio referencia: USD 60 (USA sin envio)&lt;/p&gt;
 
-Precio: USD 65
+&lt;p&gt;Precio: USD 65&lt;/p&gt;
 
-## Scanner de radio ICOM PCR-100
-&lt;https://www.icomamerica.com/es/downloads/default.aspx?Category=241&gt;
+&lt;h2 id=&quot;scanner-de-radio-icom-pcr-100&quot;&gt;Scanner de radio ICOM PCR-100&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.icomamerica.com/es/downloads/default.aspx?Category=241&quot;&gt;https://www.icomamerica.com/es/downloads/default.aspx?Category=241&lt;/a&gt;&lt;/p&gt;
 
-Precio: ?</content><author><name></name></author><summary type="html">Electronica de consumo</summary></entry><entry><title type="html">Renault Koleos</title><link href="/blog/personal/2021/05/30/Koleos.html" rel="alternate" type="text/html" title="Renault Koleos" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Koleos</id><content type="html" xml:base="/blog/personal/2021/05/30/Koleos.html"># Renault Koleos PH3 Dynamique Plus 4x4 CVT - 73.000Km
+&lt;p&gt;Precio: ?&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Electronica de consumo</summary></entry><entry><title type="html">Renault Koleos</title><link href="/blog/personal/2021/05/30/Koleos.html" rel="alternate" type="text/html" title="Renault Koleos" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Koleos</id><content type="html" xml:base="/blog/personal/2021/05/30/Koleos.html"># Renault Koleos PH3 Dynamique Plus 4x4 CVT - 73.000Km
 * Excelente estado. Andarla para creer.
 * Todos los services oficiales con comprobantes.
 * Cubiertas nuevas y originales Kuhmo
