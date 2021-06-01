@@ -1,32 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-06-01T20:09:00-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;h2 id=&quot;electronica-de-consumo&quot;&gt;Electronica de consumo&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-06-01T20:24:00-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;h2 id=&quot;rubros&quot;&gt;Rubros&lt;/h2&gt;
 
-&lt;h3 id=&quot;televisor-lcd-philips-32-32pfl533277&quot;&gt;Televisor LCD Philips 32” 32PFL5332/77&lt;/h3&gt;
-
-&lt;p&gt;Buen estado, 4 entradas HDMI, 1080i&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/tvphilips.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/tvphilips2.webp&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Precio: $15.000&lt;/p&gt;
-
-&lt;h3 id=&quot;televisor-led-philco-24-full-hd-pld2416htx&quot;&gt;Televisor LED Philco 24” Full HD PLD2416HTX&lt;/h3&gt;
-
-&lt;p&gt;Buen estado. 2 entradas HDMI, entrada de cable, control remoto&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/tvphilco.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Precio: $12.000&lt;/p&gt;
-
-&lt;h3 id=&quot;camara-de-filmar-fullhd-jvc-gz-ex210bu&quot;&gt;Camara de filmar FullHD JVC GZ-EX210BU&lt;/h3&gt;
-&lt;p&gt;Camara a memoria uSD zoom 40X sin uso, como nueva.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/834567-REG/JVC_GZ_EX210BUS_GZ_EX210_Full_HD_Everio.html&quot;&gt;https://www.bhphotovideo.com/c/product/834567-REG/JVC_GZ_EX210BUS_GZ_EX210_Full_HD_Everio.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/everio.jpg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/everio2.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Precio: $18000&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#deporte&quot;&gt;Deporte&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#electronica_consumo&quot;&gt;Electrónica de consumo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#electronica&quot;&gt;Electrónica&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;deporte&quot;&gt;Deporte&lt;/h2&gt;
 
@@ -67,6 +45,36 @@
 &lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/vairo.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Precio: $35000&lt;/p&gt;
+
+&lt;h2 id=&quot;electronica_consumo&quot;&gt;Electronica de consumo&lt;/h2&gt;
+
+&lt;h3 id=&quot;televisor-lcd-philips-32-32pfl533277&quot;&gt;Televisor LCD Philips 32” 32PFL5332/77&lt;/h3&gt;
+
+&lt;p&gt;Buen estado, 4 entradas HDMI, 1080i&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/tvphilips.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/tvphilips2.webp&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Precio: $15.000&lt;/p&gt;
+
+&lt;h3 id=&quot;televisor-led-philco-24-full-hd-pld2416htx&quot;&gt;Televisor LED Philco 24” Full HD PLD2416HTX&lt;/h3&gt;
+
+&lt;p&gt;Buen estado. 2 entradas HDMI, entrada de cable, control remoto&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/tvphilco.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Precio: $12.000&lt;/p&gt;
+
+&lt;h3 id=&quot;camara-de-filmar-fullhd-jvc-gz-ex210bu&quot;&gt;Camara de filmar FullHD JVC GZ-EX210BU&lt;/h3&gt;
+&lt;p&gt;Camara a memoria uSD zoom 40X sin uso, como nueva.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/834567-REG/JVC_GZ_EX210BUS_GZ_EX210_Full_HD_Everio.html&quot;&gt;https://www.bhphotovideo.com/c/product/834567-REG/JVC_GZ_EX210BUS_GZ_EX210_Full_HD_Everio.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/everio.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale/everio2.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Precio: $18000&lt;/p&gt;
 
 &lt;h2 id=&quot;electronica&quot;&gt;Electronica&lt;/h2&gt;
 
@@ -126,7 +134,7 @@
 &lt;h3 id=&quot;scanner-de-radio-icom-pcr-100&quot;&gt;Scanner de radio ICOM PCR-100&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.icomamerica.com/es/downloads/default.aspx?Category=241&quot;&gt;https://www.icomamerica.com/es/downloads/default.aspx?Category=241&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Precio: ?&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Electronica de consumo</summary></entry><entry><title type="html">Renault Koleos</title><link href="/blog/personal/2021/05/30/Koleos.html" rel="alternate" type="text/html" title="Renault Koleos" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Koleos</id><content type="html" xml:base="/blog/personal/2021/05/30/Koleos.html">&lt;h1 id=&quot;renault-koleos-ph3-dynamique-plus-4x4-cvt---73000km&quot;&gt;Renault Koleos PH3 Dynamique Plus 4x4 CVT - 73.000Km&lt;/h1&gt;
+&lt;p&gt;Precio: ?&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Rubros</summary></entry><entry><title type="html">Renault Koleos</title><link href="/blog/personal/2021/05/30/Koleos.html" rel="alternate" type="text/html" title="Renault Koleos" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Koleos</id><content type="html" xml:base="/blog/personal/2021/05/30/Koleos.html">&lt;h1 id=&quot;renault-koleos-ph3-dynamique-plus-4x4-cvt---73000km&quot;&gt;Renault Koleos PH3 Dynamique Plus 4x4 CVT - 73.000Km&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;Excelente estado. Andarla para creer.&lt;/li&gt;
   &lt;li&gt;Todos los services oficiales con comprobantes.&lt;/li&gt;
