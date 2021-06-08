@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-06-06T17:45:59-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-06-08T15:33:05-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
 
 &lt;p&gt;Ultima actualización: Sabado 5 de Junio&lt;/p&gt;
 
@@ -89,19 +89,19 @@ Talle L&lt;/p&gt;
 
 &lt;p&gt;Precio: $3.000&lt;/p&gt;
 
-&lt;h3 id=&quot;linksys-ea6100&quot;&gt;Linksys EA6100&lt;/h3&gt;
+&lt;h3 id=&quot;router-linksys-ea6100&quot;&gt;Router Linksys EA6100&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/linksys_ea6100.webp&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/linksys_ea6100_2.webp&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Precio: $7.000&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;Precio: $7.000&lt;/del&gt; Vendido&lt;/p&gt;
 
 &lt;h3 id=&quot;silla-gamer-medio-año-de-uso&quot;&gt;Silla Gamer (medio año de uso)&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/silla.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Precio: ?&lt;/p&gt;
+&lt;p&gt;Precio: $20.000&lt;/p&gt;
 
 &lt;h2 id=&quot;deporte&quot;&gt;Deporte&lt;/h2&gt;
 
@@ -255,7 +255,7 @@ Talle L&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/silloncitos.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Precio: $ 48.000 el par o $25.000 cada uno&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;Precio: $ 48.000 el par o $25.000 cada uno&lt;/del&gt; Vendidos&lt;/p&gt;
 
 &lt;h3 id=&quot;mesas-de-apoyo-de-vidrio&quot;&gt;Mesas de apoyo de vidrio&lt;/h3&gt;
 
@@ -378,29 +378,37 @@ Talle L&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/guantes_buceo.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Precio: $3.500&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Se actualiza periodicamente. Mensajes por privado: 11-31161975</summary></entry><entry><title type="html">Renault Koleos</title><link href="/blog/personal/2021/05/30/Koleos.html" rel="alternate" type="text/html" title="Renault Koleos" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Koleos</id><content type="html" xml:base="/blog/personal/2021/05/30/Koleos.html">&lt;h1 id=&quot;renault-koleos-ph3-dynamique-plus-4x4-cvt---73000km&quot;&gt;Renault Koleos PH3 Dynamique Plus 4x4 CVT - 73.000Km&lt;/h1&gt;
+&lt;p&gt;Precio: $3.500&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Se actualiza periodicamente. Mensajes por privado: 11-31161975</summary></entry><entry><title type="html">Renault Koleos</title><link href="/blog/personal/2021/05/30/Koleos.html" rel="alternate" type="text/html" title="Renault Koleos" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Koleos</id><content type="html" xml:base="/blog/personal/2021/05/30/Koleos.html">&lt;h1 id=&quot;renault-koleos-ph3-dynamique-plus-4x4-cvt---73500km&quot;&gt;Renault Koleos PH3 Dynamique Plus 4x4 CVT - 73.500Km&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;Excelente estado. Andarla para creer.&lt;/li&gt;
   &lt;li&gt;Todos los services oficiales con comprobantes.&lt;/li&gt;
   &lt;li&gt;Cubiertas nuevas y originales Kuhmo&lt;/li&gt;
+  &lt;li&gt;Todos los services en Renault con comprobantes&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;caracteristicas&quot;&gt;Caracteristicas&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Transmisión automatica CVT (no se sienten los cambios)&lt;/li&gt;
-  &lt;li&gt;Techo de vidrio delantero corredizo&lt;/li&gt;
-  &lt;li&gt;Techo de vidrio trasero fijo&lt;/li&gt;
+  &lt;li&gt;Techo de vidrio delantero corredizo con cubre q da sombra&lt;/li&gt;
+  &lt;li&gt;Techo de vidrio trasero fijo con cubre que da sombra&lt;/li&gt;
   &lt;li&gt;Velocidad crucero y limitador de velocidad&lt;/li&gt;
   &lt;li&gt;Estabilizador&lt;/li&gt;
   &lt;li&gt;Asistencia en pendiente&lt;/li&gt;
   &lt;li&gt;Modo de tracción seleccionable: automatico, simple, o 4x4 forzado&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Koleos/1.jpg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Koleos/2.jpg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Koleos/3.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale_Koleos//1.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale_Koleos//2.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale_Koleos//3.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale_Koleos//4.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale_Koleos//5.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale_Koleos//6.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale_Koleos//7.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale_Koleos//8.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale_Koleos//9.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale_Koleos//10.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Precio: USD 14.500&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Renault Koleos PH3 Dynamique Plus 4x4 CVT - 73.000Km Excelente estado. Andarla para creer. Todos los services oficiales con comprobantes. Cubiertas nuevas y originales Kuhmo</summary></entry><entry><title type="html">Avoiding SQL Injections: MQTT + Node-red + SQL database</title><link href="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html" rel="alternate" type="text/html" title="Avoiding SQL Injections: MQTT + Node-red + SQL database" /><published>2021-05-03T00:00:00-03:00</published><updated>2021-05-03T00:00:00-03:00</updated><id>/blog/embedded/iot/2021/05/03/MQTT-Node-red</id><content type="html" xml:base="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Precio: USD 13.000&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Renault Koleos PH3 Dynamique Plus 4x4 CVT - 73.500Km Excelente estado. Andarla para creer. Todos los services oficiales con comprobantes. Cubiertas nuevas y originales Kuhmo Todos los services en Renault con comprobantes</summary></entry><entry><title type="html">Avoiding SQL Injections: MQTT + Node-red + SQL database</title><link href="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html" rel="alternate" type="text/html" title="Avoiding SQL Injections: MQTT + Node-red + SQL database" /><published>2021-05-03T00:00:00-03:00</published><updated>2021-05-03T00:00:00-03:00</updated><id>/blog/embedded/iot/2021/05/03/MQTT-Node-red</id><content type="html" xml:base="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Last year I have been working on an embedded solution of remote sensing electric and physical parameters. In &lt;a href=&quot;https://sguarin.github.io/presentaciones/seguridad-mqtt/&quot;&gt;this&lt;/a&gt; presentation I talked about differents aproachs to implement MQTT/TLS connection with authentication validation between an embedded solution and a broker. The examples were presented using ESP32 and the arduino framework.&lt;/p&gt;
 
