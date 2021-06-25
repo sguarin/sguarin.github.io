@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-06-25T09:51:06-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-06-25T09:56:31-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
 
 &lt;p&gt;Ultima actualización: Sabado 21 de Junio&lt;/p&gt;
 
@@ -252,27 +252,26 @@ Usada para Fortnite Valorant, CSGO, League of Legends. Por ej. Fortnite funciona
 
 &lt;h2 id=&quot;electronica&quot;&gt;Electronica&lt;/h2&gt;
 
-&lt;!--
-### Spartan 3E Starter Kit
-Kit super completo, conector de alta frecuencia, placa adaptadora
+&lt;h3 id=&quot;spartan-3e-starter-kit&quot;&gt;Spartan 3E Starter Kit&lt;/h3&gt;
+&lt;p&gt;Kit super completo, conector de alta frecuencia, placa adaptadora&lt;/p&gt;
 
-&lt;https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf&quot;&gt;https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf&lt;/a&gt;&lt;/p&gt;
 
-![Foto](/blog/assets/Garage_Sale/spartan3_starter1.jpg)
-![Foto](/blog/assets/Garage_Sale/spartan3_starter2.jpg)
-![Foto](/blog/assets/Garage_Sale/spartan3_starter3.jpg)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/spartan3_starter1.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale/spartan3_starter2.jpg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale/spartan3_starter3.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
-~~Precio: USD 100~~ Vendida
+&lt;p&gt;&lt;del&gt;Precio: USD 100&lt;/del&gt; Vendida&lt;/p&gt;
 
-### Digilent Arty Z7
-&lt;https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/&gt;
+&lt;h3 id=&quot;digilent-arty-z7&quot;&gt;Digilent Arty Z7&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/&quot;&gt;https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/&lt;/a&gt;&lt;/p&gt;
 
-![Foto](/blog/assets/Garage_Sale/arty_z7.jpg)
+&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/arty_z7.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
-Precio referencia: USD 169 (USA + USD 57 envio),
+&lt;p&gt;Precio referencia: USD 169 (USA + USD 57 envio),&lt;/p&gt;
 
-~~Precio venta: USD 226~~ Vendida
---&gt;
+&lt;p&gt;&lt;del&gt;Precio venta: USD 226&lt;/del&gt; Vendida&lt;/p&gt;
+
 &lt;h3 id=&quot;estación-de-soldado-aoyue-968-smd-digital-hot-air-rework-station&quot;&gt;Estación de soldado Aoyue 968+ SMD Digital Hot Air Rework Station&lt;/h3&gt;
 &lt;p&gt;Kit completo con juego de puntas, bocas de aire, resistencia, mangueras de repuesto sin usar y accesorios.&lt;/p&gt;
 
