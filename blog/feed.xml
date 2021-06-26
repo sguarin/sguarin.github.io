@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-06-25T19:45:54-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-06-26T12:22:31-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
 
 &lt;p&gt;Ultima actualización: Sabado 21 de Junio&lt;/p&gt;
 
@@ -89,12 +89,14 @@ Talle L&lt;/p&gt;
 
 &lt;p&gt;Precio: $3.000&lt;/p&gt;
 
-&lt;h3 id=&quot;router-linksys-ea6100&quot;&gt;Router Linksys EA6100&lt;/h3&gt;
+&lt;!--
+### Router Linksys EA6100
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/linksys_ea6100.webp&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/linksys_ea6100_2.webp&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/linksys_ea6100.webp)
+![Foto](/blog/assets/Garage_Sale/linksys_ea6100_2.webp)
 
-&lt;p&gt;&lt;del&gt;Precio: $7.000&lt;/del&gt; Vendido&lt;/p&gt;
+~~Precio: $7.000~~ Vendido
+--&gt;
 
 &lt;h3 id=&quot;silla-gamer-medio-año-de-uso&quot;&gt;Silla Gamer (medio año de uso)&lt;/h3&gt;
 
@@ -104,12 +106,14 @@ Talle L&lt;/p&gt;
 
 &lt;h2 id=&quot;deporte&quot;&gt;Deporte&lt;/h2&gt;
 
-&lt;h3 id=&quot;guantes-de-boxeo-everlast-nuevos-12-onzas&quot;&gt;Guantes de Boxeo Everlast Nuevos 12 onzas&lt;/h3&gt;
+&lt;!--
+### Guantes de Boxeo Everlast Nuevos 12 onzas
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/guantes.jpeg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/guantes2.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/guantes.jpeg)
+![Foto](/blog/assets/Garage_Sale/guantes2.jpeg)
 
-&lt;p&gt;Precio: $6.000&lt;/p&gt;
+~~Precio: $6.000~~ Vendido
+--&gt;
 
 &lt;h3 id=&quot;raqueta-head-radical-liquidmetal-l4&quot;&gt;Raqueta Head Radical Liquidmetal L4&lt;/h3&gt;
 
@@ -284,26 +288,27 @@ Usada para Fortnite Valorant, CSGO, League of Legends. Por ej. Fortnite funciona
 &lt;p&gt;Precio: $3.500&lt;/p&gt;
 
 &lt;h2 id=&quot;electronica&quot;&gt;Electronica&lt;/h2&gt;
+&lt;!--
+### Spartan 3E Starter Kit
+Kit super completo, conector de alta frecuencia, placa adaptadora
 
-&lt;h3 id=&quot;spartan-3e-starter-kit&quot;&gt;Spartan 3E Starter Kit&lt;/h3&gt;
-&lt;p&gt;Kit super completo, conector de alta frecuencia, placa adaptadora&lt;/p&gt;
+&lt;https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf&quot;&gt;https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf&lt;/a&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/spartan3_starter1.jpg)
+![Foto](/blog/assets/Garage_Sale/spartan3_starter2.jpg)
+![Foto](/blog/assets/Garage_Sale/spartan3_starter3.jpg)
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/spartan3_starter1.jpg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/spartan3_starter2.jpg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/spartan3_starter3.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+~~Precio: USD 100~~ Vendida
 
-&lt;p&gt;&lt;del&gt;Precio: USD 100&lt;/del&gt; Vendida&lt;/p&gt;
+### Digilent Arty Z7
+&lt;https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/&gt;
 
-&lt;h3 id=&quot;digilent-arty-z7&quot;&gt;Digilent Arty Z7&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/&quot;&gt;https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/&lt;/a&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/arty_z7.jpg)
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/arty_z7.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+Precio referencia: USD 169 (USA + USD 57 envio),
 
-&lt;p&gt;Precio referencia: USD 169 (USA + USD 57 envio),&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;Precio venta: USD 226&lt;/del&gt; Vendida&lt;/p&gt;
+~~Precio venta: USD 226~~ Vendida
+--&gt;
 
 &lt;h3 id=&quot;estación-de-soldado-aoyue-968-smd-digital-hot-air-rework-station&quot;&gt;Estación de soldado Aoyue 968+ SMD Digital Hot Air Rework Station&lt;/h3&gt;
 &lt;p&gt;Kit completo con juego de puntas, bocas de aire, resistencia, mangueras de repuesto sin usar y accesorios.&lt;/p&gt;
@@ -386,24 +391,34 @@ Usada para Fortnite Valorant, CSGO, League of Legends. Por ej. Fortnite funciona
 
 &lt;p&gt;Precio: $18.000&lt;/p&gt;
 
+&lt;h3 id=&quot;mesa-ratona&quot;&gt;Mesa ratona&lt;/h3&gt;
+&lt;p&gt;1.20 x 0.60&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/mesa_ratona.jpeg&quot; alt=&quot;Foto&quot; /&gt;
+&lt;img src=&quot;/blog/assets/Garage_Sale/mesa_ratona2.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Precio: $30.000&lt;/p&gt;
+
 &lt;h3 id=&quot;espejo-con-marco-de-madera-de-098-x-078&quot;&gt;Espejo con marco de madera de 0.98 x 0.78&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/espejo.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Precio: $10.000&lt;/p&gt;
 
-&lt;h3 id=&quot;sillones-luis-xv-tapizado-gris&quot;&gt;Sillones Luis XV tapizado gris&lt;/h3&gt;
+&lt;!--
+### Sillones Luis XV tapizado gris
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/silloncitos.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/silloncitos.jpeg)
 
-&lt;p&gt;&lt;del&gt;Precio: $ 48.000 el par o $25.000 cada uno&lt;/del&gt; Vendidos&lt;/p&gt;
+~~Precio: $ 48.000 el par o $25.000 cada uno~~ Vendidos
 
-&lt;h3 id=&quot;silloncito-matero&quot;&gt;Silloncito Matero&lt;/h3&gt;
+### Silloncito Matero
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/matero.jpeg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/matero2.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/matero.jpeg)
+![Foto](/blog/assets/Garage_Sale/matero2.jpeg)
 
-&lt;p&gt;&lt;del&gt;Precio: $ 6.000&lt;/del&gt;&lt;/p&gt;
+~~Precio: $ 6.000~~
+--&gt;
 
 &lt;h3 id=&quot;6-sillas-de-cerezo-en-juego-con-la-mesa&quot;&gt;6 Sillas de cerezo en juego con la mesa&lt;/h3&gt;
 
@@ -412,13 +427,15 @@ Usada para Fortnite Valorant, CSGO, League of Legends. Por ej. Fortnite funciona
 
 &lt;p&gt;&lt;del&gt;Precio: $18.000&lt;/del&gt; Vendidas&lt;/p&gt;
 
-&lt;h3 id=&quot;alfombracarpeta-de-175-x-225&quot;&gt;Alfombra/carpeta de 1.75 x 2.25&lt;/h3&gt;
-&lt;p&gt;Poco uso, guardada luego de limpieza en tintoreria.&lt;/p&gt;
+&lt;!--
+### Alfombra/carpeta de 1.75 x 2.25
+Poco uso, guardada luego de limpieza en tintoreria.
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/alfombra.jpg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/alfombra2.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/alfombra.jpg)
+![Foto](/blog/assets/Garage_Sale/alfombra2.jpg)
 
-&lt;p&gt;&lt;del&gt;Precio: $10.000&lt;/del&gt; Vendida&lt;/p&gt;
+~~Precio: $10.000~~ Vendida
+--&gt;
 
 &lt;h3 id=&quot;2-portaretratos-nuevos-sin-uso&quot;&gt;2 Portaretratos nuevos (sin uso)&lt;/h3&gt;
 
