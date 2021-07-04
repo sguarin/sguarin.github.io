@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-07-04T14:47:45-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-07-04T18:21:26-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
 
 &lt;p&gt;Ultima actualización: Domingo 4 de Julio&lt;/p&gt;
 
@@ -201,12 +201,14 @@ Precio: $9.000
 
 &lt;h2 id=&quot;electronica_consumo&quot;&gt;Electronica de consumo&lt;/h2&gt;
 
-&lt;h3 id=&quot;televisor-led-smart-sony-3d-47&quot;&gt;Televisor LED Smart Sony 3D 47”&lt;/h3&gt;
-&lt;p&gt;Control remoto. 4 anteojos 3D. 2 anteojos para jugar pantalla dividida como pantalla completa. Manuales.&lt;/p&gt;
+&lt;!--
+### Televisor LED Smart Sony 3D 47&quot; 
+Control remoto. 4 anteojos 3D. 2 anteojos para jugar pantalla dividida como pantalla completa. Manuales.
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/tv47.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/tv47.jpg)
 
-&lt;p&gt;Precio: $ 45.000&lt;/p&gt;
+~~Precio: $ 45.000 (Vendido)~~
+--&gt;
 
 &lt;h3 id=&quot;televisor-lcd-philips-32-32pfl533277&quot;&gt;Televisor LCD Philips 32” 32PFL5332/77&lt;/h3&gt;
 
@@ -285,18 +287,20 @@ Modelo 22MN430H-B. 7 meses de uso.
 
 --&gt;
 
-&lt;h3 id=&quot;guitarra-eléctrica-les-paul-vintage-v100&quot;&gt;Guitarra Eléctrica Les Paul Vintage V100&lt;/h3&gt;
-&lt;p&gt;Impecable, comprada en 2020. Con funda.&lt;/p&gt;
+&lt;!--
+### Guitarra Eléctrica Les Paul Vintage V100
+Impecable, comprada en 2020. Con funda.
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/guitarra.webp&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/guitarra.webp)
 
-&lt;p&gt;Precio: $45.000&lt;/p&gt;
+Precio: $45.000
 
-&lt;h3 id=&quot;amplificador-peavey-rage-158-2-entradas&quot;&gt;Amplificador Peavey Rage 158 (2 entradas)&lt;/h3&gt;
+### Amplificador Peavey Rage 158 (2 entradas)
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/amplificador.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/amplificador.jpeg)
 
-&lt;p&gt;Precio: $15.000&lt;/p&gt;
+Precio: $15.000
+--&gt;
 
 &lt;!--
 ### Switch Linksys Administrable 8 bocas + 1 Giga + 1GBIC
