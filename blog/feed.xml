@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-06-29T23:23:16-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-07-04T10:53:53-03:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00-03:00</published><updated>2021-05-30T00:00:00-03:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
 
-&lt;p&gt;Ultima actualización: Sabado 21 de Junio&lt;/p&gt;
+&lt;p&gt;Ultima actualización: Domingo 4 de Julio&lt;/p&gt;
 
 &lt;h2 id=&quot;rubros&quot;&gt;Rubros&lt;/h2&gt;
 
@@ -213,13 +213,15 @@ Precio: $3.000
 
 &lt;p&gt;Precio: $15.000&lt;/p&gt;
 
-&lt;h3 id=&quot;televisor-led-philco-24-full-hd-pld2416htx&quot;&gt;Televisor LED Philco 24” Full HD PLD2416HTX&lt;/h3&gt;
+&lt;!--
+### Televisor LED Philco 24&quot; Full HD PLD2416HTX
 
-&lt;p&gt;Buen estado. 2 entradas HDMI, entrada de cable, control remoto&lt;/p&gt;
+Buen estado. 2 entradas HDMI, entrada de cable, control remoto
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/tvphilco.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/tvphilco.jpg)
 
-&lt;p&gt;Precio: $12.000&lt;/p&gt;
+Precio: $12.000
+--&gt;
 
 &lt;h3 id=&quot;ipad-4-4ta-generación-modelo-a1458&quot;&gt;IPAD 4 (4ta generación) Modelo A1458&lt;/h3&gt;
 
