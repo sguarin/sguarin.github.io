@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-08-04T18:33:38+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-09-24T14:19:41+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
 
 &lt;p&gt;Ultima actualización: Domingo 25 de Agosto&lt;/p&gt;
 
@@ -183,17 +183,15 @@ Cuadro Large y rodado 26
 ![Foto](/blog/assets/Garage_Sale/vairo.jpg)
 
 ~~Precio: $35.000~~ Vendida
---&gt;
 
-&lt;h3 id=&quot;funda-para-asiento-de-bicicleta-sin-uso&quot;&gt;Funda para asiento de bicicleta sin uso&lt;/h3&gt;
+### Funda para asiento de bicicleta sin uso
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/funda_asiento.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/funda_asiento.jpeg)
 
-&lt;p&gt;Precio: $ 600&lt;/p&gt;
+Precio: $ 600
 
-&lt;h2 id=&quot;electrodomesticos&quot;&gt;Electrodomesticos&lt;/h2&gt;
+## Electrodomesticos {#electrodomesticos}
 
-&lt;!--
 ### Amasadora ATMA 1200W
 
 ![Foto](/blog/assets/Garage_Sale/amasadora.jpeg)
@@ -339,8 +337,9 @@ Modelo SRW208G. Gestionable, Vlans. etc
 Precio: $3.500
 --&gt;
 
-&lt;h2 id=&quot;electronica&quot;&gt;Electronica&lt;/h2&gt;
 &lt;!--
+## Electronica {#electronica}
+
 ### Spartan 3E Starter Kit
 Kit super completo, conector de alta frecuencia, placa adaptadora
 
@@ -360,47 +359,49 @@ Kit super completo, conector de alta frecuencia, placa adaptadora
 Precio referencia: USD 169 (USA + USD 57 envio),
 
 ~~Precio venta: USD 226~~ Vendida
+
+### Estación de soldado Aoyue 968+ SMD Digital Hot Air Rework Station
+Kit completo con juego de puntas, bocas de aire, resistencia, mangueras de repuesto sin usar y accesorios.
+&lt;https://www.amazon.com/-/es/gp/product/B00KEY17VI/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&amp;psc=1&gt;
+
+![Foto](/blog/assets/Garage_Sale/estacion_soldado.jpg)
+![Foto](/blog/assets/Garage_Sale/estacion_soldado2.jpg)
+![Foto](/blog/assets/Garage_Sale/estacion_soldado3.jpg)
+
+
+Precio referencia: USD 186 (USA sin envio)
+
+Precio USD 216
+
+### Osciloscopio Rigol DS1102E (100Mhz 2Ch)
+
+&lt;https://www.rigolna.com/products/digital-oscilloscopes/1000/&gt;
+
+![Foto](/blog/assets/Garage_Sale/osciloscopio.jpg)
+
+Precio referencia: USD 299 (USA sin envio)
+
+Precio: $60.000
+
+### Generador de señales Juntek JDS-2900 60 Mhz
+&lt;https://www.amazon.es/gp/product/B07GFJNCHG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;psc=1&gt;
+
+![Foto](/blog/assets/Garage_Sale/generador.jpg)
+
+Precio referencia: 125 euros (Europa sin envio)
+
+Precio: USD 160
+
+### Raspberry Pi 3 Kit
+Con fuente, disipadores y case.
+
+&lt;https://www.amazon.com/-/es/gp/product/B01C6EQNNK/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&amp;psc=1&gt;
+
+Precio referencia: USD 55 (USA sin envio)
+
+Precio: USD 55
+
 --&gt;
-
-&lt;h3 id=&quot;estación-de-soldado-aoyue-968-smd-digital-hot-air-rework-station&quot;&gt;Estación de soldado Aoyue 968+ SMD Digital Hot Air Rework Station&lt;/h3&gt;
-&lt;p&gt;Kit completo con juego de puntas, bocas de aire, resistencia, mangueras de repuesto sin usar y accesorios.
-&lt;a href=&quot;https://www.amazon.com/-/es/gp/product/B00KEY17VI/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;https://www.amazon.com/-/es/gp/product/B00KEY17VI/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&amp;amp;psc=1&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/estacion_soldado.jpg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/estacion_soldado2.jpg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/estacion_soldado3.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Precio referencia: USD 186 (USA sin envio)&lt;/p&gt;
-
-&lt;p&gt;Precio USD 216&lt;/p&gt;
-
-&lt;h3 id=&quot;osciloscopio-rigol-ds1102e-100mhz-2ch&quot;&gt;Osciloscopio Rigol DS1102E (100Mhz 2Ch)&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.rigolna.com/products/digital-oscilloscopes/1000/&quot;&gt;https://www.rigolna.com/products/digital-oscilloscopes/1000/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/osciloscopio.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Precio referencia: USD 299 (USA sin envio)&lt;/p&gt;
-
-&lt;p&gt;Precio: $60.000&lt;/p&gt;
-
-&lt;h3 id=&quot;generador-de-señales-juntek-jds-2900-60-mhz&quot;&gt;Generador de señales Juntek JDS-2900 60 Mhz&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.amazon.es/gp/product/B07GFJNCHG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;https://www.amazon.es/gp/product/B07GFJNCHG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/generador.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Precio referencia: 125 euros (Europa sin envio)&lt;/p&gt;
-
-&lt;p&gt;Precio: USD 160&lt;/p&gt;
-
-&lt;h3 id=&quot;raspberry-pi-3-kit&quot;&gt;Raspberry Pi 3 Kit&lt;/h3&gt;
-&lt;p&gt;Con fuente, disipadores y case.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/-/es/gp/product/B01C6EQNNK/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&amp;amp;psc=1&quot;&gt;https://www.amazon.com/-/es/gp/product/B01C6EQNNK/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&amp;amp;psc=1&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Precio referencia: USD 55 (USA sin envio)&lt;/p&gt;
-
-&lt;p&gt;Precio: USD 55&lt;/p&gt;
 
 &lt;h2 id=&quot;herramientas&quot;&gt;Herramientas&lt;/h2&gt;
 
@@ -521,15 +522,16 @@ Poco uso, guardada luego de limpieza en tintoreria.
 ![Foto](/blog/assets/Garage_Sale/alfombra2.jpg)
 
 ~~Precio: $10.000~~ Vendida
---&gt;
 
-&lt;h3 id=&quot;2-portaretratos-nuevos-sin-uso&quot;&gt;2 Portaretratos nuevos (sin uso)&lt;/h3&gt;
+### 2 Portaretratos nuevos (sin uso)
 
-&lt;p&gt;Madera y metalicos&lt;/p&gt;
+Madera y metalicos
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/portaretratos.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+![Foto](/blog/assets/Garage_Sale/portaretratos.jpeg)
 
-&lt;p&gt;&lt;del&gt;Precio: $1.800 el par o $1.000 cada uno)&lt;/del&gt; Vendidos&lt;/p&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Se actualiza periodicamente. Mensajes por privado: 11-31161975</summary></entry><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale_Buceo.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale_Buceo</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale_Buceo.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
+~~Precio: $1.800 el par o $1.000 cada uno)~~ Vendidos
+
+--&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Se actualiza periodicamente. Mensajes por privado: 11-31161975</summary></entry><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale_Buceo.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale_Buceo</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale_Buceo.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
 
 &lt;p&gt;Ultima actualización: Sabado 5 de Junio&lt;/p&gt;
 
@@ -712,7 +714,7 @@ It works well on strings, but if you need to store numeric values you need to ca
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test3_code.png&quot; alt=&quot;Test 3 code&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This aproach handles all parameters as strings, then does quote escaping (‘co2’’ as ‘co2'’) and finally construct the query.
+&lt;p&gt;This aproach handles all parameters as strings, then does quote escaping (‘co2’’ as ‘co2&apos;’) and finally construct the query.
 You can’t use the dollar sign quote or other bypass techniques as it handles all the columns as strings adding two final quotes.&lt;/p&gt;
 
 &lt;p&gt;Is not very efficient because all the numeric values are treated as strings, so you need to cast them again back to numeric for proper storage.&lt;/p&gt;
@@ -727,12 +729,12 @@ You can’t use the dollar sign quote or other bypass techniques as it handles a
 
 &lt;p&gt;Similar as the first test case, but when I tried it, I was wondering if the json node block will do some sanity checks. Unfortunately not.&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test4 -m '{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:101543.27}'
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test4 -m &apos;{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:101543.27}&apos;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Attack:&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test4 -m '{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:&quot;101543.27);delete from smr.air --&quot;}'
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test4 -m &apos;{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:&quot;101543.27);delete from smr.air --&quot;}&apos;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;test-5-js-separate-query-from-params&quot;&gt;Test 5: JS Separate query from params&lt;/h2&gt;
@@ -748,17 +750,17 @@ This is an example of building a dictionary with the parameters and on the other
 
 &lt;p&gt;Valid packet for testing:&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test4 -m '{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:101543.27}'
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test4 -m &apos;{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:101543.27}&apos;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Rejected attack:&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test5 -m '{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:&quot;101543.27);delete from smr.air --&quot;}'
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test5 -m &apos;{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:&quot;101543.27);delete from smr.air --&quot;}&apos;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;You can also test some payloads near a string parameter verifying that commands also can’t be injected.&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ccs811 | 2021-04-18 01:33:57 |     |      |     | co2'); --     | 1559 |  212 | 31.61 | 59.83 | 101543.27 | 
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ccs811 | 2021-04-18 01:33:57 |     |      |     | co2&apos;); --     | 1559 |  212 | 31.61 | 59.83 | 101543.27 | 
  ccs811 | 2021-04-18 01:33:57 |     |      |     | co2$$a$$); -- | 1559 |  212 | 31.61 | 59.83 | 101543.27 | 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
