@@ -1,29 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2022-11-14T09:18:46+01:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html">&lt;p&gt;Se actualiza periodicamente. Mensajes por privado: 11-31161975&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-04-28T11:55:06+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente. Mensajes por privado: 11-31161975</p>
 
-&lt;p&gt;Ultima actualización: Viernes 24 de Septiembre&lt;/p&gt;
+<p>Ultima actualización: Viernes 24 de Septiembre</p>
 
-&lt;h2 id=&quot;rubros&quot;&gt;Rubros&lt;/h2&gt;
+<h2 id="rubros">Rubros</h2>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#buceo&quot;&gt;Buceo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#computacion&quot;&gt;Computacion&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#deporte&quot;&gt;Deporte&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#electrodomesticos&quot;&gt;Electrodomesticos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#electronica_consumo&quot;&gt;Electrónica de consumo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#electronica&quot;&gt;Electrónica&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#herramientas&quot;&gt;Herramientas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#muebles&quot;&gt;Muebles&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li><a href="#aeromodelismo">Aeromodelismo</a></li>
+  <li><a href="#buceo">Buceo</a></li>
+  <li><a href="#computacion">Computacion</a></li>
+  <li><a href="#deporte">Deporte</a></li>
+  <li><a href="#electrodomesticos">Electrodomesticos</a></li>
+  <li><a href="#electronica_consumo">Electrónica de consumo</a></li>
+  <li><a href="#electronica">Electrónica</a></li>
+  <li><a href="#herramientas">Herramientas</a></li>
+  <li><a href="#muebles">Muebles</a></li>
+</ul>
 
-&lt;h2 id=&quot;buceo&quot;&gt;Buceo&lt;/h2&gt;
+<h2 id="aeromodelismo">Aeromodelismo</h2>
 
-&lt;!--
+<h3 id="transmisor-futaba-10cp--3-receptores">Transmisor Futaba 10CP + 3 receptores</h3>
+
+<ul>
+  <li>Estado impecable (como nuevo).</li>
+  <li>Admite otros módulos transmisores.</li>
+  <li>Módulo transmisor 2.4Ghz futaba</li>
+  <li>Módulo receptor original Futaba.</li>
+  <li>2 Módulos receptor adicionales marca Orange.</li>
+  <li>Manual español e inglés.</li>
+</ul>
+
+<p><img src="/blog/assets/Garage_Sale/futaba1.jpg" alt="Foto" />
+<img src="/blog/assets/Garage_Sale/futaba2.jpg" alt="Foto" /></p>
+
+<p>Precio: USD 400</p>
+
+<h3 id="kit-avión-skywalker-1900-fpv">Kit Avión Skywalker 1900 FPV</h3>
+
+<ul>
+  <li>Desembalado y sin uso.</li>
+  <li>A medio armar.</li>
+</ul>
+
+<p><img src="/blog/assets/Garage_Sale/skywalker.jpg" alt="Foto" /></p>
+
+<p>Precio: USD 100</p>
+
+<h3 id="avion-cessna-skyartec">Avion Cessna Skyartec</h3>
+
+<ul>
+  <li>Toda la electrónica salvo el receptor.</li>
+  <li>Ala con 4 servos (flaps).</li>
+  <li>Ala de repuesto (solo alerones).</li>
+  <li>Flotadores para el agua</li>
+  <li>2 Lipos</li>
+</ul>
+
+<p>Precio: USD 100</p>
+
+<h3 id="avion-pegasus">Avion Pegasus</h3>
+
+<ul>
+  <li>Muy buen estado</li>
+  <li>Toda la electrónica salvo el receptor.</li>
+  <li>2 Lipos</li>
+</ul>
+
+<p>Precio: USD 50</p>
+
+<h2 id="buceo">Buceo</h2>
+
+<!--
 ### Aletas Mares Avanti X3
 Nuevas sin uso. Tamaño XL, ideal para usar con botas o traje seco.
 
 ![Foto](/blog/assets/Garage_Sale/aletas.jpg)
 
-Precio referencia: &lt;https://www.divingcenter.com.ar/fins-plana-avanti-x3--det--410001&gt;
+Precio referencia: <https://www.divingcenter.com.ar/fins-plana-avanti-x3--det--410001>
 
 ~~Precio: $ 7.000~~ Vendido
 ### Aletas Mares Volo One
@@ -33,8 +85,8 @@ Talle Small. Ideal para chicos.
 
 Precio: $2.000
 
---&gt;
-&lt;!-- ### Traje Cressi mono Comfort 5mm
+-->
+<!-- ### Traje Cressi mono Comfort 5mm
 [comment] Talle 4, excelente estado.
 
 ### Chaleco Cressi Patrol talle L
@@ -45,7 +97,7 @@ Muy poco uso, como nuevo.
 
 ![Foto](/blog/assets/Garage_Sale/chaleco.jpg)
 
-Precio referencia: &lt;https://www.amazon.es/gp/product/B078GNN1WW/ref=ox_sc_act_title_1?smid=A1AT7YVPFBWXBL&amp;psc=1&gt;
+Precio referencia: <https://www.amazon.es/gp/product/B078GNN1WW/ref=ox_sc_act_title_1?smid=A1AT7YVPFBWXBL&psc=1>
 
 Precio: USD 260
 
@@ -57,46 +109,25 @@ Guardadas con protección
 ![Foto](/blog/assets/Garage_Sale/botas2.jpg)
 
 Precio: $3.500
- --&gt;
-&lt;h3 id=&quot;capucha-neoprene-7mm&quot;&gt;Capucha neoprene 7mm&lt;/h3&gt;
-&lt;p&gt;Talle M&lt;/p&gt;
+ -->
+<h3 id="capucha-neoprene-7mm">Capucha neoprene 7mm</h3>
+<p>Talle M</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/capucha7mm.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/capucha7mm.jpg" alt="Foto" /></p>
 
-&lt;p&gt;Precio: $5000&lt;/p&gt;
+<p>Precio: $5000</p>
 
-&lt;h3 id=&quot;guantes-buceo&quot;&gt;Guantes buceo&lt;/h3&gt;
-&lt;p&gt;Impecables muy poco uso. Neoprene y refuerzo de cuerina.
-Talle L&lt;/p&gt;
+<h3 id="guantes-buceo">Guantes buceo</h3>
+<p>Impecables muy poco uso. Neoprene y refuerzo de cuerina.
+Talle L</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/guantes_buceo.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/guantes_buceo.jpg" alt="Foto" /></p>
 
-&lt;p&gt;Precio: $4000&lt;/p&gt;
+<p>Precio: $4000</p>
 
-&lt;h2 id=&quot;computacion&quot;&gt;Computación&lt;/h2&gt;
+<h2 id="computacion">Computación</h2>
 
-&lt;!--
-### Computadora Gamer Ryzen 7 3700X 24Gb
-
-* Gabinete Vitsuba
-* Fuente Gamemax 800W 80 Plus Bronze VP-800
-* Mother ASUS Prime B450M-A
-* Memoria: DDR4 HP 3200 Black 2x8Gb
-* Memoria: DDR4 Kingston 2x4GB 2666MHz HyperX Fury Black
-* Procesador: AMD Ryzen 7 3700X
-* Placa de video:  Video Asrock RX 570 8GB OC Phantom Gaming D
-* Disco SSD Intel 480Gb
-* Disco: Western Digital 1Tb
-* Grabadora/Lectora de Blueray LG wh12ls38
-
-![Foto](/blog/assets/Garage_Sale/computadora_r7.jpg)
-![Foto](/blog/assets/Garage_Sale/computadora_r72.jpg)
-
-Precio de reposición aproximado: $ 224.000
-
-~~Precio: $190.000~~ Vendida
---&gt;
-&lt;!--
+<!--
 ### Kit Teclado Y Mouse Inalambrico Logitech Mk345
 
 Pocos meses de uso. En caja original.
@@ -104,9 +135,9 @@ Pocos meses de uso. En caja original.
 ![Foto](/blog/assets/Garage_Sale/tecladomouse.webp)
 
 Precio: $3.000
---&gt;
+-->
 
-&lt;!--
+<!--
 ### Router Linksys EA6100
 
 ![Foto](/blog/assets/Garage_Sale/linksys_ea6100.webp)
@@ -119,55 +150,36 @@ Precio: $3.000
 ![Foto](/blog/assets/Garage_Sale/silla.jpeg)
 
 Precio: $15.000
---&gt;
+-->
 
-&lt;h2 id=&quot;deporte&quot;&gt;Deporte&lt;/h2&gt;
+<h2 id="deporte">Deporte</h2>
 
-&lt;!--
-### Guantes de Boxeo Everlast Nuevos 12 onzas
+<h3 id="raqueta-babolat-xtra-sweetspot">Raqueta Babolat Xtra Sweetspot</h3>
 
-![Foto](/blog/assets/Garage_Sale/guantes.jpeg)
-![Foto](/blog/assets/Garage_Sale/guantes2.jpeg)
+<p><img src="/blog/assets/Garage_Sale/babolat.jpg" alt="Foto" /></p>
 
-~~Precio: $6.000~~ Vendido
---&gt;
+<p>Precio: $15.000</p>
 
-&lt;!--
+<h3 id="combo-tres-raquetas-niño">Combo tres raquetas niño</h3>
 
-### Raqueta Head Radical Liquidmetal L4
+<p>Suffix Junios 2, 3 y Head Speed 26 Jr</p>
 
-![Foto](/blog/assets/Garage_Sale/head_lm.jpg)
+<p>Desde inicio hasta 11-12 años</p>
 
-Precio: $9.000
+<p><img src="/blog/assets/Garage_Sale/raquetas.jpg" alt="Foto" /></p>
 
---&gt;
+<p><del>Precio: $8.000 (Consultar por separado)</del> Suffix</p>
 
-&lt;h3 id=&quot;raqueta-babolat-xtra-sweetspot&quot;&gt;Raqueta Babolat Xtra Sweetspot&lt;/h3&gt;
+<p>Precio: $15.000 (Head)
+Precio: $ 3.000 (Suffix Junior 3 verde)</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/babolat.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<h3 id="paleta-paddle-wilson-hammer">Paleta paddle Wilson Hammer</h3>
 
-&lt;p&gt;Precio: $15.000&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/wilson.jpg" alt="Foto" /></p>
 
-&lt;h3 id=&quot;combo-tres-raquetas-niño&quot;&gt;Combo tres raquetas niño&lt;/h3&gt;
+<p>Precio: $4.000</p>
 
-&lt;p&gt;Suffix Junios 2, 3 y Head Speed 26 Jr&lt;/p&gt;
-
-&lt;p&gt;Desde inicio hasta 11-12 años&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/raquetas.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;Precio: $8.000 (Consultar por separado)&lt;/del&gt; Suffix&lt;/p&gt;
-
-&lt;p&gt;Precio: $15.000 (Head)
-Precio: $ 3.000 (Suffix Junior 3 verde)&lt;/p&gt;
-
-&lt;h3 id=&quot;paleta-paddle-wilson-hammer&quot;&gt;Paleta paddle Wilson Hammer&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/wilson.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Precio: $4.000&lt;/p&gt;
-
-&lt;!--
+<!--
 ### Bicicleta Mountain Bike Vairo SX 3.0
 
 Cuadro Large y rodado 26
@@ -191,15 +203,15 @@ Precio: $ 600
 ![Foto](/blog/assets/Garage_Sale/amasadora2.jpeg)
 
 Precio: $ 22.000
---&gt;
+-->
 
-&lt;h3 id=&quot;batidora-de-mano-philips-300w&quot;&gt;Batidora de mano Philips 300W&lt;/h3&gt;
+<h3 id="batidora-de-mano-philips-300w">Batidora de mano Philips 300W</h3>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/batidora.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/batidora.jpeg" alt="Foto" /></p>
 
-&lt;p&gt;Precio: $ 6.000&lt;/p&gt;
+<p>Precio: $ 6.000</p>
 
-&lt;!--
+<!--
 ### Multiprocesadora y licuadora Moulinex Multichef
 
 ![Foto](/blog/assets/Garage_Sale/multiprocesadora.jpeg)
@@ -207,46 +219,46 @@ Precio: $ 22.000
 ![Foto](/blog/assets/Garage_Sale/multiprocesadora2.jpeg)
 
 Precio: $ 10.000
---&gt;
+-->
 
-&lt;h3 id=&quot;pochoclera&quot;&gt;Pochoclera&lt;/h3&gt;
+<h3 id="pochoclera">Pochoclera</h3>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/pochoclera.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/pochoclera.jpeg" alt="Foto" /></p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/pochoclera2.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/pochoclera2.jpeg" alt="Foto" /></p>
 
-&lt;p&gt;Precio: $ 6.000&lt;/p&gt;
+<p>Precio: $ 6.000</p>
 
-&lt;h2 id=&quot;electronica_consumo&quot;&gt;Electronica de consumo&lt;/h2&gt;
+<h2 id="electronica_consumo">Electronica de consumo</h2>
 
-&lt;!--
-### Televisor LED Smart Sony 3D 47&quot; 
+<!--
+### Televisor LED Smart Sony 3D 47" 
 Control remoto. 4 anteojos 3D. 2 anteojos para jugar pantalla dividida como pantalla completa. Manuales.
 
 ![Foto](/blog/assets/Garage_Sale/tv47.jpg)
 
 ~~Precio: $ 45.000 (Vendido)~~
---&gt;
+-->
 
-&lt;h3 id=&quot;televisor-lcd-philips-32-32pfl533277&quot;&gt;Televisor LCD Philips 32” 32PFL5332/77&lt;/h3&gt;
+<h3 id="televisor-lcd-philips-32-32pfl533277">Televisor LCD Philips 32” 32PFL5332/77</h3>
 
-&lt;p&gt;Buen estado, 4 entradas HDMI, 1080i&lt;/p&gt;
+<p>Buen estado, 4 entradas HDMI, 1080i</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/tvphilips.jpg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/tvphilips2.webp&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/tvphilips.jpg" alt="Foto" />
+<img src="/blog/assets/Garage_Sale/tvphilips2.webp" alt="Foto" /></p>
 
-&lt;p&gt;Precio: $28.000&lt;/p&gt;
+<p>Precio: $28.000</p>
 
-&lt;!--
-### Televisor LED Philco 24&quot; Full HD PLD2416HTX
+<!--
+### Televisor LED Philco 24" Full HD PLD2416HTX
 
 Buen estado. 2 entradas HDMI, entrada de cable, control remoto
 
 ![Foto](/blog/assets/Garage_Sale/tvphilco.jpg)
 
 Precio: $12.000
---&gt;
-&lt;!--
+-->
+<!--
 ### IPAD 4 (4ta generación) Modelo A1458
 
 Buen estado, con cable y cargador.
@@ -261,15 +273,15 @@ Precio: $22.000
 ### Camara de filmar FullHD JVC GZ-EX210BU
 Camara a memoria uSD zoom 40X sin uso, como nueva.
 
-&lt;https://www.bhphotovideo.com/c/product/834567-REG/JVC_GZ_EX210BUS_GZ_EX210_Full_HD_Everio.html&gt;
+<https://www.bhphotovideo.com/c/product/834567-REG/JVC_GZ_EX210BUS_GZ_EX210_Full_HD_Everio.html>
 
 ![Foto](/blog/assets/Garage_Sale/everio.jpg)
 ![Foto](/blog/assets/Garage_Sale/everio2.jpg)
 
 ~~Precio: $18.000~~ Vendida
---&gt;
+-->
 
-&lt;!--
+<!--
 
 ### Computadora Gamer comprada en 2020
 
@@ -292,20 +304,20 @@ Precio de reposición aproximado: $ 160.000
 
 Precio: $125.000 (Se puede entregar la semana del 12/7)
 
---&gt;
+-->
 
-&lt;!--
+<!--
 
-### Monitor 22&quot; LG LED IPS Full HD 75Hz 
+### Monitor 22" LG LED IPS Full HD 75Hz 
 Modelo 22MN430H-B. 7 meses de uso.
 
 ![Foto](/blog/assets/Garage_Sale/monitor.jpeg)
 
 ~~Precio: $17.000 (Se puede entregar la semana del 12/7)~~ Vendido
 
---&gt;
+-->
 
-&lt;!--
+<!--
 ### Guitarra Eléctrica Les Paul Vintage V100
 Impecable, comprada en 2020. Con funda.
 
@@ -318,24 +330,24 @@ Precio: $45.000
 ![Foto](/blog/assets/Garage_Sale/amplificador.jpeg)
 
 Precio: $15.000
---&gt;
+-->
 
-&lt;!--
+<!--
 ### Switch Linksys Administrable 8 bocas + 1 Giga + 1GBIC
 Modelo SRW208G. Gestionable, Vlans. etc
 
 ![Foto](/blog/assets/Garage_Sale/switch.jpg)
 
 Precio: $3.500
---&gt;
+-->
 
-&lt;!--
+<!--
 ## Electronica {#electronica}
 
 ### Spartan 3E Starter Kit
 Kit super completo, conector de alta frecuencia, placa adaptadora
 
-&lt;https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf&gt;
+<https://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf>
 
 ![Foto](/blog/assets/Garage_Sale/spartan3_starter1.jpg)
 ![Foto](/blog/assets/Garage_Sale/spartan3_starter2.jpg)
@@ -344,7 +356,7 @@ Kit super completo, conector de alta frecuencia, placa adaptadora
 ~~Precio: USD 100~~ Vendida
 
 ### Digilent Arty Z7
-&lt;https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/&gt;
+<https://store.digilentinc.com/arty-z7-zynq-7000-soc-development-board/>
 
 ![Foto](/blog/assets/Garage_Sale/arty_z7.jpg)
 
@@ -354,7 +366,7 @@ Precio referencia: USD 169 (USA + USD 57 envio),
 
 ### Estación de soldado Aoyue 968+ SMD Digital Hot Air Rework Station
 Kit completo con juego de puntas, bocas de aire, resistencia, mangueras de repuesto sin usar y accesorios.
-&lt;https://www.amazon.com/-/es/gp/product/B00KEY17VI/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&amp;psc=1&gt;
+<https://www.amazon.com/-/es/gp/product/B00KEY17VI/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1>
 
 ![Foto](/blog/assets/Garage_Sale/estacion_soldado.jpg)
 ![Foto](/blog/assets/Garage_Sale/estacion_soldado2.jpg)
@@ -367,7 +379,7 @@ Precio USD 216
 
 ### Osciloscopio Rigol DS1102E (100Mhz 2Ch)
 
-&lt;https://www.rigolna.com/products/digital-oscilloscopes/1000/&gt;
+<https://www.rigolna.com/products/digital-oscilloscopes/1000/>
 
 ![Foto](/blog/assets/Garage_Sale/osciloscopio.jpg)
 
@@ -376,7 +388,7 @@ Precio referencia: USD 299 (USA sin envio)
 Precio: $60.000
 
 ### Generador de señales Juntek JDS-2900 60 Mhz
-&lt;https://www.amazon.es/gp/product/B07GFJNCHG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;psc=1&gt;
+<https://www.amazon.es/gp/product/B07GFJNCHG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1>
 
 ![Foto](/blog/assets/Garage_Sale/generador.jpg)
 
@@ -387,128 +399,120 @@ Precio: USD 160
 ### Raspberry Pi 3 Kit
 Con fuente, disipadores y case.
 
-&lt;https://www.amazon.com/-/es/gp/product/B01C6EQNNK/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&amp;psc=1&gt;
+<https://www.amazon.com/-/es/gp/product/B01C6EQNNK/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&psc=1>
 
 Precio referencia: USD 55 (USA sin envio)
 
 Precio: USD 55
 
---&gt;
+-->
 
-&lt;h2 id=&quot;herramientas&quot;&gt;Herramientas&lt;/h2&gt;
+<h2 id="herramientas">Herramientas</h2>
 
-&lt;h3 id=&quot;amoladora-black--decker-820w&quot;&gt;Amoladora Black &amp;amp; Decker 820W&lt;/h3&gt;
+<h3 id="amoladora-black--decker-820w">Amoladora Black &amp; Decker 820W</h3>
 
-&lt;p&gt;Solo 1 uso.&lt;/p&gt;
+<p>Solo 1 uso.</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/amoladora.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/amoladora.jpg" alt="Foto" /></p>
 
-&lt;p&gt;Precio: $ 7.000&lt;/p&gt;
+<p>Precio: $ 7.000</p>
 
-&lt;h3 id=&quot;lijadora-black--decker-135w&quot;&gt;Lijadora Black &amp;amp; Decker 135W&lt;/h3&gt;
+<h3 id="lijadora-black--decker-135w">Lijadora Black &amp; Decker 135W</h3>
 
-&lt;p&gt;Poco uso.&lt;/p&gt;
+<p>Poco uso.</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/lijadora.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/lijadora.jpg" alt="Foto" /></p>
 
-&lt;p&gt;Precio: $ 6.000&lt;/p&gt;
+<p>Precio: $ 6.000</p>
 
-&lt;h3 id=&quot;caladora-black--decker&quot;&gt;Caladora Black &amp;amp; Decker&lt;/h3&gt;
+<h2 id="muebles">Muebles</h2>
 
-&lt;p&gt;Poco uso.&lt;/p&gt;
+<h3 id="mesa-de-apoyo-de-vidrio">Mesa de apoyo de vidrio</h3>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/caladora.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p>Ideal para los costados de un sillon. 50cm de diametro y 71cm de altura.</p>
 
-&lt;p&gt;Precio: $ 7.000&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/mesitas.jpeg" alt="Foto" />
+<img src="/blog/assets/Garage_Sale/mesitas2.jpeg" alt="Foto" />
+<img src="/blog/assets/Garage_Sale/mesitas3.jpeg" alt="Foto" /></p>
 
-&lt;h2 id=&quot;muebles&quot;&gt;Muebles&lt;/h2&gt;
+<p>Precio: $ 22.000</p>
 
-&lt;h3 id=&quot;mesa-de-apoyo-de-vidrio&quot;&gt;Mesa de apoyo de vidrio&lt;/h3&gt;
-
-&lt;p&gt;Ideal para los costados de un sillon. 50cm de diametro y 71cm de altura.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/mesitas.jpeg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/mesitas2.jpeg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/mesitas3.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Precio: $ 22.000&lt;/p&gt;
-
-&lt;!--
+<!--
 ### Biblioteca de Cerezo
 Tamaño 1.90 x 0.95
 
 ![Foto](/blog/assets/Garage_Sale/biblioteca.jpeg)
 
 ~~Precio: $40.000~~ Vendido
---&gt;
+-->
 
-&lt;h3 id=&quot;cómoda-antigua-estilo-ingles&quot;&gt;Cómoda antigua estilo ingles&lt;/h3&gt;
-&lt;p&gt;98 cm x 48 cm. 4 Cajones&lt;/p&gt;
+<h3 id="cómoda-antigua-estilo-ingles">Cómoda antigua estilo ingles</h3>
+<p>98 cm x 48 cm. 4 Cajones</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/comodaana.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/comodaana.jpeg" alt="Foto" /></p>
 
-&lt;p&gt;Precio: $ 40.000&lt;/p&gt;
+<p>Precio: $ 40.000</p>
 
-&lt;h3 id=&quot;juego-de-escritorio-y-comoda&quot;&gt;Juego de escritorio y comoda&lt;/h3&gt;
-&lt;p&gt;Impecable, un año de uso. Se vende junto o por separado.&lt;/p&gt;
+<h3 id="juego-de-escritorio-y-comoda">Juego de escritorio y comoda</h3>
+<p>Impecable, un año de uso. Se vende junto o por separado.</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/escritorio.jpeg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/escritorio2.jpeg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/comoda.jpeg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/comoda2.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/escritorio.jpeg" alt="Foto" />
+<img src="/blog/assets/Garage_Sale/escritorio2.jpeg" alt="Foto" />
+<img src="/blog/assets/Garage_Sale/comoda.jpeg" alt="Foto" />
+<img src="/blog/assets/Garage_Sale/comoda2.jpeg" alt="Foto" /></p>
 
-&lt;p&gt;Precio escritorio: $20.000&lt;/p&gt;
+<p>Precio escritorio: $20.000</p>
 
-&lt;p&gt;Precio comoda: $40.000&lt;/p&gt;
+<p>Precio comoda: $40.000</p>
 
-&lt;h3 id=&quot;mesa-de-cerezo-extensible&quot;&gt;Mesa de Cerezo (extensible)&lt;/h3&gt;
+<h3 id="mesa-de-cerezo-extensible">Mesa de Cerezo (extensible)</h3>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/mesa.jpeg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/mesa2.jpeg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/mesa3.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/mesa.jpeg" alt="Foto" />
+<img src="/blog/assets/Garage_Sale/mesa2.jpeg" alt="Foto" />
+<img src="/blog/assets/Garage_Sale/mesa3.jpeg" alt="Foto" /></p>
 
-&lt;p&gt;Precio: $40.000&lt;/p&gt;
+<p>Precio: $40.000</p>
 
-&lt;h3 id=&quot;sommier-doble-la-cardeuse-con-carrito-2m-x-1m&quot;&gt;Sommier doble la Cardeuse con carrito 2m x 1m&lt;/h3&gt;
+<h3 id="sommier-doble-la-cardeuse-con-carrito-2m-x-1m">Sommier doble la Cardeuse con carrito 2m x 1m</h3>
 
-&lt;p&gt;Poco uso (1 año)&lt;/p&gt;
+<p>Poco uso (1 año)</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/cama_mateo.webp&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/cama_mateo.webp" alt="Foto" /></p>
 
-&lt;p&gt;Precio $150.000&lt;/p&gt;
+<p>Precio $150.000</p>
 
-&lt;h3 id=&quot;sommier-queen-simmons-backcare&quot;&gt;Sommier Queen Simmons Backcare&lt;/h3&gt;
+<h3 id="sommier-queen-simmons-backcare">Sommier Queen Simmons Backcare</h3>
 
-&lt;p&gt;10 años de uso&lt;/p&gt;
+<p>10 años de uso</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/sommier.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/sommier.jpeg" alt="Foto" /></p>
 
-&lt;p&gt;$ 80.000&lt;/p&gt;
+<p>$ 80.000</p>
 
-&lt;h3 id=&quot;mesitas-de-luz-cerezo&quot;&gt;Mesitas de luz Cerezo&lt;/h3&gt;
+<h3 id="mesitas-de-luz-cerezo">Mesitas de luz Cerezo</h3>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/sommier.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/sommier.jpeg" alt="Foto" /></p>
 
-&lt;p&gt;$ 10.000 c/u&lt;/p&gt;
+<p>$ 10.000 c/u</p>
 
-&lt;h3 id=&quot;juego-mesa-de-vidrio-con-estante-inferior-y-6-sillas&quot;&gt;Juego Mesa de vidrio con estante inferior y 6 sillas&lt;/h3&gt;
+<h3 id="juego-mesa-de-vidrio-con-estante-inferior-y-6-sillas">Juego Mesa de vidrio con estante inferior y 6 sillas</h3>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/mesa_cocina1.jpeg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/mesa_cocina2.jpeg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/mesa_cocina3.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/mesa_cocina1.jpeg" alt="Foto" />
+<img src="/blog/assets/Garage_Sale/mesa_cocina2.jpeg" alt="Foto" />
+<img src="/blog/assets/Garage_Sale/mesa_cocina3.jpeg" alt="Foto" /></p>
 
-&lt;p&gt;Precio: $90.000&lt;/p&gt;
+<p>Precio: $90.000</p>
 
-&lt;h3 id=&quot;mueble-para-tv&quot;&gt;Mueble para tv&lt;/h3&gt;
+<h3 id="mueble-para-tv">Mueble para tv</h3>
 
-&lt;p&gt;Impecable. 2.5m x 0.40m&lt;/p&gt;
+<p>Impecable. 2.5m x 0.40m</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/mesa_tv.jpeg&quot; alt=&quot;Foto&quot; /&gt;
-&lt;img src=&quot;/blog/assets/Garage_Sale/mesa_tv2.jpeg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/mesa_tv.jpeg" alt="Foto" />
+<img src="/blog/assets/Garage_Sale/mesa_tv2.jpeg" alt="Foto" /></p>
 
-&lt;p&gt;Precio: $85.000&lt;/p&gt;
+<p>Precio: $85.000</p>
 
-&lt;!---
+<!---
 ### Mesa ratona
 1.20 x 0.60
 
@@ -517,15 +521,15 @@ Tamaño 1.90 x 0.95
 
 Precio: $30.000
 
---&gt;
+-->
 
-&lt;h3 id=&quot;espejo-con-marco-de-madera-de-098-x-078&quot;&gt;Espejo con marco de madera de 0.98 x 0.78&lt;/h3&gt;
+<h3 id="espejo-con-marco-de-madera-de-098-x-078">Espejo con marco de madera de 0.98 x 0.78</h3>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/Garage_Sale/espejo.jpg&quot; alt=&quot;Foto&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/Garage_Sale/espejo.jpg" alt="Foto" /></p>
 
-&lt;p&gt;Precio: $20.000&lt;/p&gt;
+<p>Precio: $20.000</p>
 
-&lt;!--
+<!--
 ### Sillones Luis XV tapizado gris
 
 ![Foto](/blog/assets/Garage_Sale/silloncitos.jpeg)
@@ -538,18 +542,18 @@ Precio: $30.000
 ![Foto](/blog/assets/Garage_Sale/matero2.jpeg)
 
 ~~Precio: $ 6.000~~
---&gt;
+-->
 
-&lt;!--
+<!--
 ### 6 Sillas de cerezo en juego con la mesa
 
 ![Foto](/blog/assets/Garage_Sale/sillas.jpeg)
 ![Foto](/blog/assets/Garage_Sale/sillas2.jpeg)
 
 ~~Precio: $18.000~~ Vendidas
---&gt;
+-->
 
-&lt;!--
+<!--
 ### Alfombra/carpeta de 1.75 x 2.25
 Poco uso, guardada luego de limpieza en tintoreria.
 
@@ -566,53 +570,53 @@ Madera y metalicos
 
 ~~Precio: $1.800 el par o $1.000 cada uno)~~ Vendidos
 
---&gt;</content><author><name></name></author><category term="personal" /><summary type="html">Se actualiza periodicamente. Mensajes por privado: 11-31161975</summary></entry><entry><title type="html">Avoiding SQL Injections: MQTT + Node-red + SQL database</title><link href="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html" rel="alternate" type="text/html" title="Avoiding SQL Injections: MQTT + Node-red + SQL database" /><published>2021-05-03T00:00:00+02:00</published><updated>2021-05-03T00:00:00+02:00</updated><id>/blog/embedded/iot/2021/05/03/MQTT-Node-red</id><content type="html" xml:base="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+-->]]></content><author><name></name></author><category term="personal" /><summary type="html"><![CDATA[Se actualiza periodicamente. Mensajes por privado: 11-31161975]]></summary></entry><entry><title type="html">Avoiding SQL Injections: MQTT + Node-red + SQL database</title><link href="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html" rel="alternate" type="text/html" title="Avoiding SQL Injections: MQTT + Node-red + SQL database" /><published>2021-05-03T00:00:00+02:00</published><updated>2021-05-03T00:00:00+02:00</updated><id>/blog/embedded/iot/2021/05/03/MQTT-Node-red</id><content type="html" xml:base="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html"><![CDATA[<h2 id="introduction">Introduction</h2>
 
-&lt;p&gt;Last year I have been working on an embedded solution of remote sensing electric and physical parameters. In &lt;a href=&quot;https://sguarin.github.io/presentaciones/seguridad-mqtt/&quot;&gt;this&lt;/a&gt; presentation I talked about differents aproachs to implement MQTT/TLS connection with authentication validation between an embedded solution and a broker. The examples were presented using ESP32 and the arduino framework.&lt;/p&gt;
+<p>Last year I have been working on an embedded solution of remote sensing electric and physical parameters. In <a href="https://sguarin.github.io/presentaciones/seguridad-mqtt/">this</a> presentation I talked about differents aproachs to implement MQTT/TLS connection with authentication validation between an embedded solution and a broker. The examples were presented using ESP32 and the arduino framework.</p>
 
-&lt;p&gt;The entire solution was originaly conceived as an embedded system, a python service and an ELK stack (Elasticsearch, Logstash and Kibana). I needed to implement an escalable flow from MQTT messages to a PostgreSQL database using Node-red, in order to adapt the embedded solution to an infrastructure currently used by the customer.&lt;/p&gt;
+<p>The entire solution was originaly conceived as an embedded system, a python service and an ELK stack (Elasticsearch, Logstash and Kibana). I needed to implement an escalable flow from MQTT messages to a PostgreSQL database using Node-red, in order to adapt the embedded solution to an infrastructure currently used by the customer.</p>
 
-&lt;p&gt;The following research consists in testing sql injections via MQTT using Mosquitto, Node-red and PostgreSQL in a docker composed lab, but it can be extended to other implementations.  The messages are received via MQTT broker, processed in Node-red and stored on a SQL database.&lt;/p&gt;
+<p>The following research consists in testing sql injections via MQTT using Mosquitto, Node-red and PostgreSQL in a docker composed lab, but it can be extended to other implementations.  The messages are received via MQTT broker, processed in Node-red and stored on a SQL database.</p>
 
-&lt;p&gt;I explored differents Node-red flows found implemented on the customer and in different tutorials/resources found on internet.&lt;/p&gt;
+<p>I explored differents Node-red flows found implemented on the customer and in different tutorials/resources found on internet.</p>
 
-&lt;p&gt;I noticed that security on MQTT is not taken seriously as in http/web. There are a lots of free and open brokers sometimes used for production. Knowledge of valid messages are available to anyone getting subscribed to the topic. An attacker could view and use that kwnowledge to replay the messages trying some injections.&lt;/p&gt;
+<p>I noticed that security on MQTT is not taken seriously as in http/web. There are a lots of free and open brokers sometimes used for production. Knowledge of valid messages are available to anyone getting subscribed to the topic. An attacker could view and use that kwnowledge to replay the messages trying some injections.</p>
 
-&lt;p&gt;After testing against sql injections, I will present some vulnerable scenarios, mitigations and good implementations.&lt;/p&gt;
+<p>After testing against sql injections, I will present some vulnerable scenarios, mitigations and good implementations.</p>
 
-&lt;p&gt;The laboratory provided in this repository requires docker-compose, and instantiates three containers:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mosquitto broker without authentication exposed on port 1884&lt;/li&gt;
-  &lt;li&gt;Node-red without authentication exposed in port 1881&lt;/li&gt;
-  &lt;li&gt;Postgresql with with a testing database smr exposed in port 5433., accesed with user:smmruser, and password:smmruser00&lt;/li&gt;
-&lt;/ul&gt;
+<p>The laboratory provided in this repository requires docker-compose, and instantiates three containers:</p>
+<ul>
+  <li>Mosquitto broker without authentication exposed on port 1884</li>
+  <li>Node-red without authentication exposed in port 1881</li>
+  <li>Postgresql with with a testing database smr exposed in port 5433., accesed with user:smmruser, and password:smmruser00</li>
+</ul>
 
-&lt;p&gt;All services are exposed for academic testing purposes. You can use or adapt this lab, to test your implementations.&lt;/p&gt;
+<p>All services are exposed for academic testing purposes. You can use or adapt this lab, to test your implementations.</p>
 
-&lt;h2 id=&quot;starting-environment&quot;&gt;Starting environment&lt;/h2&gt;
+<h2 id="starting-environment">Starting environment</h2>
 
-&lt;p&gt;You can run the clients inside the container or you can install mosquitto and postgresql client on your computer. The commands presented uses the second aproach.&lt;/p&gt;
+<p>You can run the clients inside the container or you can install mosquitto and postgresql client on your computer. The commands presented uses the second aproach.</p>
 
-&lt;p&gt;The lab can be cloned from: &lt;a href=&quot;https://github.com/sguarin/machine-mqtt-node-red/&quot;&gt;https://github.com/sguarin/machine-mqtt-node-red/&lt;/a&gt;&lt;/p&gt;
+<p>The lab can be cloned from: <a href="https://github.com/sguarin/machine-mqtt-node-red/">https://github.com/sguarin/machine-mqtt-node-red/</a></p>
 
-&lt;p&gt;For each test, you can reset and start a fresh scenario by stopping (CTRL-C on docker-compose terminal) and running again:&lt;/p&gt;
+<p>For each test, you can reset and start a fresh scenario by stopping (CTRL-C on docker-compose terminal) and running again:</p>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;docker-compose up -V
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker-compose up -V
+</code></pre></div></div>
 
-&lt;p&gt;After the containers started, you can connect to the database running the following command and using ‘smmruser00’ as password:&lt;/p&gt;
+<p>After the containers started, you can connect to the database running the following command and using ‘smmruser00’ as password:</p>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;psql -h localhost -p 5433 -U smmruser -d smr
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>psql -h localhost -p 5433 -U smmruser -d smr
+</code></pre></div></div>
 
-&lt;p&gt;Once connected to the database, you can check the initial 10 records in the table smr.air by running:&lt;/p&gt;
+<p>Once connected to the database, you can check the initial 10 records in the table smr.air by running:</p>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;select * from smr.air;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>select * from smr.air;
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</code></pre></div></div>
 
-&lt;p&gt;You will get:&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;smr=# select * from smr.air;
+<p>You will get:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>smr=# select * from smr.air;
  device |         ts          | lat | long | alt | sensor | co2 | tvoc | temp  |  hum  |   pres    |        imported_on         
 --------+---------------------+-----+------+-----+--------+-----+------+-------+-------+-----------+----------------------------
  bme680 | 2021-04-18 00:00:01 |     |      |     | co2    | 765 |    1 |  35.1 | 40.58 |    101451 | 2021-04-17 21:00:01.008461
@@ -625,178 +629,178 @@ Madera y metalicos
  ccs811 | 2021-04-18 00:00:03 |     |      |     | co2    | 418 |    2 |  30.8 |  61.8 |  101479.3 | 2021-04-17 21:00:02.851117
  ccs811 | 2021-04-18 00:00:04 |     |      |     | co2    | 415 |    2 |  30.8 |  61.8 | 101480.59 | 2021-04-17 21:00:03.845351
  ccs811 | 2021-04-18 00:00:05 |     |      |     | co2    | 406 |    0 |  30.8 |  61.8 | 101481.78 | 2021-04-17 21:00:04.848899
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</code></pre></div></div>
 
-&lt;p&gt;Optionaly, you can connnect to http://localhost:1881 to interact in Node-red web gui and play around with each implementation.&lt;/p&gt;
+<p>Optionaly, you can connnect to http://localhost:1881 to interact in Node-red web gui and play around with each implementation.</p>
 
-&lt;p&gt;After you got the lab running, you can run each test by running the apropiate mosquitto client commands.&lt;/p&gt;
+<p>After you got the lab running, you can run each test by running the apropiate mosquitto client commands.</p>
 
-&lt;h2 id=&quot;test-1-csv--js-concatenation&quot;&gt;Test 1: CSV + JS concatenation&lt;/h2&gt;
+<h2 id="test-1-csv--js-concatenation">Test 1: CSV + JS concatenation</h2>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test1.png&quot; alt=&quot;Test 1&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/2021-05-03-test1.png" alt="Test 1" /></p>
 
-&lt;p&gt;This is the more basic aproach, we receive a comma separated value message, then we construct the query concatenating the values and feed the PosgreSQL node.&lt;/p&gt;
+<p>This is the more basic aproach, we receive a comma separated value message, then we construct the query concatenating the values and feed the PosgreSQL node.</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test1_code.png&quot; alt=&quot;Test 1 code&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/2021-05-03-test1_code.png" alt="Test 1 code" /></p>
 
-&lt;p&gt;I was very surprised reading this aproach on lot of blogs and forums without noticing the security issues involved.&lt;/p&gt;
+<p>I was very surprised reading this aproach on lot of blogs and forums without noticing the security issues involved.</p>
 
-&lt;p&gt;In a normal use, you can simulate a message running the following command on your host machine:&lt;/p&gt;
+<p>In a normal use, you can simulate a message running the following command on your host machine:</p>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test1 -m &quot;ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test1 -m "ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27"
+</code></pre></div></div>
 
-&lt;p&gt;You can now verify, that there are 11 records on the table with the query command described previosly.&lt;/p&gt;
+<p>You can now verify, that there are 11 records on the table with the query command described previosly.</p>
 
-&lt;p&gt;After running the following simple attack you can verify that all records were deleted on the database.&lt;/p&gt;
+<p>After running the following simple attack you can verify that all records were deleted on the database.</p>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test1 -m &quot;ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27); delete from smr.air--&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test1 -m "ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27); delete from smr.air--"
+</code></pre></div></div>
 
-&lt;p&gt;Of course there is no reflection neither a blind response on this injection, so you can’t guess the table name. I choosed this payload for academic purpose, but there are lots of payloads from testing for admin privileges, using postgresql functions, etc.&lt;/p&gt;
+<p>Of course there is no reflection neither a blind response on this injection, so you can’t guess the table name. I choosed this payload for academic purpose, but there are lots of payloads from testing for admin privileges, using postgresql functions, etc.</p>
 
-&lt;p&gt;For example you can use pg_sleep to prevent the transaction from being commited inmediately, and get the thread and connection resource blocked in an iddle state for x seconds.&lt;/p&gt;
+<p>For example you can use pg_sleep to prevent the transaction from being commited inmediately, and get the thread and connection resource blocked in an iddle state for x seconds.</p>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test1 -m &quot;ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27); select pg_sleep(60)--&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test1 -m "ccs811,2021-04-18 01:33:57,,,,co2,1559,212,31.61,59.83,101543.27); select pg_sleep(60)--"
+</code></pre></div></div>
 
-&lt;p&gt;Abusing with multiple use of this payload may get a denial of service.&lt;/p&gt;
+<p>Abusing with multiple use of this payload may get a denial of service.</p>
 
-&lt;h2 id=&quot;test-2-csv--template-block&quot;&gt;Test 2: CSV + Template block&lt;/h2&gt;
+<h2 id="test-2-csv--template-block">Test 2: CSV + Template block</h2>
 
-&lt;p&gt;The second aproach I found googling is using the Template node:&lt;/p&gt;
+<p>The second aproach I found googling is using the Template node:</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test2.png&quot; alt=&quot;Test 2&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/2021-05-03-test2.png" alt="Test 2" /></p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test2_code.png&quot; alt=&quot;Test 2 code&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/2021-05-03-test2_code.png" alt="Test 2 code" /></p>
 
-&lt;p&gt;You can try the same MQTT messages on previous test but on topic test2 instead. You will get the same results.&lt;/p&gt;
+<p>You can try the same MQTT messages on previous test but on topic test2 instead. You will get the same results.</p>
 
-&lt;h2 id=&quot;test-3-sqlstring-node&quot;&gt;Test 3: SQLString Node&lt;/h2&gt;
+<h2 id="test-3-sqlstring-node">Test 3: SQLString Node</h2>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test3.png&quot; alt=&quot;Test 2&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/2021-05-03-test3.png" alt="Test 2" /></p>
 
-&lt;p&gt;SQLString node is an optional node-red module already installed on the lab:
-It works well on strings, but if you need to store numeric values you need to cast them back.&lt;/p&gt;
+<p>SQLString node is an optional node-red module already installed on the lab:
+It works well on strings, but if you need to store numeric values you need to cast them back.</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test3_code.png&quot; alt=&quot;Test 3 code&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/2021-05-03-test3_code.png" alt="Test 3 code" /></p>
 
-&lt;p&gt;This aproach handles all parameters as strings, then does quote escaping (‘co2’’ as ‘co2&apos;’) and finally construct the query.
-You can’t use the dollar sign quote or other bypass techniques as it handles all the columns as strings adding two final quotes.&lt;/p&gt;
+<p>This aproach handles all parameters as strings, then does quote escaping (‘co2’’ as ‘co2'’) and finally construct the query.
+You can’t use the dollar sign quote or other bypass techniques as it handles all the columns as strings adding two final quotes.</p>
 
-&lt;p&gt;Is not very efficient because all the numeric values are treated as strings, so you need to cast them again back to numeric for proper storage.&lt;/p&gt;
+<p>Is not very efficient because all the numeric values are treated as strings, so you need to cast them again back to numeric for proper storage.</p>
 
-&lt;p&gt;An attempt to an injection may cause some logging overloads. Nothing serious.&lt;/p&gt;
+<p>An attempt to an injection may cause some logging overloads. Nothing serious.</p>
 
-&lt;p&gt;I could not got a succesfull sql injection with this implementation.&lt;/p&gt;
+<p>I could not got a succesfull sql injection with this implementation.</p>
 
-&lt;h2 id=&quot;test-4-json--js-concatenation&quot;&gt;Test 4: JSON + JS concatenation&lt;/h2&gt;
+<h2 id="test-4-json--js-concatenation">Test 4: JSON + JS concatenation</h2>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test4.png&quot; alt=&quot;Test 4&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/2021-05-03-test4.png" alt="Test 4" /></p>
 
-&lt;p&gt;Similar as the first test case, but when I tried it, I was wondering if the json node block will do some sanity checks. Unfortunately not.&lt;/p&gt;
+<p>Similar as the first test case, but when I tried it, I was wondering if the json node block will do some sanity checks. Unfortunately not.</p>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test4 -m &apos;{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:101543.27}&apos;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test4 -m '{"device":"ccs811","ts":"2021-04-18 01:33:57","sensor":"co2","co2":1559,"tvoc":212,"temp":31.61,"hum":59.83,"pres":101543.27}'
+</code></pre></div></div>
 
-&lt;p&gt;Attack:&lt;/p&gt;
+<p>Attack:</p>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test4 -m &apos;{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:&quot;101543.27);delete from smr.air --&quot;}&apos;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test4 -m '{"device":"ccs811","ts":"2021-04-18 01:33:57","sensor":"co2","co2":1559,"tvoc":212,"temp":31.61,"hum":59.83,"pres":"101543.27);delete from smr.air --"}'
+</code></pre></div></div>
 
-&lt;h2 id=&quot;test-5-js-separate-query-from-params&quot;&gt;Test 5: JS Separate query from params&lt;/h2&gt;
+<h2 id="test-5-js-separate-query-from-params">Test 5: JS Separate query from params</h2>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test5.png&quot; alt=&quot;Test 4&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/2021-05-03-test5.png" alt="Test 4" /></p>
 
-&lt;p&gt;Well, by definition this should be the first aproach. Separating the query from the parameters that can be injected from external entities is by definition the “defensive programming” against SQL injections.&lt;/p&gt;
+<p>Well, by definition this should be the first aproach. Separating the query from the parameters that can be injected from external entities is by definition the “defensive programming” against SQL injections.</p>
 
-&lt;p&gt;At the time of this writing, the documentation of &lt;a href=&quot;https://flows.nodered.org/node/node-red-contrib-re-postgres&quot;&gt;node-red-contrib-re-postgres&lt;/a&gt; mention this, but lacks of some examples.
-This is an example of building a dictionary with the parameters and on the other hand construct the query. The dictionary keys can be referenced from the query as $key.&lt;/p&gt;
+<p>At the time of this writing, the documentation of <a href="https://flows.nodered.org/node/node-red-contrib-re-postgres">node-red-contrib-re-postgres</a> mention this, but lacks of some examples.
+This is an example of building a dictionary with the parameters and on the other hand construct the query. The dictionary keys can be referenced from the query as $key.</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/2021-05-03-test5_code.png&quot; alt=&quot;Test 4&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/2021-05-03-test5_code.png" alt="Test 4" /></p>
 
-&lt;p&gt;Valid packet for testing:&lt;/p&gt;
+<p>Valid packet for testing:</p>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test4 -m &apos;{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:101543.27}&apos;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test4 -m '{"device":"ccs811","ts":"2021-04-18 01:33:57","sensor":"co2","co2":1559,"tvoc":212,"temp":31.61,"hum":59.83,"pres":101543.27}'
+</code></pre></div></div>
 
-&lt;p&gt;Rejected attack:&lt;/p&gt;
+<p>Rejected attack:</p>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mosquitto_pub -h localhost -p 1884 -t test5 -m &apos;{&quot;device&quot;:&quot;ccs811&quot;,&quot;ts&quot;:&quot;2021-04-18 01:33:57&quot;,&quot;sensor&quot;:&quot;co2&quot;,&quot;co2&quot;:1559,&quot;tvoc&quot;:212,&quot;temp&quot;:31.61,&quot;hum&quot;:59.83,&quot;pres&quot;:&quot;101543.27);delete from smr.air --&quot;}&apos;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mosquitto_pub -h localhost -p 1884 -t test5 -m '{"device":"ccs811","ts":"2021-04-18 01:33:57","sensor":"co2","co2":1559,"tvoc":212,"temp":31.61,"hum":59.83,"pres":"101543.27);delete from smr.air --"}'
+</code></pre></div></div>
 
-&lt;p&gt;You can also test some payloads near a string parameter verifying that commands also can’t be injected.&lt;/p&gt;
+<p>You can also test some payloads near a string parameter verifying that commands also can’t be injected.</p>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ccs811 | 2021-04-18 01:33:57 |     |      |     | co2&apos;); --     | 1559 |  212 | 31.61 | 59.83 | 101543.27 | 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> ccs811 | 2021-04-18 01:33:57 |     |      |     | co2'); --     | 1559 |  212 | 31.61 | 59.83 | 101543.27 | 
  ccs811 | 2021-04-18 01:33:57 |     |      |     | co2$$a$$); -- | 1559 |  212 | 31.61 | 59.83 | 101543.27 | 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</code></pre></div></div>
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+<h2 id="conclusion">Conclusion</h2>
 
-&lt;p&gt;Programming with gui frameworks open the posibility to program to more public. But unoficial tutorials or documentation tend to appear substancially, in this case with lot of security conccerns.&lt;/p&gt;
+<p>Programming with gui frameworks open the posibility to program to more public. But unoficial tutorials or documentation tend to appear substancially, in this case with lot of security conccerns.</p>
 
-&lt;p&gt;In my opinion the last aproach is the more suitable for dealing with MQTT and storing in SQL databases besides is not very well documented.&lt;/p&gt;
+<p>In my opinion the last aproach is the more suitable for dealing with MQTT and storing in SQL databases besides is not very well documented.</p>
 
-&lt;p&gt;I hope this lab and tutorial helps to explain how injections could be performed via MQTT protocol.&lt;/p&gt;
+<p>I hope this lab and tutorial helps to explain how injections could be performed via MQTT protocol.</p>
 
-&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+<h2 id="references">References</h2>
 
-&lt;ul&gt;
-  &lt;li&gt;https://owasp.org/www-community/attacks/SQL_Injection&lt;/li&gt;
-  &lt;li&gt;https://www.infigo.hr/files/INFIGO-TD-2009-04_PostgreSQL_injection_ENG.pdf&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Embedded" /><category term="IOT" /><summary type="html">Introduction</summary></entry><entry><title type="html">Presentation about MQTT Security (Spanish)</title><link href="/blog/embedded/iot/2020/12/15/presentacion-seguridad-mqtt.html" rel="alternate" type="text/html" title="Presentation about MQTT Security (Spanish)" /><published>2020-12-15T00:00:00+01:00</published><updated>2020-12-15T00:00:00+01:00</updated><id>/blog/embedded/iot/2020/12/15/presentacion-seguridad-mqtt</id><content type="html" xml:base="/blog/embedded/iot/2020/12/15/presentacion-seguridad-mqtt.html">&lt;p&gt;&lt;a href=&quot;https://sguarin.github.io/presentaciones/seguridad-mqtt/&quot;&gt;Presentación&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Embedded" /><category term="IOT" /><summary type="html">Presentación</summary></entry><entry><title type="html">Write up presentation to build an embedded arm lab using Qemu (Spanish)</title><link href="/blog/embedded/2020/10/05/presentation-qemu-arm.html" rel="alternate" type="text/html" title="Write up presentation to build an embedded arm lab using Qemu (Spanish)" /><published>2020-10-05T00:00:00+02:00</published><updated>2020-10-05T00:00:00+02:00</updated><id>/blog/embedded/2020/10/05/presentation-qemu-arm</id><content type="html" xml:base="/blog/embedded/2020/10/05/presentation-qemu-arm.html">&lt;p&gt;&lt;a href=&quot;https://sguarin.github.io/presentaciones/qemu-arm/&quot;&gt;Presentación&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Embedded" /><summary type="html">Presentación</summary></entry><entry><title type="html">Monitoring system for transport - Sistema de monitoreo de material rodante</title><link href="/blog/embedded/2020/08/28/smmr.html" rel="alternate" type="text/html" title="Monitoring system for transport - Sistema de monitoreo de material rodante" /><published>2020-08-28T00:00:00+02:00</published><updated>2020-08-28T00:00:00+02:00</updated><id>/blog/embedded/2020/08/28/smmr</id><content type="html" xml:base="/blog/embedded/2020/08/28/smmr.html">&lt;h2 id=&quot;smmr&quot;&gt;SMMR&lt;/h2&gt;
+<ul>
+  <li>https://owasp.org/www-community/attacks/SQL_Injection</li>
+  <li>https://www.infigo.hr/files/INFIGO-TD-2009-04_PostgreSQL_injection_ENG.pdf</li>
+</ul>]]></content><author><name></name></author><category term="Embedded" /><category term="IOT" /><summary type="html"><![CDATA[Introduction]]></summary></entry><entry><title type="html">Presentation about MQTT Security (Spanish)</title><link href="/blog/embedded/iot/2020/12/15/presentacion-seguridad-mqtt.html" rel="alternate" type="text/html" title="Presentation about MQTT Security (Spanish)" /><published>2020-12-15T00:00:00+01:00</published><updated>2020-12-15T00:00:00+01:00</updated><id>/blog/embedded/iot/2020/12/15/presentacion-seguridad-mqtt</id><content type="html" xml:base="/blog/embedded/iot/2020/12/15/presentacion-seguridad-mqtt.html"><![CDATA[<p><a href="https://sguarin.github.io/presentaciones/seguridad-mqtt/">Presentación</a></p>]]></content><author><name></name></author><category term="Embedded" /><category term="IOT" /><summary type="html"><![CDATA[Presentación]]></summary></entry><entry><title type="html">Write up presentation to build an embedded arm lab using Qemu (Spanish)</title><link href="/blog/embedded/2020/10/05/presentation-qemu-arm.html" rel="alternate" type="text/html" title="Write up presentation to build an embedded arm lab using Qemu (Spanish)" /><published>2020-10-05T00:00:00+02:00</published><updated>2020-10-05T00:00:00+02:00</updated><id>/blog/embedded/2020/10/05/presentation-qemu-arm</id><content type="html" xml:base="/blog/embedded/2020/10/05/presentation-qemu-arm.html"><![CDATA[<p><a href="https://sguarin.github.io/presentaciones/qemu-arm/">Presentación</a></p>]]></content><author><name></name></author><category term="Embedded" /><summary type="html"><![CDATA[Presentación]]></summary></entry><entry><title type="html">Monitoring system for transport - Sistema de monitoreo de material rodante</title><link href="/blog/embedded/2020/08/28/smmr.html" rel="alternate" type="text/html" title="Monitoring system for transport - Sistema de monitoreo de material rodante" /><published>2020-08-28T00:00:00+02:00</published><updated>2020-08-28T00:00:00+02:00</updated><id>/blog/embedded/2020/08/28/smmr</id><content type="html" xml:base="/blog/embedded/2020/08/28/smmr.html"><![CDATA[<h2 id="smmr">SMMR</h2>
 
-&lt;p&gt;CASE is a congress on embedded systems that takes place within the scope of the Argentine Symposium on Embedded Systems (SASE), since 2011.&lt;/p&gt;
+<p>CASE is a congress on embedded systems that takes place within the scope of the Argentine Symposium on Embedded Systems (SASE), since 2011.</p>
 
-&lt;p&gt;Every year it receives dozens of research and development works, in different categories.&lt;/p&gt;
+<p>Every year it receives dozens of research and development works, in different categories.</p>
 
-&lt;p&gt;On 2019 I worked on an embedded system to monitor air quality on public transports. It is a full stack development: hardware, embedded software, comunications and an IOT panel based on ELK stack.&lt;/p&gt;
+<p>On 2019 I worked on an embedded system to monitor air quality on public transports. It is a full stack development: hardware, embedded software, comunications and an IOT panel based on ELK stack.</p>
 
-&lt;p&gt;The following is a rendered image of the PCB 3D model designed using Kicad.&lt;/p&gt;
+<p>The following is a rendered image of the PCB 3D model designed using Kicad.</p>
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/2020-08-28-smmr.png&quot; alt=&quot;SMMR&quot; /&gt;&lt;/p&gt;
+<p><img src="/blog/assets/2020-08-28-smmr.png" alt="SMMR" /></p>
 
-&lt;p&gt;This year the work was presented and accepted as a report in the congress.&lt;/p&gt;
+<p>This year the work was presented and accepted as a report in the congress.</p>
 
-&lt;p&gt;In the following links you can get the details, report and poster.&lt;/p&gt;
+<p>In the following links you can get the details, report and poster.</p>
 
-&lt;p&gt;&lt;a href=&quot;http://www.sase.com.ar/case/ediciones/case2020/trabajos2020/&quot;&gt;CASE 2020&lt;/a&gt;&lt;/p&gt;
+<p><a href="http://www.sase.com.ar/case/ediciones/case2020/trabajos2020/">CASE 2020</a></p>
 
-&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/15l4kSLfoUMNCDmlHPm18k_cDuUhnqqIZ/view?usp=drivesdk&quot;&gt;SMMR Report&lt;/a&gt;&lt;/p&gt;
+<p><a href="https://drive.google.com/file/d/15l4kSLfoUMNCDmlHPm18k_cDuUhnqqIZ/view?usp=drivesdk">SMMR Report</a></p>
 
-&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Fu2-tABYHicCca7ucwhItcxlHTUfKY_D/view?usp=drivesdk&quot;&gt;SMMR Poster&lt;/a&gt;&lt;/p&gt;
+<p><a href="https://drive.google.com/file/d/1Fu2-tABYHicCca7ucwhItcxlHTUfKY_D/view?usp=drivesdk">SMMR Poster</a></p>
 
-&lt;p&gt;Also in relation with the work, I have developed a CCS811 Linux device driver. It was used for comparison and testing performance of the sensor. It can be found here:&lt;/p&gt;
+<p>Also in relation with the work, I have developed a CCS811 Linux device driver. It was used for comparison and testing performance of the sensor. It can be found here:</p>
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/sguarin/ccs811-linux-driver&quot;&gt;https://github.com/sguarin/ccs811-linux-driver&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Embedded" /><summary type="html">SMMR</summary></entry><entry><title type="html">Rooting Samsung A51 for mobile pentesting</title><link href="/blog/mobile/pentest/2020/08/24/root_samsung_a51.html" rel="alternate" type="text/html" title="Rooting Samsung A51 for mobile pentesting" /><published>2020-08-24T05:57:03+02:00</published><updated>2020-08-24T05:57:03+02:00</updated><id>/blog/mobile/pentest/2020/08/24/root_samsung_a51</id><content type="html" xml:base="/blog/mobile/pentest/2020/08/24/root_samsung_a51.html">&lt;h2 id=&quot;samsung-a51&quot;&gt;Samsung A51&lt;/h2&gt;
+<p><a href="https://github.com/sguarin/ccs811-linux-driver">https://github.com/sguarin/ccs811-linux-driver</a></p>]]></content><author><name></name></author><category term="Embedded" /><summary type="html"><![CDATA[SMMR]]></summary></entry><entry><title type="html">Rooting Samsung A51 for mobile pentesting</title><link href="/blog/mobile/pentest/2020/08/24/root_samsung_a51.html" rel="alternate" type="text/html" title="Rooting Samsung A51 for mobile pentesting" /><published>2020-08-24T05:57:03+02:00</published><updated>2020-08-24T05:57:03+02:00</updated><id>/blog/mobile/pentest/2020/08/24/root_samsung_a51</id><content type="html" xml:base="/blog/mobile/pentest/2020/08/24/root_samsung_a51.html"><![CDATA[<h2 id="samsung-a51">Samsung A51</h2>
 
-&lt;h3 id=&quot;unlocking-the-bootloader&quot;&gt;Unlocking the bootloader.&lt;/h3&gt;
+<h3 id="unlocking-the-bootloader">Unlocking the bootloader.</h3>
 
-&lt;ol&gt;
-  &lt;li&gt;Just in case activate Google Account and Samsung Accounts in the phone in case unlocking failure&lt;/li&gt;
-  &lt;li&gt;In Settings -&amp;gt; Phone info -&amp;gt; Software information -&amp;gt; Build number: press 7 times the option to activate Developer mode&lt;/li&gt;
-  &lt;li&gt;In Settings -&amp;gt; Developer mode:enable OEM Unlock/Desbloqueo OEM and USB Debug/Depuracion USB&lt;/li&gt;
-  &lt;li&gt;Shutdown phone by pressing Power and volume Down, and after that select Power off option.&lt;/li&gt;
-  &lt;li&gt;Press simultaneously volume down and up and then plug usb cable.&lt;/li&gt;
-  &lt;li&gt;Release buttons when Samsung screen apears.&lt;/li&gt;
-  &lt;li&gt;Press short volume up to go into download mode.&lt;/li&gt;
-  &lt;li&gt;Reconfigure and enable again developer mode (1 and 2).&lt;/li&gt;
-  &lt;li&gt;Verify OEM Unlock OEM its grayed out.&lt;/li&gt;
-&lt;/ol&gt;
+<ol>
+  <li>Just in case activate Google Account and Samsung Accounts in the phone in case unlocking failure</li>
+  <li>In Settings -&gt; Phone info -&gt; Software information -&gt; Build number: press 7 times the option to activate Developer mode</li>
+  <li>In Settings -&gt; Developer mode:enable OEM Unlock/Desbloqueo OEM and USB Debug/Depuracion USB</li>
+  <li>Shutdown phone by pressing Power and volume Down, and after that select Power off option.</li>
+  <li>Press simultaneously volume down and up and then plug usb cable.</li>
+  <li>Release buttons when Samsung screen apears.</li>
+  <li>Press short volume up to go into download mode.</li>
+  <li>Reconfigure and enable again developer mode (1 and 2).</li>
+  <li>Verify OEM Unlock OEM its grayed out.</li>
+</ol>
 
-&lt;h3 id=&quot;rooting&quot;&gt;Rooting&lt;/h3&gt;
+<h3 id="rooting">Rooting</h3>
 
-&lt;ol&gt;
-  &lt;li&gt;Install Magisk Manager:
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb install MagiskManager-v8.0.2.apk
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Install Samloader
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pip install git+https://github.com/nlscc/samloader.git
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Get samsung last update. At the time of this writing it works to me with this one. Unpack Firmware -&amp;gt; AP_* -&amp;gt; boot.img
-    &lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;samloader -m SM-A515F -r PSN checkupdate
+<ol>
+  <li>Install Magisk Manager:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>adb install MagiskManager-v8.0.2.apk
+</code></pre></div>    </div>
+  </li>
+  <li>Install Samloader
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip install git+https://github.com/nlscc/samloader.git
+</code></pre></div>    </div>
+  </li>
+  <li>Get samsung last update. At the time of this writing it works to me with this one. Unpack Firmware -&gt; AP_* -&gt; boot.img
+    <div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>samloader -m SM-A515F -r PSN checkupdate
 A515FXXU3BTI2/A515FOWB3BTH3/A515FXXU3BTH5/A515FXXU3BTI2
 samloader -m SM-A515F -r PSN download -v A515FXXU3BTI2/A515FOWB3BTH3/A515FXXU3BTH5/A515FXXU3BTI2 -O .
 samloader -m SM-A515F -r PSN decrypt  -v A515FXXU3BTI2/A515FOWB3BTH3/A515FXXU3BTH5/A515FXXU3BTI2 -i SM-A515F_1_20200910175004_86a4taxqdz_fac.zip.enc4 -o SM-A515F_1_20200910175004_86a4taxqdz_fac.zip
@@ -808,53 +812,53 @@ tar -xf ../AP_A515FXXU3BTI2_CL19494987_QB34065784_REV00_user_low_ship_meta_OS10.
 unlz4 boot.img.lz4
 cp boot.img boot-orig.img
 adb push boot.img /sdcard/Download
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From Magisk Manager, select Magisk -&amp;gt; Install -&amp;gt; “Select and Patch a File” and select the boot.img file and then tap on Start&lt;/li&gt;
-  &lt;li&gt;Copy patched file to PC
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb pull /sdcard/Download/magisk_patched.tar
+</code></pre></div>    </div>
+  </li>
+  <li>From Magisk Manager, select Magisk -&gt; Install -&gt; “Select and Patch a File” and select the boot.img file and then tap on Start</li>
+  <li>Copy patched file to PC
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>adb pull /sdcard/Download/magisk_patched.tar
 mv magisk_pathched.img boot.img
-tar -H ustar -c boot.img &amp;gt; boot.tar
+tar -H ustar -c boot.img &gt; boot.tar
 adb reboot bootloader
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Flash boot.tar with Odin in option AP. Auto Reboot must be off. I had some problems with Heimdal and my device.&lt;/li&gt;
-  &lt;li&gt;Enter recovery and Wipe Data (Factory Reset)&lt;/li&gt;
-  &lt;li&gt;Phone does one boot loop, and one slow boot&lt;/li&gt;
-&lt;/ol&gt;
+</code></pre></div>    </div>
+  </li>
+  <li>Flash boot.tar with Odin in option AP. Auto Reboot must be off. I had some problems with Heimdal and my device.</li>
+  <li>Enter recovery and Wipe Data (Factory Reset)</li>
+  <li>Phone does one boot loop, and one slow boot</li>
+</ol>
 
-&lt;h3 id=&quot;mitm-proxy-certificate-burp&quot;&gt;MITM Proxy certificate (Burp)&lt;/h3&gt;
+<h3 id="mitm-proxy-certificate-burp">MITM Proxy certificate (Burp)</h3>
 
-&lt;ol&gt;
-  &lt;li&gt;Download last version of MagiskTrustUserCerts and copy to sdcard/Download (https://github.com/NVISO-BE/MagiskTrustUserCerts). At the tie of writing 0.4.1 is the last one.
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;wget https://github.com/NVISO-BE/MagiskTrustUserCerts/releases/download/v0.4.1/AlwaysTrustUserCerts.zip
+<ol>
+  <li>Download last version of MagiskTrustUserCerts and copy to sdcard/Download (https://github.com/NVISO-BE/MagiskTrustUserCerts). At the tie of writing 0.4.1 is the last one.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget https://github.com/NVISO-BE/MagiskTrustUserCerts/releases/download/v0.4.1/AlwaysTrustUserCerts.zip
 adb push AlwaysTrustUserCerts.zip /sdcard/Download/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Enter Magisk Manager, on the module tap install AlwaysTrustUserCerts.zip and reboot&lt;/li&gt;
-  &lt;li&gt;Configure Burp to listen to your ip address with conectivity to wifi network. Ensure your firewall is enabled for incoming connectiosn in the port configured.&lt;/li&gt;
-  &lt;li&gt;Save cacert of Burp and copy to phone
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb push cacert.der /sdcard/Download/cacert.crt
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Open Download folder with My Files app or the file manager you are using and open certificate and install it as VPN/Applications certificate.&lt;/li&gt;
-  &lt;li&gt;Reboot phone to leave AlwaysTrustUserCerts copy the certificate to system store&lt;/li&gt;
-  &lt;li&gt;Configure Wifi using PC Host IP address/Port as proxy&lt;/li&gt;
-&lt;/ol&gt;
+</code></pre></div>    </div>
+  </li>
+  <li>Enter Magisk Manager, on the module tap install AlwaysTrustUserCerts.zip and reboot</li>
+  <li>Configure Burp to listen to your ip address with conectivity to wifi network. Ensure your firewall is enabled for incoming connectiosn in the port configured.</li>
+  <li>Save cacert of Burp and copy to phone
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>adb push cacert.der /sdcard/Download/cacert.crt
+</code></pre></div>    </div>
+  </li>
+  <li>Open Download folder with My Files app or the file manager you are using and open certificate and install it as VPN/Applications certificate.</li>
+  <li>Reboot phone to leave AlwaysTrustUserCerts copy the certificate to system store</li>
+  <li>Configure Wifi using PC Host IP address/Port as proxy</li>
+</ol>
 
-&lt;h3 id=&quot;flashear-twrp-not-working-yet-waiting-new-version-of-twrp&quot;&gt;Flashear TWRP (NOT WORKING YET, waiting new version of TWRP)&lt;/h3&gt;
+<h3 id="flashear-twrp-not-working-yet-waiting-new-version-of-twrp">Flashear TWRP (NOT WORKING YET, waiting new version of TWRP)</h3>
 
-&lt;ol&gt;
-  &lt;li&gt;Download TWRP not oficial https://droidfilehost.com/download/download-unofficial-twrp-recovery-3-4-0-for-galaxy-a51/&lt;/li&gt;
-  &lt;li&gt;Press simultaneously volume down and up and then plug usb cable.&lt;/li&gt;
-  &lt;li&gt;Use heimdall-frontend:
-    &lt;ol&gt;
-      &lt;li&gt;Tab Utilities, Download archivo PIT&lt;/li&gt;
-      &lt;li&gt;Tab Flash, seleccionar archivo PIT.&lt;/li&gt;
-      &lt;li&gt;Add particion&lt;/li&gt;
-      &lt;li&gt;Select Recovery&lt;/li&gt;
-      &lt;li&gt;Choose recovery.img&lt;/li&gt;
-      &lt;li&gt;Click Start&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="Mobile" /><category term="Pentest" /><summary type="html">Samsung A51</summary></entry></feed>
+<ol>
+  <li>Download TWRP not oficial https://droidfilehost.com/download/download-unofficial-twrp-recovery-3-4-0-for-galaxy-a51/</li>
+  <li>Press simultaneously volume down and up and then plug usb cable.</li>
+  <li>Use heimdall-frontend:
+    <ol>
+      <li>Tab Utilities, Download archivo PIT</li>
+      <li>Tab Flash, seleccionar archivo PIT.</li>
+      <li>Add particion</li>
+      <li>Select Recovery</li>
+      <li>Choose recovery.img</li>
+      <li>Click Start</li>
+    </ol>
+  </li>
+</ol>]]></content><author><name></name></author><category term="Mobile" /><category term="Pentest" /><summary type="html"><![CDATA[Samsung A51]]></summary></entry></feed>
