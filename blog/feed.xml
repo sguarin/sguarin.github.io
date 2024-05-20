@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-05-20T17:14:43+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente. Mensajes por whatsapp: 11-31161975</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-05-20T17:22:07+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente. Mensajes por whatsapp: 11-31161975</p>
 
 <p>Ultima actualización: Viernes 24 de Septiembre</p>
 
@@ -392,7 +392,8 @@ Precio: USD 55
 
 <p><img src="/blog/assets/Garage_Sale/amoladora.jpg" alt="Foto" /></p>
 
-<p>Precio: $ 7.000</p>
+<!-- USD 30 -->
+<p>Precio: $ 30.000</p>
 
 <h3 id="lijadora-black--decker-135w">Lijadora Black &amp; Decker 135W</h3>
 
@@ -400,13 +401,15 @@ Precio: USD 55
 
 <p><img src="/blog/assets/Garage_Sale/lijadora.jpg" alt="Foto" /></p>
 
-<p>Precio: $ 6.000</p>
+<!-- USD 40 -->
+<p>Precio: $ 40.000</p>
 
 <h2 id="muebles">Muebles</h2>
 
 <h3 id="mesa-de-apoyo-de-vidrio">Mesa de apoyo de vidrio</h3>
 
-<p>Ideal para los costados de un sillon. 50cm de diametro y 71cm de altura.</p>
+<!-- Ideal para los costados de un sillon. 50cm de diametro y 71cm de altura. -->
+<p>Ideal para los costados de un sillon. 50cm de diametro y altura regulable.</p>
 
 <p><img src="/blog/assets/Garage_Sale/mesitas.jpeg" alt="Foto" />
 <img src="/blog/assets/Garage_Sale/mesitas2.jpeg" alt="Foto" />
