@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-05-28T20:00:03+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente. Mensajes por whatsapp: 11-31161975</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-05-29T09:36:51+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente incluso agregando mas cosas.</p>
 
-<p>Ultima actualización: Viernes 24 de Septiembre</p>
+<p>Mensajes por whatsapp: 11-31161975</p>
+
+<p>Ultima actualización: Miercoles 29 de Mayo de 2024</p>
 
 <h2 id="rubros">Rubros</h2>
 
@@ -518,7 +520,7 @@ Tamaño 1.90 x 0.95
 <p><img src="/blog/assets/Garage_Sale/sommier.jpeg" alt="Foto" /></p>
 
 <!-- USD 10 -->
-<p>Precio juego mesas de luz: $ 300.000 c/u</p>
+<p>Precio juego mesas de luz: $ 300.000</p>
 
 <p>Precio juego veladores: $ 15.000</p>
 
@@ -592,7 +594,7 @@ Madera y metalicos
 
 ~~Precio: $1.800 el par o $1.000 cada uno)~~ Vendidos
 
--->]]></content><author><name></name></author><category term="personal" /><summary type="html"><![CDATA[Se actualiza periodicamente. Mensajes por whatsapp: 11-31161975]]></summary></entry><entry><title type="html">Avoiding SQL Injections: MQTT + Node-red + SQL database</title><link href="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html" rel="alternate" type="text/html" title="Avoiding SQL Injections: MQTT + Node-red + SQL database" /><published>2021-05-03T00:00:00+02:00</published><updated>2021-05-03T00:00:00+02:00</updated><id>/blog/embedded/iot/2021/05/03/MQTT-Node-red</id><content type="html" xml:base="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html"><![CDATA[<h2 id="introduction">Introduction</h2>
+-->]]></content><author><name></name></author><category term="personal" /><summary type="html"><![CDATA[Se actualiza periodicamente incluso agregando mas cosas.]]></summary></entry><entry><title type="html">Avoiding SQL Injections: MQTT + Node-red + SQL database</title><link href="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html" rel="alternate" type="text/html" title="Avoiding SQL Injections: MQTT + Node-red + SQL database" /><published>2021-05-03T00:00:00+02:00</published><updated>2021-05-03T00:00:00+02:00</updated><id>/blog/embedded/iot/2021/05/03/MQTT-Node-red</id><content type="html" xml:base="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html"><![CDATA[<h2 id="introduction">Introduction</h2>
 
 <p>Last year I have been working on an embedded solution of remote sensing electric and physical parameters. In <a href="https://sguarin.github.io/presentaciones/seguridad-mqtt/">this</a> presentation I talked about differents aproachs to implement MQTT/TLS connection with authentication validation between an embedded solution and a broker. The examples were presented using ESP32 and the arduino framework.</p>
 
