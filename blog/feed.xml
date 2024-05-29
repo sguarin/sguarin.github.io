@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-05-29T09:36:51+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente incluso agregando mas cosas.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-05-29T11:16:44+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente incluso agregando mas cosas.</p>
 
 <p>Mensajes por whatsapp: 11-31161975</p>
 
@@ -146,25 +146,26 @@ Mas <a href="https://www.moreyboogie.eu/es-es/products/morey-mach-7">info</a></p
 
 <p>Precio: USD 100 (o equivalente)</p>
 
-<h3 id="combo-tres-raquetas-niño">Combo tres raquetas niño</h3>
+<!--
+### Combo tres raquetas niño
 
-<p>Suffix Junios 2, 3 y Head Speed 26 Jr</p>
+Suffix Junios 2, 3 y Head Speed 26 Jr
 
-<p>Desde inicio hasta 11-12 años</p>
+Desde inicio hasta 11-12 años
 
-<p><img src="/blog/assets/Garage_Sale/raquetas.jpg" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/raquetas.jpg)
 
-<p><del>Precio: $8.000 (Consultar por separado)</del> Suffix</p>
+~~Precio: $8.000 (Consultar por separado)~~ Suffix 
 
-<p>Precio: $15.000 (Head)
-Precio: $ 3.000 (Suffix Junior 3 verde)</p>
+Precio: $15.000 (Head)
+Precio: $ 3.000 (Suffix Junior 3 verde)
 
-<h3 id="paleta-paddle-wilson-hammer">Paleta paddle Wilson Hammer</h3>
+### Paleta paddle Wilson Hammer
 
-<p><img src="/blog/assets/Garage_Sale/wilson.jpg" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/wilson.jpg)
 
-<p>Precio: $4.000</p>
-
+Precio: $4.000
+-->
 <!--
 ### Funda para asiento de bicicleta sin uso
 
