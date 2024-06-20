@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-06-19T22:19:21+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente incluso agregando mas cosas.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-06-20T17:05:59+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente incluso agregando mas cosas.</p>
 
 <p>Mensajes por whatsapp: 11-31161975</p>
 
@@ -110,7 +110,7 @@ Precio: $4000 -->
 
 <p><img src="/blog/assets/Garage_Sale/tecladomousemicrosoft.jpg" alt="Foto" /></p>
 
-<p>Precio: $35.000</p>
+<p>Precio: $30.000</p>
 
 <!--
 ### Router Linksys EA6100
@@ -178,7 +178,7 @@ Precio: $ 600
 -->
 <h2 id="electrodomesticos">Electrodomesticos</h2>
 
-<h3 id="heladera-whirpool-no-frost-6-sense">Heladera Whirpool No frost 6 Sense</h3>
+<h3 id="heladera-whirpool-no-frost-6-sense-reservada"><del>Heladera Whirpool No frost 6 Sense</del> (RESERVADA)</h3>
 
 <p>Buen estado. Actualmente en uso.</p>
 
@@ -214,14 +214,14 @@ Precio: $ 600
 <!-- USD 25 -->
 <p>Precio: $25.000</p>
 
-<h3 id="exprimidor-electrico">Exprimidor electrico</h3>
+<!-- ### Exprimidor electrico
 
-<p><img src="/blog/assets/Garage_Sale/exprimidor.png" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/exprimidor.png)
 
 <!-- USD 15 -->
-<p>Precio: $ 10.000</p>
+<p>Precio: $ 10.000 –&gt;</p>
 
-<h3 id="tostadora-de-aluminio-reservado"><del>Tostadora de aluminio</del> (RESERVADO)</h3>
+<h3 id="tostadora-de-aluminio">Tostadora de aluminio</h3>
 
 <p><img src="/blog/assets/Garage_Sale/tostadora.png" alt="Foto" /></p>
 
@@ -408,8 +408,8 @@ Tamaño 1.90 x 0.95
 <p><img src="/blog/assets/Garage_Sale/comodaana.jpeg" alt="Foto" /></p>
 
 <!-- USD 140 -->
-<p>Precio: $ 150.000</p>
-
+<p>Precio: $ 150.000
+&lt;!–</p>
 <h3 id="juego-de-escritorio-y-comoda-reservado"><del>Juego de escritorio y comoda</del> (RESERVADO)</h3>
 
 <p>Laqueado. Comoda Impecable, escritorio algun detalle. Se vende junto o por separado.</p>
@@ -425,7 +425,7 @@ Tamaño 1.90 x 0.95
 
 <p>Precio escritorio: $250.000</p>
 
-<p>Precio comoda: $180.000</p>
+<p>Precio comoda: $180.000 –&gt;</p>
 
 <h3 id="mesa-de-cerezo-extensible">Mesa de Cerezo (extensible)</h3>
 
@@ -502,17 +502,17 @@ Tamaño 1.90 x 0.95
 
 <p>Precio juego de 6 sillas: $80.000</p>
 
-<h3 id="mueble-para-tv-reservado"><del>Mueble para tv</del> (RESERVADO)</h3>
+<!-- ### ~~Mueble para tv~~ (RESERVADO)
 
-<p>Madera maciza.</p>
+Madera maciza.
 
-<p>Impecable. 2.5m x 0.40m</p>
+Impecable. 2.5m x 0.40m
 
-<p><img src="/blog/assets/Garage_Sale/mesa_tv.jpeg" alt="Foto" />
-<img src="/blog/assets/Garage_Sale/mesa_tv2.jpeg" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/mesa_tv.jpeg)
+![Foto](/blog/assets/Garage_Sale/mesa_tv2.jpeg)
 
 <!-- 140 -->
-<p>Precio: $ 180.000</p>
+<p>Precio: $ 180.000 –&gt;</p>
 
 <h3 id="espejo-con-marco-de-madera-de-098-x-078-reservado"><del>Espejo con marco de madera de 0.98 x 0.78</del> (RESERVADO)</h3>
 
