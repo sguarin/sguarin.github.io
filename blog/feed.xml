@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-06-22T19:53:13+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente incluso agregando mas cosas.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-06-22T19:54:04+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente incluso agregando mas cosas.</p>
 
 <p>Mensajes por whatsapp: 11-31161975</p>
 
@@ -7,13 +7,13 @@
 <h2 id="rubros">Rubros</h2>
 
 <ul>
-  <li><a href="#aeromodelismo">Aeromodelismo</a></li>
-  <li><a href="#buceo">Buceo</a></li>
+  <li><a href="#aeromodelismo">Aeromodelismo</a>
+<!-- * [Buceo](#buceo) --></li>
   <li><a href="#computacion">Computacion</a></li>
   <li><a href="#deporte">Deporte</a></li>
   <li><a href="#electrodomesticos">Cocina y Electrodomesticos</a></li>
-  <li><a href="#electronica_consumo">Electrónica de consumo</a></li>
-  <li><a href="#electronica">Electrónica</a></li>
+  <li><a href="#electronica_consumo">Electrónica de consumo</a>
+<!-- * [Electrónica](#electronica) --></li>
   <li><a href="#herramientas">Herramientas</a></li>
   <li><a href="#muebles">Muebles</a></li>
   <li><a href="#varios">Varios</a></li>
