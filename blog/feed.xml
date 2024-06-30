@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-06-22T19:54:04+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente incluso agregando mas cosas.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2024-06-30T23:50:28+02:00</updated><id>/blog/feed.xml</id><title type="html">Sebastián Guarino Blog</title><subtitle>Here you will find some articles related to Electronics Engineering and Information Security.</subtitle><entry><title type="html">Garage Sale!</title><link href="/blog/personal/2021/05/30/Garage_Sale.html" rel="alternate" type="text/html" title="Garage Sale!" /><published>2021-05-30T00:00:00+02:00</published><updated>2021-05-30T00:00:00+02:00</updated><id>/blog/personal/2021/05/30/Garage_Sale</id><content type="html" xml:base="/blog/personal/2021/05/30/Garage_Sale.html"><![CDATA[<p>Se actualiza periodicamente incluso agregando mas cosas.</p>
 
 <p>Mensajes por whatsapp: 11-31161975</p>
 
@@ -15,28 +15,26 @@
   <li><a href="#electronica_consumo">Electrónica de consumo</a>
 <!-- * [Electrónica](#electronica) --></li>
   <li><a href="#herramientas">Herramientas</a></li>
-  <li><a href="#muebles">Muebles</a></li>
-  <li><a href="#varios">Varios</a></li>
+  <li><a href="#muebles">Muebles</a>
+<!-- * [Varios](#varios) --></li>
 </ul>
 
 <h2 id="aeromodelismo">Aeromodelismo</h2>
 
-<h3 id="transmisor-futaba-10cp--3-receptores-reservado">Transmisor Futaba 10CP + 3 receptores (RESERVADO)</h3>
+<!-- ### Transmisor Futaba 10CP + 3 receptores (RESERVADO)
 
-<ul>
-  <li>Estado impecable (como nuevo).</li>
-  <li>Admite otros módulos transmisores.</li>
-  <li>Módulo transmisor 2.4Ghz futaba</li>
-  <li>Módulo receptor original Futaba.</li>
-  <li>2 Módulos receptor adicionales marca Orange.</li>
-  <li>Manual español e inglés.</li>
-</ul>
+* Estado impecable (como nuevo).
+* Admite otros módulos transmisores.
+* Módulo transmisor 2.4Ghz futaba
+* Módulo receptor original Futaba.
+* 2 Módulos receptor adicionales marca Orange.
+* Manual español e inglés.
 
-<p><img src="/blog/assets/Garage_Sale/futaba1.jpg" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/futaba1.jpg)
 
-<p><img src="/blog/assets/Garage_Sale/futaba2.jpg" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/futaba2.jpg)
 
-<p>Precio: USD 400 (o equivalente)</p>
+Precio: USD 400 (o equivalente) -->
 
 <h3 id="kit-avión-skywalker-1900-fpv">Kit Avión Skywalker 1900 FPV</h3>
 
@@ -61,15 +59,13 @@
 
 <p>Precio: USD 100 (o equivalente)</p>
 
-<h3 id="avion-pegasus-reservado">Avion Pegasus (RESERVADO)</h3>
+<!-- ### Avion Pegasus (RESERVADO)
 
-<ul>
-  <li>Muy buen estado</li>
-  <li>Toda la electrónica salvo el receptor.</li>
-  <li>2 Lipos</li>
-</ul>
+* Muy buen estado
+* Toda la electrónica salvo el receptor.
+* 2 Lipos
 
-<p>Precio: USD 50 (o equivalente)</p>
+Precio: USD 50 (o equivalente) -->
 
 <!-- ## Buceo {#buceo} -->
 
@@ -130,13 +126,13 @@ Precio: $15.000
 
 <h2 id="deporte">Deporte</h2>
 
-<h3 id="aletas-body">Aletas body</h3>
+<!-- ### Aletas body
 
-<p>Marca blunt cut.</p>
+Marca blunt cut.
 
-<p><img src="/blog/assets/Garage_Sale/aletas_body.png" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/aletas_body.png)
 
-<p>Precio: USD 50 (o equivalente)</p>
+Precio: USD 50 (o equivalente) -->
 
 <h3 id="tabla-body">Tabla body</h3>
 
@@ -221,22 +217,12 @@ Precio: $ 580.000 -->
 <!-- USD 15 -->
 <!-- Precio: $ 10.000 -->
 
-<h3 id="tostadora-de-aluminio-reservado">Tostadora de aluminio (RESERVADO)</h3>
+<!-- ### Tostadora de aluminio (RESERVADO)
 
-<p><img src="/blog/assets/Garage_Sale/tostadora.png" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/tostadora.png) -->
 
 <!-- USD 25 -->
-<p>Precio: $ 20.000</p>
-
-<h3 id="juego-de-cubiertos-tramontina-viena">Juego de cubiertos Tramontina Viena</h3>
-
-<p><img src="/blog/assets/Garage_Sale/cubiertos.jpeg" alt="Foto" width="50%" /></p>
-
-<p><img src="/blog/assets/Garage_Sale/cubiertos2.jpeg" alt="Foto" width="50%" /></p>
-
-<p><img src="/blog/assets/Garage_Sale/cubiertos3.jpeg" alt="Foto" width="50%" /></p>
-
-<p>Precio: $250.000</p>
+<!-- Precio: $ 20.000 -->
 
 <!--
 
@@ -252,11 +238,11 @@ Precio: $ 6.000
 
 <h2 id="electronica_consumo">Electronica de consumo</h2>
 
-<h3 id="microondas-grande-bgh-quick-chef-reservado">Microondas Grande BGH Quick Chef (RESERVADO)</h3>
+<!-- ### Microondas Grande BGH Quick Chef (RESERVADO)
 
-<p><img src="/blog/assets/Garage_Sale/microondas.jpg" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/microondas.jpg)
 
-<p>Precio: $ 80.000</p>
+Precio: $ 80.000 -->
 
 <!-- ### Impresora Multifunción Epson L365 (tinta continua)
 
@@ -354,13 +340,13 @@ Precio: USD 55
 
 <p>Precio: $28.000</p>
 
-<h3 id="juego-de-parlantes-sony-4-canales">Juego de Parlantes Sony 4 canales</h3>
+<!-- ### Juego de Parlantes Sony 4 canales
 
-<p>Era de un minicomponentes y se uso en un home theather.</p>
+Era de un minicomponentes y se uso en un home theather.
 
-<p><img src="/blog/assets/Garage_Sale/parlantes_sony.jpg" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/parlantes_sony.jpg)
 
-<p>Precio: $30.000</p>
+Precio: $30.000 -->
 
 <h3 id="juego-de-parlantes-sony-chicos-3-canales">Juego de Parlantes Sony chicos 3 canales</h3>
 
@@ -376,31 +362,31 @@ Precio: USD 55
 
 <p>Precio: $50.000</p>
 
-<h3 id="playstation-3-slim-de-320-gb-con-4-controles--juegos-precio-actualizado">Playstation 3 Slim De 320 Gb Con 4 Controles + Juegos (precio actualizado)</h3>
+<!-- ### Playstation 3 Slim De 320 Gb Con 4 Controles + Juegos (precio actualizado)
 
-<p>Se vende una PlayStation 3 Slim con 2 controles y varios juegos como: Uncharted 2, The Last of Us, Gran Turismo 5, PES 2011, Call of Duty Ghost y Call of Duty Black Ops.
-Tambien se vende un PlayStation Move sharp shooter con dos controles de movimiento de PlayStation 3 y dos juegos compatibles con estos: Sports Champions y Socom 4.</p>
+Se vende una PlayStation 3 Slim con 2 controles y varios juegos como: Uncharted 2, The Last of Us, Gran Turismo 5, PES 2011, Call of Duty Ghost y Call of Duty Black Ops.
+Tambien se vende un PlayStation Move sharp shooter con dos controles de movimiento de PlayStation 3 y dos juegos compatibles con estos: Sports Champions y Socom 4.
 
-<p><img src="/blog/assets/Garage_Sale/ps3.webp" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/ps3.webp)
 
-<p><img src="/blog/assets/Garage_Sale/ps32.webp" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/ps32.webp)
 
-<p><img src="/blog/assets/Garage_Sale/ps33.webp" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/ps33.webp)
 
-<p><img src="/blog/assets/Garage_Sale/ps34.webp" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/ps34.webp)
 
-<p>Precio: $150.000</p>
+Precio: $150.000 -->
 
 <h2 id="herramientas">Herramientas</h2>
 
-<h3 id="amoladora-black--decker-820w">Amoladora Black &amp; Decker 820W</h3>
+<!-- ### Amoladora Black & Decker 820W
 
-<p>Solo 1 uso.</p>
+Solo 1 uso.
 
-<p><img src="/blog/assets/Garage_Sale/amoladora.jpg" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/amoladora.jpg) -->
 
 <!-- USD 30 -->
-<p>Precio: $ 30.000</p>
+<!-- Precio: $ 30.000 -->
 
 <!--
 ### Lijadora Black & Decker 135W
@@ -415,16 +401,16 @@ Precio: $ 40.000
 
 <h2 id="muebles">Muebles</h2>
 
-<h3 id="mesa-de-apoyo-de-vidrio">Mesa de apoyo de vidrio</h3>
+<!-- ### Mesa de apoyo de vidrio -->
 
 <!-- Ideal para los costados de un sillon. 50cm de diametro y 71cm de altura. -->
-<p>Ideal para los costados de un sillon. 50cm de diametro y altura regulable.</p>
+<!-- Ideal para los costados de un sillon. 50cm de diametro y altura regulable.
 
-<p><img src="/blog/assets/Garage_Sale/mesitas.jpeg" alt="Foto" />
-<img src="/blog/assets/Garage_Sale/mesitas2.jpeg" alt="Foto" />
-<img src="/blog/assets/Garage_Sale/mesitas3.jpeg" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/mesitas.jpeg)
+![Foto](/blog/assets/Garage_Sale/mesitas2.jpeg)
+![Foto](/blog/assets/Garage_Sale/mesitas3.jpeg)
 
-<p>Precio: $ 60.000</p>
+Precio: $ 60.000 -->
 
 <!--
 ### Biblioteca de Cerezo
@@ -524,17 +510,27 @@ Impecable. 2.5m x 0.40m
 <!-- 140 -->
 <!-- Precio: $ 180.000 -->
 
-<h2 id="varios">Varios</h2>
+<!-- ## Varios {#varios} -->
 
-<h3 id="caja-fuerte-precio-actualizado-reservado">Caja fuerte (precio actualizado) (RESERVADO)</h3>
+<!-- ### Caja fuerte (precio actualizado) (RESERVADO)
 
-<p>Caja Fuerte Digital 23x17x17cm 4.2lt, Marca Karson</p>
+Caja Fuerte Digital 23x17x17cm 4.2lt, Marca Karson
 
-<p>1 Llave y contraseña</p>
+1 Llave y contraseña
 
-<p><img src="/blog/assets/Garage_Sale/caja_fuerte.webp" alt="Foto" /></p>
+![Foto](/blog/assets/Garage_Sale/caja_fuerte.webp)
 
-<p>Precio: $ 30.000 (REBAJADO)</p>]]></content><author><name></name></author><category term="personal" /><summary type="html"><![CDATA[Se actualiza periodicamente incluso agregando mas cosas.]]></summary></entry><entry><title type="html">Avoiding SQL Injections: MQTT + Node-red + SQL database</title><link href="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html" rel="alternate" type="text/html" title="Avoiding SQL Injections: MQTT + Node-red + SQL database" /><published>2021-05-03T00:00:00+02:00</published><updated>2021-05-03T00:00:00+02:00</updated><id>/blog/embedded/iot/2021/05/03/MQTT-Node-red</id><content type="html" xml:base="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html"><![CDATA[<h2 id="introduction">Introduction</h2>
+Precio: $ 30.000 (REBAJADO) -->
+
+<!-- ### Juego de cubiertos Tramontina Viena
+
+![Foto](/blog/assets/Garage_Sale/cubiertos.jpeg){:width="50%"}
+
+![Foto](/blog/assets/Garage_Sale/cubiertos2.jpeg){:width="50%"}
+
+![Foto](/blog/assets/Garage_Sale/cubiertos3.jpeg){:width="50%"}
+
+Precio: $250.000 -->]]></content><author><name></name></author><category term="personal" /><summary type="html"><![CDATA[Se actualiza periodicamente incluso agregando mas cosas.]]></summary></entry><entry><title type="html">Avoiding SQL Injections: MQTT + Node-red + SQL database</title><link href="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html" rel="alternate" type="text/html" title="Avoiding SQL Injections: MQTT + Node-red + SQL database" /><published>2021-05-03T00:00:00+02:00</published><updated>2021-05-03T00:00:00+02:00</updated><id>/blog/embedded/iot/2021/05/03/MQTT-Node-red</id><content type="html" xml:base="/blog/embedded/iot/2021/05/03/MQTT-Node-red.html"><![CDATA[<h2 id="introduction">Introduction</h2>
 
 <p>Last year I have been working on an embedded solution of remote sensing electric and physical parameters. In <a href="https://sguarin.github.io/presentaciones/seguridad-mqtt/">this</a> presentation I talked about differents aproachs to implement MQTT/TLS connection with authentication validation between an embedded solution and a broker. The examples were presented using ESP32 and the arduino framework.</p>
 
